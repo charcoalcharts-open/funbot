@@ -1,120 +1,17 @@
 lang,word
-Proto-Germanic,It
-Middle English,It
-Old English,It
-Middle English,The
-Proto-Germanic,The
-Old English,The
-Proto-Germanic,You
-Middle English,You
-Old English,You
-Proto-West Germanic,You
+Ancient Greek,A
+Latin,A
+Old French,A
+Old Latin,A
+Ancient Greek,Abilene
 Proto-Germanic,About
 Old English,About
 Middle English,About
-Old English,Forget
-Latin,I
+Chinese,Ah
 Proto-Germanic,And
 Old English,And
 Middle English,And
 Proto-West Germanic,And
-Proto-Germanic,My
-Middle English,My
-Old English,My
-Proto-West Germanic,My
-Proto-Germanic,Your
-Middle English,Your
-Proto-Germanic,Do
-Old English,Do
-Middle English,Do
-Proto-West Germanic,Do
-Proto-Germanic,Is
-Middle English,Is
-Old English,Is
-Old English,Let
-Proto-Germanic,Let
-Old English,Not
-Proto-Germanic,Not
-Middle English,Not
-Proto-West Germanic,Not
-Latin,Oh
-Old English,Oh
-Proto-Germanic,Oh
-Middle English,Oh
-Proto-West Germanic,Oh
-Proto-Germanic,So
-Old English,So
-Middle English,So
-Proto-West Germanic,So
-Proto-Germanic,Us
-Middle English,Us
-Old English,Us
-Old Norse,Give
-Proto-Germanic,Give
-Proto-Germanic,That
-Old English,That
-Middle English,That
-Proto-Germanic,Else
-Old English,Else
-Proto-West Germanic,Else
-Old English,From
-Proto-Germanic,From
-Old Norse,From
-Middle English,From
-Proto-Germanic,Me
-Middle English,Me
-Old English,Me
-Latin,No
-Old High German,No
-Proto-Italic,No
-German,No
-Old English,No
-Proto-Germanic,No
-Middle English,No
-Old French,No
-Proto-West Germanic,No
-Late Latin,No
-Middle English,Or
-Old English,Or
-Old English,Smooth
-Proto-Germanic,Smooth
-Proto-Germanic,Be
-Middle English,Be
-Old English,Be
-Proto-West Germanic,Be
-Old English,Heart
-Proto-Germanic,Heart
-Middle English,Heart
-Proto-West Germanic,Heart
-Proto-Germanic,Hey
-Old English,Hey
-Middle English,Hey
-Proto-West Germanic,Hey
-Proto-Germanic,Life
-Old English,Life
-Middle English,Life
-Proto-West Germanic,Life
-Frankish,Life
-Proto-Germanic,Like
-Old English,Like
-Middle English,Like
-Proto-Germanic,Make
-Old English,Make
-Middle English,Make
-Proto-West Germanic,Make
-Middle English,Of
-Old English,Of
-Proto-Germanic,Of
-Proto-West Germanic,Of
-Proto-Germanic,Real
-Old English,Real
-Middle English,Real
-Latin,To
-Middle English,To
-Late Latin,To
-Proto-Germanic,Would
-Old English,Would
-Middle English,Would
 Old English,Are
 Proto-Germanic,Are
 Middle English,Are
@@ -123,130 +20,16 @@ Latin,As
 Old French,As
 Middle English,As
 Old English,As
-Latin,Can
-Ancient Greek,Can
-Akkadian,Can
-Old French,Can
-Old English,Can
-Proto-Germanic,Can
-Middle English,Can
-Sumerian,Can
-Proto-West Germanic,Can
-Latin,Emotion
-French,Emotion
-Middle French,Emotion
-Old French,Emotion
-Old Norse,Get
-Proto-Germanic,Get
-Proto-Germanic,Hear
-Middle English,Hear
-Old English,Hear
-Proto-Germanic,If
-Middle English,If
-Old English,If
-Latin,Just
-Proto-Italic,Just
-Old English,Kind
-Proto-Germanic,Kind
-Middle English,Kind
-Old English,Loving
-Proto-Germanic,Loving
-Middle English,Loving
-Proto-Germanic,Moon
-Middle English,Moon
-Old English,Moon
-Latin,Ocean
-Ancient Greek,Ocean
-Old French,Ocean
-Middle English,Ocean
-Old Norse,Same
-Proto-Germanic,Same
-Proto-Germanic,Under
-Old English,Under
-Proto-Germanic,Well
-Old English,Well
-Middle English,Well
-Proto-West Germanic,Well
-Proto-Germanic,World
-Middle English,World
-Old English,World
-Proto-West Germanic,World
-Ancient Greek,A
-Latin,A
-Old French,A
-Old Latin,A
-Proto-Germanic,Better
-Old English,Better
-Middle English,Better
-Latin,Change
-Gaulish,Change
-Proto-Celtic,Change
-Middle English,Change
-Old French,Change
-Anglo-Norman,Change
-Late Latin,Change
-Latin,Cos
-Old English,Cos
-Proto-Germanic,Cos
-Old Latin,Cos
-Middle English,Cos
-Old French,Cos
-Proto-West Germanic,Cos
-Proto-Germanic,Enough
-Old English,Enough
-Middle English,Enough
-Middle English,Every
-Old English,Every
-Proto-Germanic,Good
-Middle English,Good
-Old English,Good
-Proto-West Germanic,Good
-Old English,In
-Proto-Germanic,In
-Middle English,In
-Old Norse,Lift
-Proto-Germanic,Lift
-Old English,Mood
-Proto-Germanic,Mood
-Middle English,Mood
-Middle Dutch,Mood
-Proto-Germanic,One
-Middle English,One
-Old English,One
-Old Norse,One
-Proto-West Germanic,One
-Proto-Germanic,Out
-Old English,Out
-Latin,Reason
-Proto-Italic,Reason
-Anglo-Norman,Reason
-Middle English,Reason
-Latin,Round
-Italian,Round
-Middle English,Round
-Old English,Round
-Proto-Germanic,Round
-Old French,Round
-Proto-West Germanic,Round
-Latin,Suit
-Proto-Italic,Suit
-Anglo-Norman,Suit
-Middle English,Suit
-Proto-Germanic,This
-Old English,This
-Middle English,This
-Latin,Turning
-Ancient Greek,Turning
-Old English,Turning
-Middle English,Turning
-Old French,Turning
-Proto-Germanic,Turning
-Proto-Germanic,Up
-Old English,Up
-Chinese,Ah
 Spanish,Barrio
 Andalusian Arabic,Barrio
 Arabic,Barrio
+Proto-Germanic,Be
+Middle English,Be
+Old English,Be
+Proto-West Germanic,Be
+Proto-Germanic,Better
+Old English,Better
+Middle English,Better
 Middle English,Breath
 Proto-Germanic,Breath
 Old English,Breath
@@ -256,9 +39,33 @@ Old English,Calling
 Middle English,Calling
 Proto-Germanic,Calling
 Old Norse,Calling
+Latin,Can
+Ancient Greek,Can
+Akkadian,Can
+Old French,Can
+Old English,Can
+Proto-Germanic,Can
+Middle English,Can
+Sumerian,Can
+Proto-West Germanic,Can
+Latin,Change
+Gaulish,Change
+Proto-Celtic,Change
+Middle English,Change
+Old French,Change
+Anglo-Norman,Change
+Late Latin,Change
+French,Come
 Proto-Germanic,Cool
 Old English,Cool
 Proto-West Germanic,Cool
+Latin,Cos
+Old English,Cos
+Proto-Germanic,Cos
+Old Latin,Cos
+Middle English,Cos
+Old French,Cos
+Proto-West Germanic,Cos
 Latin,Could
 Proto-Germanic,Could
 Old English,Could
@@ -271,10 +78,30 @@ Middle English,Crying
 Old French,Crying
 Proto-Germanic,Crying
 Medieval Latin,Crying
+Proto-Germanic,Do
+Old English,Do
+Middle English,Do
+Proto-West Germanic,Do
+Proto-Celtic,Down
+Irish,Down
+Old Irish,Down
+Old English,Each
+Proto-Germanic,Else
+Old English,Else
+Proto-West Germanic,Else
+Latin,Emotion
+French,Emotion
+Middle French,Emotion
+Old French,Emotion
+Proto-Germanic,Enough
+Old English,Enough
+Middle English,Enough
 French,Equita
 Latin,Equita
 Middle French,Equita
 Old French,Equita
+Middle English,Every
+Old English,Every
 Proto-Germanic,Feel
 Middle English,Feel
 Old English,Feel
@@ -282,42 +109,195 @@ Middle English,For
 Proto-Germanic,For
 Old English,For
 Proto-West Germanic,For
+Old English,Forget
+Old English,From
+Proto-Germanic,From
+Old Norse,From
+Middle English,From
+Old Norse,Get
+Proto-Germanic,Get
+Old Norse,Give
+Proto-Germanic,Give
+Japanese,Go
+Chinese,Go
+Proto-Germanic,Good
+Middle English,Good
+Old English,Good
+Proto-West Germanic,Good
+Latin,Got
 Proto-Germanic,Groove
 Middle English,Groove
 Old English,Groove
+Alemannic German,Hang
+Proto-Germanic,Hear
+Middle English,Hear
+Old English,Hear
+Old English,Heart
+Proto-Germanic,Heart
+Middle English,Heart
+Proto-West Germanic,Heart
+Ancient Greek,Her
+Proto-Germanic,Hey
+Old English,Hey
+Middle English,Hey
+Proto-West Germanic,Hey
 Proto-Germanic,Hot
 Old English,Hot
 Middle English,Hot
+Latin,I
+Proto-Germanic,If
+Middle English,If
+Old English,If
+Old English,In
+Proto-Germanic,In
+Middle English,In
+Proto-Germanic,Is
+Middle English,Is
+Old English,Is
+Proto-Germanic,It
+Middle English,It
+Old English,It
+Latin,Just
+Proto-Italic,Just
+Old English,Kind
+Proto-Germanic,Kind
+Middle English,Kind
 Latin,La
 Proto-Germanic,Leave
 Old English,Leave
+Old English,Let
+Proto-Germanic,Let
+Proto-Germanic,Life
+Old English,Life
+Middle English,Life
+Proto-West Germanic,Life
+Frankish,Life
+Old Norse,Lift
+Proto-Germanic,Lift
+Proto-Germanic,Like
+Old English,Like
+Middle English,Like
+Latin,Live
+Proto-Italic,Live
+Proto-Germanic,Live
+Old English,Live
+Old French,Live
+Middle English,Live
+Old English,Loving
+Proto-Germanic,Loving
+Middle English,Loving
+Proto-Germanic,Make
+Old English,Make
+Middle English,Make
+Proto-West Germanic,Make
 Proto-Germanic,Man
 Old English,Man
 Middle English,Man
 Old Norse,Man
 Proto-West Germanic,Man
+Proto-Germanic,Me
+Middle English,Me
+Old English,Me
 Old English,Melt
 Proto-Germanic,Melt
 Middle English,Melt
 Old English,Midday
 Arabic,Mona
 Spanish,Mona
+Old English,Mood
+Proto-Germanic,Mood
+Middle English,Mood
+Middle Dutch,Mood
+Proto-Germanic,Moon
+Middle English,Moon
+Old English,Moon
 Ancient Greek,Mu
+Proto-Germanic,My
+Middle English,My
+Old English,My
+Proto-West Germanic,My
 Proto-Germanic,Name
 Old English,Name
 Middle English,Name
 Proto-West Germanic,Name
+Latin,No
+Old High German,No
+Proto-Italic,No
+German,No
+Old English,No
+Proto-Germanic,No
+Middle English,No
+Old French,No
+Proto-West Germanic,No
+Late Latin,No
+Old English,Not
+Proto-Germanic,Not
+Middle English,Not
+Proto-West Germanic,Not
+Polish,Now
+Proto-Slavic,Now
+Latin,Ocean
+Ancient Greek,Ocean
+Old French,Ocean
+Middle English,Ocean
+Middle English,Of
+Old English,Of
+Proto-Germanic,Of
+Proto-West Germanic,Of
+Latin,Oh
+Old English,Oh
+Proto-Germanic,Oh
+Middle English,Oh
+Proto-West Germanic,Oh
 Proto-Germanic,On
 Old English,On
 Middle English,On
 Proto-West Germanic,On
+Proto-Germanic,One
+Middle English,One
+Old English,One
+Old Norse,One
+Proto-West Germanic,One
+Middle English,Or
+Old English,Or
+Proto-Germanic,Out
+Old English,Out
+Latin,Place
+Ancient Greek,Place
+Middle English,Place
+Old French,Place
+Old English,Place
+Proto-Germanic,Place
 Ancient Greek,Radio
 Latin,Radio
 French,Radio
 Proto-Hellenic,Radio
+Proto-Germanic,Real
+Old English,Real
+Middle English,Real
+Latin,Reason
+Proto-Italic,Reason
+Anglo-Norman,Reason
+Middle English,Reason
 Ancient Greek,Rhythm
 Latin,Rhythm
+Latin,River
+Old French,River
+Middle English,River
+Anglo-Norman,River
+Vulgar Latin,River
+Hebrew,Roseanna
+Ancient Greek,Roseanna
+Latin,Round
+Italian,Round
+Middle English,Round
+Old English,Round
+Proto-Germanic,Round
+Old French,Round
+Proto-West Germanic,Round
 Middle English,Said
+Old Norse,Same
+Proto-Germanic,Same
 Proto-Germanic,Say
 Old English,Say
 Middle English,Say
@@ -329,6 +309,12 @@ Proto-West Germanic,Seven
 Proto-Germanic,Shame
 Proto-Germanic,Slow
 Old English,Slow
+Old English,Smooth
+Proto-Germanic,Smooth
+Proto-Germanic,So
+Old English,So
+Middle English,So
+Proto-West Germanic,So
 Middle English,Soft
 Old English,Soft
 Proto-West Germanic,Soft
@@ -339,6 +325,10 @@ Frankish,Stay
 Proto-Germanic,Step
 Old English,Step
 Middle English,Step
+Latin,Suit
+Proto-Italic,Suit
+Anglo-Norman,Suit
+Middle English,Suit
 Old English,Sun
 Middle English,Sun
 Proto-Germanic,Sun
@@ -346,8 +336,40 @@ Proto-West Germanic,Sun
 Proto-Germanic,Tell
 Middle English,Tell
 Old English,Tell
+Cherokee,Tennessee
+Spanish,Texas
+Caddo,Texas
+Proto-Germanic,That
+Old English,That
+Middle English,That
+Middle English,The
+Proto-Germanic,The
+Old English,The
 Proto-Germanic,Thing
 Old English,Thing
+Proto-Germanic,This
+Old English,This
+Middle English,This
+Latin,To
+Middle English,To
+Late Latin,To
+Latin,Turning
+Ancient Greek,Turning
+Old English,Turning
+Middle English,Turning
+Old French,Turning
+Proto-Germanic,Turning
+Proto-Germanic,Under
+Old English,Under
+Proto-Germanic,Up
+Old English,Up
+Proto-Germanic,Us
+Middle English,Us
+Old English,Us
+Proto-Germanic,Well
+Old English,Well
+Middle English,Well
+Proto-West Germanic,Well
 Old English,Whisper
 Proto-Germanic,Whisper
 Proto-Germanic,Will
@@ -358,3 +380,16 @@ Proto-Germanic,Word
 Old English,Word
 Middle English,Word
 Proto-West Germanic,Word
+Proto-Germanic,World
+Middle English,World
+Old English,World
+Proto-West Germanic,World
+Proto-Germanic,Would
+Old English,Would
+Middle English,Would
+Proto-Germanic,You
+Middle English,You
+Old English,You
+Proto-West Germanic,You
+Proto-Germanic,Your
+Middle English,Your
