@@ -119,6 +119,19 @@ Proto-Indo-European,Bad
 Proto-Germanic,Bad
 Old English,Bad
 Middle English,Bad
+English,Ball
+Proto-Indo-European,Ball
+Proto-Germanic,Ball
+Middle English,Ball
+Old English,Ball
+Old Norse,Ball
+English,Band
+Proto-Indo-European,Band
+Proto-Germanic,Band
+Old Norse,Band
+Old English,Band
+Middle English,Band
+Translingual,Band
 French,Bar
 English,Bar
 Ancient Greek,Bar
@@ -151,12 +164,27 @@ Proto-Germanic,Be
 Middle English,Be
 Old English,Be
 Proto-West Germanic,Be
+Latin,Because
+English,Because
+Proto-Indo-European,Because
+Old English,Because
+Proto-Germanic,Because
+Old Latin,Because
+Middle English,Because
+Old French,Because
+Proto-West Germanic,Because
 English,Been
 Proto-Indo-European,Been
 Old English,Been
 Proto-Germanic,Been
 Middle English,Been
 Proto-West Germanic,Been
+Proto-Indo-European,Beer
+English,Beer
+Proto-Germanic,Beer
+Old English,Beer
+Middle English,Beer
+Proto-West Germanic,Beer
 Proto-Indo-European,Beers
 English,Beers
 Proto-Germanic,Beers
@@ -231,6 +259,17 @@ Old French,Boy
 Middle English,Boy
 Frankish,Boy
 Old English,Boy
+Proto-Indo-European,Boys
+English,Boys
+Ancient Greek,Boys
+Middle Dutch,Boys
+Latin,Boys
+Proto-Hellenic,Boys
+Proto-Germanic,Boys
+Old French,Boys
+Middle English,Boys
+Frankish,Boys
+Old English,Boys
 Middle English,Breath
 Proto-Germanic,Breath
 Old English,Breath
@@ -260,6 +299,7 @@ Proto-Germanic,Burn
 Old English,Burn
 Middle English,Burn
 Proto-West Germanic,Burn
+English,Busting
 Middle English,But
 Old English,But
 English,By
@@ -322,6 +362,12 @@ Anglo-Norman,Catching
 Late Latin,Catching
 Vulgar Latin,Catching
 English,Caution
+Latin,Chance
+Proto-Indo-European,Chance
+English,Chance
+Proto-Italic,Chance
+Old French,Chance
+Vulgar Latin,Chance
 Latin,Change
 Gaulish,Change
 Proto-Celtic,Change
@@ -332,6 +378,11 @@ Late Latin,Change
 English,Cheated
 French,Chevrolet
 English,Chevrolet
+Proto-Indo-European,Clean
+English,Clean
+Proto-Germanic,Clean
+Middle English,Clean
+Old English,Clean
 Proto-Indo-European,Climb
 English,Climb
 Old English,Climb
@@ -428,6 +479,14 @@ Anglo-Norman,County
 Middle English,County
 Old English,County
 English,Crashed
+English,Crazy
+Latin,Crazy
+Proto-Indo-European,Crazy
+Middle English,Crazy
+Proto-Germanic,Crazy
+Old English,Crazy
+Old Norse,Crazy
+Old French,Crazy
 English,Crunching
 English,Cry
 Proto-Indo-European,Cry
@@ -506,6 +565,9 @@ Proto-Indo-European,Door
 English,Door
 Proto-Germanic,Door
 Old English,Door
+English,Double
+Latin,Double
+Old French,Double
 Proto-Indo-European,Down
 English,Down
 Gaulish,Down
@@ -518,6 +580,11 @@ Proto-Germanic,Dreams
 Old English,Dreams
 Middle English,Dreams
 Proto-West Germanic,Dreams
+English,Drinking
+Proto-Germanic,Drinking
+Old English,Drinking
+Middle English,Drinking
+Proto-Indo-European,Drinking
 English,Drown
 Middle English,Drown
 English,Drunk
@@ -547,10 +614,17 @@ Proto-Germanic,Each
 Middle English,Each
 Old English,Each
 English,Earned
+English,Eight
+Proto-Indo-European,Eight
+Proto-Germanic,Eight
+Old English,Eight
+Middle English,Eight
+Proto-West Germanic,Eight
 English,Eileen
 Proto-Germanic,Else
 Old English,Else
 Proto-West Germanic,Else
+English,Em
 Latin,Emotion
 French,Emotion
 Middle French,Emotion
@@ -652,6 +726,7 @@ Old English,Fire
 Middle English,Fire
 Proto-West Germanic,Fire
 English,Fishing
+English,Fisted
 English,Fit
 Middle English,Fit
 English,Flatbed
@@ -709,6 +784,8 @@ Old English,From
 Proto-Germanic,From
 Old Norse,From
 Middle English,From
+English,Fun
+Middle English,Fun
 English,Game
 Proto-Indo-European,Game
 Proto-Germanic,Game
@@ -787,6 +864,8 @@ Proto-Germanic,Grow
 Old English,Grow
 English,Guess
 Middle English,Guess
+English,Gun
+Middle English,Gun
 English,Had
 Middle English,Had
 Old English,Had
@@ -795,6 +874,12 @@ Proto-Indo-European,Hair
 Middle English,Hair
 Proto-Germanic,Hair
 Old English,Hair
+English,Half
+Proto-Indo-European,Half
+Proto-Germanic,Half
+Old English,Half
+Middle English,Half
+Proto-West Germanic,Half
 English,Hand
 Old English,Hand
 Proto-Germanic,Hand
@@ -911,6 +996,12 @@ Proto-Germanic,Home
 Old English,Home
 Middle English,Home
 Proto-West Germanic,Home
+English,Hooter
+Latin,Hooter
+Proto-Indo-European,Hooter
+Middle English,Hooter
+Proto-Germanic,Hooter
+Old English,Hooter
 Proto-Germanic,Hot
 Old English,Hot
 Middle English,Hot
@@ -949,7 +1040,11 @@ Old English,Is
 Proto-Germanic,It
 Middle English,It
 Old English,It
+English,Jack
 English,Jacked
+English,Jeans
+Old French,Jeans
+Middle English,Jeans
 English,Job
 Latin,Just
 Proto-Italic,Just
@@ -1004,6 +1099,10 @@ Proto-Germanic,Least
 Old English,Least
 Proto-Germanic,Leave
 Old English,Leave
+English,Leaving
+Proto-Indo-European,Leaving
+Proto-Germanic,Leaving
+Old English,Leaving
 English,Left
 Proto-Indo-European,Left
 Old English,Left
@@ -1036,6 +1135,11 @@ Proto-West Germanic,Light
 Proto-Germanic,Like
 Old English,Like
 Middle English,Like
+English,Lines
+Proto-Indo-European,Lines
+Old English,Lines
+Middle English,Lines
+Proto-Germanic,Lines
 English,Little
 Proto-Indo-European,Little
 Old English,Little
@@ -1338,6 +1442,12 @@ English,Parole
 Old French,Parole
 Late Latin,Parole
 English,Parted
+Latin,Party
+Proto-Indo-European,Party
+English,Party
+Proto-Italic,Party
+Anglo-Norman,Party
+Medieval Latin,Party
 Latin,Past
 English,Past
 Proto-Indo-European,Past
@@ -1364,6 +1474,15 @@ English,Penitentiary
 Latin,Penitentiary
 Proto-Indo-European,Penitentiary
 Medieval Latin,Penitentiary
+English,Pick
+Proto-Indo-European,Pick
+Middle Dutch,Pick
+Middle English,Pick
+Proto-Germanic,Pick
+Old Norse,Pick
+Old Saxon,Pick
+Proto-West Germanic,Pick
+Middle Low German,Pick
 Latin,Pile
 English,Pile
 Proto-Indo-European,Pile
@@ -1414,6 +1533,11 @@ Proto-Germanic,Pretty
 Old English,Pretty
 English,Probably
 English,Pulled
+English,Purple
+Latin,Purple
+Ancient Greek,Purple
+Middle English,Purple
+Old English,Purple
 Proto-Indo-European,Push
 Latin,Push
 English,Push
@@ -1501,6 +1625,11 @@ Proto-Germanic,Road
 Old English,Road
 Middle English,Road
 Proto-West Germanic,Road
+English,Rocks
+Proto-Indo-European,Rocks
+Proto-Germanic,Rocks
+Old English,Rocks
+Middle English,Rocks
 English,Romance
 Latin,Romance
 Proto-Indo-European,Romance
@@ -1518,6 +1647,12 @@ Old English,Round
 Proto-Germanic,Round
 Old French,Round
 Proto-West Germanic,Round
+English,Rowdy
+Proto-Indo-European,Rowdy
+Proto-Germanic,Rowdy
+Middle English,Rowdy
+Old English,Rowdy
+Proto-West Germanic,Rowdy
 English,Rumored
 English,Run
 Proto-Indo-European,Run
@@ -1601,6 +1736,12 @@ Proto-Germanic,Shine
 Middle English,Shine
 Proto-Indo-European,Shine
 Proto-West Germanic,Shine
+English,Shooter
+Old English,Shooter
+English,Shooting
+Proto-Indo-European,Shooting
+Proto-Germanic,Shooting
+Old English,Shooting
 English,Show
 Proto-Germanic,Show
 Old English,Show
@@ -1679,6 +1820,12 @@ Middle English,Someday
 Proto-West Germanic,Someday
 English,Somehow
 English,Something
+English,Son
+Proto-Indo-European,Son
+Proto-Germanic,Son
+Old English,Son
+Middle English,Son
+Proto-West Germanic,Son
 English,Soul
 Proto-Indo-European,Soul
 Proto-Germanic,Soul
@@ -1694,6 +1841,10 @@ English,Spring
 Proto-Germanic,Spring
 Old English,Spring
 Middle English,Spring
+English,Start
+Proto-Indo-European,Start
+Middle English,Start
+Proto-West Germanic,Start
 Proto-Germanic,Stay
 Old French,Stay
 Middle Dutch,Stay
@@ -1876,6 +2027,11 @@ Proto-Indo-European,Through
 Proto-Germanic,Through
 Old English,Through
 Middle English,Through
+English,Throw
+Proto-Indo-European,Throw
+Proto-Germanic,Throw
+Old English,Throw
+Proto-West Germanic,Throw
 English,Tide
 Proto-Indo-European,Tide
 Proto-Germanic,Tide
@@ -1928,6 +2084,14 @@ Proto-Germanic,Trailer
 Old French,Trailer
 Vulgar Latin,Trailer
 English,Transcendental
+English,Trashy
+Latin,Trashy
+Proto-Indo-European,Trashy
+Middle English,Trashy
+Proto-Germanic,Trashy
+Old English,Trashy
+Old French,Trashy
+Old Norse,Trashy
 English,Tricks
 English,Tripping
 Middle English,Tripping
@@ -1941,6 +2105,12 @@ Middle English,True
 Proto-Germanic,True
 Old English,True
 Proto-West Germanic,True
+English,Try
+Proto-Indo-European,Try
+Latin,Try
+Old French,Try
+Middle English,Try
+Anglo-Norman,Try
 English,Trying
 Proto-Indo-European,Trying
 Latin,Trying
@@ -1969,6 +2139,12 @@ Proto-Indo-European,Understand
 English,Understand
 Proto-Germanic,Understand
 Old English,Understand
+English,Undone
+Proto-Indo-European,Undone
+Old English,Undone
+Proto-Germanic,Undone
+Middle English,Undone
+Proto-West Germanic,Undone
 English,Until
 Proto-Germanic,Up
 Old English,Up
@@ -2030,6 +2206,12 @@ Old English,Wear
 Proto-Germanic,Wear
 Middle English,Wear
 Proto-West Germanic,Wear
+English,Week
+Proto-Indo-European,Week
+Proto-Germanic,Week
+Old English,Week
+Middle English,Week
+Proto-West Germanic,Week
 Proto-Indo-European,Welcome
 English,Welcome
 Old English,Welcome
