@@ -84,6 +84,7 @@ Proto-Indo-European,Anyhow
 Middle English,Anyhow
 Old English,Anyhow
 Proto-Germanic,Anyhow
+English,Anything
 English,Anyway
 Proto-Indo-European,Anyway
 Proto-Germanic,Anyway
@@ -267,6 +268,11 @@ Proto-Indo-European,Bell
 English,Bell
 Proto-Germanic,Bell
 Old English,Bell
+English,Belong
+Proto-Indo-European,Belong
+Old English,Belong
+Proto-Germanic,Belong
+Middle English,Belong
 English,Best
 Proto-Indo-European,Best
 Latin,Best
@@ -293,6 +299,8 @@ Medieval Latin,Bills
 English,Bird
 Middle English,Bird
 Old English,Bird
+English,Birthday
+Old English,Birthday
 English,Bling
 Proto-Indo-European,Blink
 English,Blink
@@ -310,6 +318,12 @@ English,Body
 Proto-Indo-European,Body
 Old English,Body
 Proto-West Germanic,Body
+Proto-Indo-European,Born
+English,Born
+Proto-Germanic,Born
+Old English,Born
+Middle English,Born
+Proto-West Germanic,Born
 English,Both
 Proto-Indo-European,Both
 Middle English,Both
@@ -430,6 +444,7 @@ Old English,Calling
 Middle English,Calling
 Proto-Germanic,Calling
 Old Norse,Calling
+English,Came
 Latin,Can
 Ancient Greek,Can
 Akkadian,Can
@@ -462,6 +477,12 @@ Old English,Care
 Proto-Germanic,Care
 Middle English,Care
 Proto-West Germanic,Care
+English,Cars
+Latin,Cars
+Gaulish,Cars
+Proto-Celtic,Cars
+Proto-Indo-European,Cars
+Anglo-Norman,Cars
 Latin,Catching
 Proto-Indo-European,Catching
 English,Catching
@@ -491,6 +512,13 @@ Middle English,Change
 Old French,Change
 Anglo-Norman,Change
 Late Latin,Change
+Latin,Chase
+Proto-Indo-European,Chase
+English,Chase
+Proto-Italic,Chase
+Old French,Chase
+Anglo-Norman,Chase
+Late Latin,Chase
 English,Cheated
 French,Chevrolet
 English,Chevrolet
@@ -499,6 +527,7 @@ English,Child
 Old English,Child
 Middle English,Child
 Proto-Germanic,Child
+English,Christ
 English,Christian
 English,City
 Latin,City
@@ -580,6 +609,12 @@ Old English,Cop
 Ancient Greek,Cop
 Late Latin,Cop
 Byzantine Greek,Cop
+Latin,Corner
+English,Corner
+Proto-Indo-European,Corner
+Old French,Corner
+Middle English,Corner
+Vulgar Latin,Corner
 Latin,Cos
 Old English,Cos
 Proto-Germanic,Cos
@@ -587,6 +622,12 @@ Old Latin,Cos
 Middle English,Cos
 Old French,Cos
 Proto-West Germanic,Cos
+Latin,Couch
+English,Couch
+Proto-Indo-European,Couch
+Proto-Italic,Couch
+Old French,Couch
+Middle English,Couch
 Latin,Could
 Proto-Germanic,Could
 Old English,Could
@@ -726,6 +767,10 @@ Middle English,Does
 English,Dog
 Old English,Dog
 Middle English,Dog
+English,Doll
+Proto-Indo-European,Doll
+Ancient Greek,Doll
+Proto-Hellenic,Doll
 Latin,Dollar
 Dutch,Dollar
 English,Dollar
@@ -763,6 +808,12 @@ Proto-Germanic,Drinking
 Old English,Drinking
 Middle English,Drinking
 Proto-Indo-European,Drinking
+Proto-Indo-European,Drove
+English,Drove
+Proto-Germanic,Drove
+Old English,Drove
+Middle English,Drove
+Proto-West Germanic,Drove
 English,Drown
 Middle English,Drown
 English,Drunk
@@ -1122,6 +1173,12 @@ Proto-West Germanic,Goes
 English,Going
 Proto-Indo-European,Going
 Proto-Germanic,Going
+English,Gold
+Proto-Indo-European,Gold
+Proto-Germanic,Gold
+Old English,Gold
+Middle English,Gold
+Proto-West Germanic,Gold
 English,Gone
 Proto-Indo-European,Gone
 Old Norse,Gone
@@ -1186,8 +1243,13 @@ Old English,Grow
 English,Growed
 English,Guess
 Middle English,Guess
+Latin,Guitar
+Ancient Greek,Guitar
+English,Guitar
+Spanish,Guitar
 English,Gun
 Middle English,Gun
+English,Guy
 English,Guys
 English,Had
 Middle English,Had
@@ -1291,6 +1353,18 @@ English,Heat
 Proto-Indo-European,Heat
 Proto-Germanic,Heat
 Old English,Heat
+Proto-Indo-European,Heaven
+English,Heaven
+Proto-Germanic,Heaven
+Old English,Heaven
+Middle English,Heaven
+Proto-West Germanic,Heaven
+English,Heels
+Proto-Indo-European,Heels
+Proto-Germanic,Heels
+Old English,Heels
+Middle English,Heels
+Proto-West Germanic,Heels
 Proto-Indo-European,Her
 English,Her
 Middle English,Her
@@ -1373,11 +1447,21 @@ Proto-West Germanic,Horse
 Proto-Germanic,Hot
 Old English,Hot
 Middle English,Hot
+English,House
+Proto-Indo-European,House
+Proto-Germanic,House
+Old English,House
+Middle English,House
+Proto-West Germanic,House
 English,How
 Proto-Indo-European,How
 Middle English,How
 Old English,How
 Proto-Germanic,How
+English,Humming
+Old English,Humming
+Middle English,Humming
+Proto-Germanic,Humming
 Proto-Indo-European,Hundred
 English,Hundred
 Proto-Germanic,Hundred
@@ -1392,6 +1476,7 @@ Latin,I
 Proto-Germanic,If
 Middle English,If
 Old English,If
+English,Imma
 Old English,In
 Proto-Germanic,In
 Middle English,In
@@ -1423,6 +1508,13 @@ English,Jacked
 English,Jeans
 Old French,Jeans
 Middle English,Jeans
+English,Jesus
+Ancient Greek,Jesus
+Hebrew,Jesus
+Latin,Jesus
+Aramaic,Jesus
+Biblical Hebrew,Jesus
+Middle English,Jesus
 English,Job
 Hebrew,John
 English,John
@@ -1431,6 +1523,10 @@ Ancient Greek,John
 Old French,John
 Middle English,John
 Anglo-Norman,John
+Latin,Joke
+English,Joke
+Proto-Indo-European,Joke
+Proto-Italic,Joke
 English,Jungle
 Sanskrit,Jungle
 Hindi,Jungle
@@ -1496,6 +1592,12 @@ Middle English,Know
 Old English,Know
 Proto-Germanic,Know
 Proto-West Germanic,Know
+English,Knowing
+Proto-Indo-European,Knowing
+Middle English,Knowing
+Old English,Knowing
+Proto-Germanic,Knowing
+Proto-West Germanic,Knowing
 Latin,La
 English,Lah
 Latin,Lah
@@ -1582,9 +1684,15 @@ Proto-Indo-European,Lines
 Old English,Lines
 Middle English,Lines
 Proto-Germanic,Lines
+English,Lipstick
+Proto-Indo-European,Lipstick
+Proto-Germanic,Lipstick
+Old English,Lipstick
+Middle English,Lipstick
 Proto-Indo-European,Listen
 English,Listen
 Old English,Listen
+English,Listened
 English,Little
 Proto-Indo-European,Little
 Old English,Little
@@ -1601,6 +1709,13 @@ Proto-Germanic,Lives
 Old English,Lives
 Middle English,Lives
 English,Locked
+English,Lonely
+Proto-Indo-European,Lonely
+Middle English,Lonely
+Proto-Germanic,Lonely
+Old English,Lonely
+Old Norse,Lonely
+Proto-West Germanic,Lonely
 English,Lonesome
 Proto-Indo-European,Lonesome
 Old English,Lonesome
@@ -1651,6 +1766,7 @@ English,Lost
 English,Lot
 Proto-Germanic,Lot
 Old English,Lot
+English,Lotta
 Proto-Indo-European,Love
 English,Love
 Old English,Love
@@ -1816,6 +1932,7 @@ Proto-Celtic,Muriel
 Old Irish,Muriel
 Scottish Gaelic,Muriel
 English,Muriel
+English,Muscle
 Proto-Indo-European,Must
 English,Must
 Proto-Germanic,Must
@@ -1843,6 +1960,7 @@ Proto-Germanic,Name
 Old English,Name
 Middle English,Name
 Proto-West Germanic,Name
+English,Nebraska
 English,Necks
 Ancient Greek,Necks
 Proto-Indo-European,Necks
@@ -1863,6 +1981,12 @@ English,Never
 Old English,Never
 Middle English,Never
 Proto-Germanic,Never
+Proto-Indo-European,New
+English,New
+Proto-Germanic,New
+Middle English,New
+Proto-West Germanic,New
+Old English,New
 English,Next
 English,Nickles
 English,Night
@@ -1872,6 +1996,12 @@ Middle English,Night
 Proto-Germanic,Night
 Old Norse,Night
 Proto-West Germanic,Night
+Proto-Indo-European,Nights
+English,Nights
+Proto-Germanic,Nights
+Old English,Nights
+Middle English,Nights
+Proto-West Germanic,Nights
 English,Nine
 Proto-Indo-European,Nine
 Proto-Germanic,Nine
@@ -2221,6 +2351,11 @@ Proto-Germanic,Rain
 Old English,Rain
 Middle English,Rain
 Anglo-Norman,Rain
+Proto-Indo-European,Rather
+English,Rather
+Old English,Rather
+Proto-Germanic,Rather
+Middle English,Rather
 English,Ready
 Proto-Indo-European,Ready
 Middle English,Ready
@@ -2452,6 +2587,14 @@ Latin,Series
 Proto-Indo-European,Series
 English,Series
 Proto-Italic,Series
+Latin,Serve
+French,Serve
+Proto-Indo-European,Serve
+English,Serve
+Middle French,Serve
+Old French,Serve
+Middle English,Serve
+Proto-Italic,Serve
 Proto-Germanic,Seven
 Old English,Seven
 Middle English,Seven
@@ -2623,6 +2766,13 @@ Proto-Germanic,Step
 Old English,Step
 Middle English,Step
 English,Stepped
+English,Still
+Latin,Still
+Proto-Indo-European,Still
+Middle English,Still
+Old English,Still
+Old French,Still
+Proto-West Germanic,Still
 Ancient Greek,Stole
 Proto-Indo-European,Stole
 English,Stole
@@ -2749,6 +2899,15 @@ Old English,Talk
 Proto-Germanic,Talk
 German,Talk
 English,Talking
+English,Taste
+Proto-Indo-European,Taste
+Latin,Taste
+Proto-Italic,Taste
+Proto-Germanic,Taste
+Old French,Taste
+Middle English,Taste
+Late Latin,Taste
+Vulgar Latin,Taste
 English,Tea
 Dutch,Tea
 Min Nan,Tea
@@ -2833,6 +2992,11 @@ Old English,Though
 English,Thought
 Proto-Indo-European,Thought
 Proto-Germanic,Thought
+Proto-Indo-European,Three
+English,Three
+Proto-Germanic,Three
+Middle English,Three
+Proto-West Germanic,Three
 English,Threw
 English,Thrills
 Proto-Indo-European,Thrills
@@ -2988,6 +3152,11 @@ Old French,Turnip
 Middle English,Turnip
 Old English,Turnip
 English,Tv
+English,Two
+Proto-Indo-European,Two
+Proto-Germanic,Two
+Old English,Two
+Middle English,Two
 Proto-Germanic,Under
 Old English,Under
 Proto-Indo-European,Understand
@@ -3135,6 +3304,13 @@ Proto-Indo-European,While
 Old English,While
 Proto-Germanic,While
 Proto-West Germanic,While
+Proto-Indo-European,Whiskey
+English,Whiskey
+Irish,Whiskey
+Proto-Celtic,Whiskey
+Old Irish,Whiskey
+Scottish Gaelic,Whiskey
+Middle Irish,Whiskey
 Old English,Whisper
 Proto-Germanic,Whisper
 English,White
@@ -3151,6 +3327,12 @@ English,Whoa
 Proto-Germanic,Whoa
 Old English,Whoa
 Middle English,Whoa
+Proto-Indo-European,Whole
+English,Whole
+Proto-Germanic,Whole
+Old English,Whole
+Middle English,Whole
+Proto-West Germanic,Whole
 English,Why
 Proto-Indo-European,Why
 Proto-Germanic,Why
@@ -3180,6 +3362,8 @@ Proto-Indo-European,With
 Old English,With
 Middle English,With
 Proto-Germanic,With
+English,Without
+Middle English,Without
 English,Woman
 Middle English,Woman
 Old English,Woman
@@ -3247,6 +3431,7 @@ Middle English,Yes
 Old English,Yes
 English,Yonder
 Old English,Yonder
+English,York
 Proto-Germanic,You
 Middle English,You
 Old English,You
