@@ -124,6 +124,12 @@ Proto-Germanic,Ask
 Middle English,Ask
 Proto-West Germanic,Ask
 English,Asked
+English,Asleep
+Proto-Indo-European,Asleep
+Middle English,Asleep
+Old English,Asleep
+Proto-Germanic,Asleep
+Proto-West Germanic,Asleep
 English,At
 Proto-Indo-European,At
 Proto-Germanic,At
@@ -135,6 +141,8 @@ English,Avenue
 Proto-Italic,Avenue
 French,Avenue
 Old French,Avenue
+English,Awake
+Middle English,Awake
 English,Away
 Middle English,Away
 Old English,Away
@@ -216,6 +224,11 @@ Proto-Germanic,Be
 Middle English,Be
 Old English,Be
 Proto-West Germanic,Be
+English,Beating
+Proto-Indo-European,Beating
+Proto-Germanic,Beating
+Old English,Beating
+Proto-West Germanic,Beating
 English,Beauty
 Latin,Beauty
 Proto-Indo-European,Beauty
@@ -382,6 +395,11 @@ English,Breaking
 Middle English,Breath
 Proto-Germanic,Breath
 Old English,Breath
+Proto-Indo-European,Breathing
+English,Breathing
+Middle English,Breathing
+Proto-Germanic,Breathing
+Old English,Breathing
 English,Bred
 Proto-Indo-European,Bring
 English,Bring
@@ -581,6 +599,14 @@ Proto-Germanic,Climbing
 English,Clock
 Old English,Clock
 Proto-Germanic,Clock
+Latin,Close
+English,Close
+Proto-Italic,Close
+French,Close
+Middle French,Close
+Middle English,Close
+Old French,Close
+Old English,Close
 Latin,Closing
 English,Closing
 Proto-Italic,Closing
@@ -839,6 +865,18 @@ Gaulish,Down
 Proto-Celtic,Down
 Proto-Germanic,Down
 Old English,Down
+Proto-Indo-European,Dream
+English,Dream
+Proto-Germanic,Dream
+Old English,Dream
+Middle English,Dream
+Proto-West Germanic,Dream
+Proto-Indo-European,Dreaming
+English,Dreaming
+Proto-Germanic,Dreaming
+Old English,Dreaming
+Middle English,Dreaming
+Proto-West Germanic,Dreaming
 Proto-Indo-European,Dreams
 English,Dreams
 Proto-Germanic,Dreams
@@ -997,6 +1035,10 @@ Proto-Italic,Face
 Old French,Face
 Middle English,Face
 Vulgar Latin,Face
+English,Fall
+Proto-Germanic,Fall
+Old English,Fall
+Proto-Indo-European,Fall
 Latin,Familiar
 Proto-Indo-European,Familiar
 English,Familiar
@@ -1021,6 +1063,10 @@ Vulgar Latin,Fault
 Proto-Germanic,Feel
 Middle English,Feel
 Old English,Feel
+English,Feeling
+Old English,Feeling
+Middle English,Feeling
+Proto-Germanic,Feeling
 English,Feet
 Proto-Indo-European,Feet
 Proto-Germanic,Feet
@@ -1993,6 +2039,9 @@ Japanese,Moe
 Old Japanese,Moe
 English,Moe
 Proto-Japonic,Moe
+Latin,Moment
+Proto-Indo-European,Moment
+English,Moment
 Arabic,Mona
 Spanish,Mona
 Proto-Indo-European,Money
@@ -2518,6 +2567,11 @@ Proto-Italic,Resist
 Old French,Resist
 Middle English,Resist
 Anglo-Norman,Resist
+English,Rest
+Proto-Indo-European,Rest
+Old English,Rest
+Proto-Germanic,Rest
+Middle English,Rest
 Latin,Reverend
 Proto-Indo-European,Reverend
 English,Reverend
@@ -2833,6 +2887,11 @@ Middle English,Six
 Proto-West Germanic,Six
 English,Slam
 English,Slapped
+English,Sleeping
+Proto-Indo-European,Sleeping
+Proto-Germanic,Sleeping
+Middle English,Sleeping
+Proto-West Germanic,Sleeping
 English,Sleepy
 Latin,Sleepy
 Proto-Indo-European,Sleepy
@@ -2843,6 +2902,11 @@ Old French,Sleepy
 Proto-West Germanic,Sleepy
 Proto-Germanic,Slow
 Old English,Slow
+English,Smile
+Proto-Indo-European,Smile
+Proto-Germanic,Smile
+Old Norse,Smile
+Middle English,Smile
 Old English,Smooth
 Proto-Germanic,Smooth
 Proto-Germanic,So
@@ -2891,6 +2955,12 @@ Proto-Indo-European,Speak
 Old English,Speak
 Proto-Germanic,Speak
 Middle English,Speak
+Latin,Spend
+English,Spend
+Proto-Indo-European,Spend
+Old English,Spend
+Proto-Italic,Spend
+Proto-West Germanic,Spend
 English,Spent
 English,Spring
 Proto-Germanic,Spring
@@ -3009,6 +3079,12 @@ Proto-Italic,Sure
 Middle English,Sure
 Old French,Sure
 Proto-Germanic,Sure
+Latin,Surrender
+Proto-Indo-European,Surrender
+English,Surrender
+Proto-Italic,Surrender
+Old French,Surrender
+Vulgar Latin,Surrender
 English,Sweet
 Proto-Indo-European,Sweet
 Proto-Germanic,Sweet
@@ -3272,6 +3348,10 @@ Proto-Germanic,Trashy
 Old English,Trashy
 Old French,Trashy
 Old Norse,Trashy
+Ancient Greek,Treasure
+English,Treasure
+Latin,Treasure
+Old French,Treasure
 English,Tricks
 English,Tripping
 Middle English,Tripping
@@ -3581,6 +3661,7 @@ English,Wonder
 Proto-Indo-European,Wonder
 Proto-Germanic,Wonder
 Old English,Wonder
+English,Wondering
 Proto-Germanic,Word
 Old English,Word
 Middle English,Word
