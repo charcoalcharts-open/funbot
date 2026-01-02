@@ -1867,6 +1867,7 @@ Proto-Indo-European,Learn
 Old English,Learn
 Proto-Germanic,Learn
 English,Learned
+English,Learning
 English,Least
 Middle English,Least
 Proto-Germanic,Least
@@ -2270,6 +2271,7 @@ Old English,Need
 English,Needing
 Proto-Germanic,Needing
 Old English,Needing
+English,Needless
 English,Nelson
 Proto-Indo-European,Never
 English,Never
@@ -2372,6 +2374,11 @@ Latin,Ocean
 Ancient Greek,Ocean
 Old French,Ocean
 Middle English,Ocean
+Proto-Indo-European,Odds
+English,Odds
+Old Norse,Odds
+Proto-Germanic,Odds
+Middle English,Odds
 Middle English,Of
 Old English,Of
 Proto-Germanic,Of
@@ -2386,6 +2393,7 @@ Old English,Oh
 Proto-Germanic,Oh
 Middle English,Oh
 Proto-West Germanic,Oh
+English,Okay
 English,Ol
 Proto-Indo-European,Old
 English,Old
@@ -2838,6 +2846,11 @@ English,Saddle
 Proto-Germanic,Saddle
 Old English,Saddle
 Middle English,Saddle
+English,Safe
+Latin,Safe
+Proto-Indo-European,Safe
+Middle English,Safe
+Old French,Safe
 Middle English,Said
 Latin,Sailing
 Proto-Indo-European,Sailing
@@ -3007,6 +3020,10 @@ Proto-Germanic,Show
 Old English,Show
 Middle English,Show
 Proto-Indo-European,Show
+English,Shying
+Old English,Shying
+Middle English,Shying
+Proto-Germanic,Shying
 English,Side
 Proto-Indo-European,Side
 Proto-Germanic,Side
@@ -3073,6 +3090,8 @@ Old French,Sleepy
 Proto-West Germanic,Sleepy
 Proto-Germanic,Slow
 Old English,Slow
+English,Slowly
+Old English,Slowly
 English,Smile
 Proto-Indo-European,Smile
 Proto-Germanic,Smile
@@ -3201,6 +3220,8 @@ Proto-Indo-European,Stud
 English,Stud
 Proto-Germanic,Stud
 Old English,Stud
+English,Stumbling
+Proto-Germanic,Stumbling
 Latin,Stupor
 English,Stupor
 Proto-Indo-European,Stupor
@@ -3357,6 +3378,11 @@ English,Texarkana
 English,Texas
 Spanish,Texas
 Caddo,Texas
+Proto-Indo-European,Than
+English,Than
+Proto-Germanic,Than
+Old English,Than
+Middle English,Than
 English,Thank
 Proto-Indo-European,Thank
 Proto-Germanic,Thank
@@ -3481,6 +3507,11 @@ English,Tired
 Latin,To
 Middle English,To
 Late Latin,To
+Proto-Indo-European,Today
+English,Today
+Proto-Germanic,Today
+Old English,Today
+Middle English,Today
 English,Together
 Proto-Indo-European,Together
 Proto-Germanic,Together
@@ -3885,6 +3916,7 @@ Middle English,World
 Old English,World
 Proto-West Germanic,World
 English,Worried
+English,Worries
 Proto-Germanic,Would
 Old English,Would
 Middle English,Would
