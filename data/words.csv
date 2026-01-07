@@ -9,6 +9,7 @@ English,Abilene
 Proto-Germanic,About
 Old English,About
 Middle English,About
+English,Across
 English,Afloat
 Ancient Greek,Afloat
 Proto-Indo-European,Afloat
@@ -178,6 +179,9 @@ Proto-Indo-European,Bad
 Proto-Germanic,Bad
 Old English,Bad
 Middle English,Bad
+English,Bag
+Old Norse,Bag
+Middle English,Bag
 English,Ball
 Proto-Indo-European,Ball
 Proto-Germanic,Ball
@@ -366,6 +370,11 @@ Proto-Indo-European,Bone
 Old English,Bone
 Proto-Germanic,Bone
 Middle English,Bone
+English,Bones
+Proto-Indo-European,Bones
+Old English,Bones
+Proto-Germanic,Bones
+Middle English,Bones
 English,Boogie
 English,Boots
 Proto-Indo-European,Born
@@ -417,6 +426,12 @@ Proto-Indo-European,Brains
 Middle English,Brains
 Proto-Germanic,Brains
 Old English,Brains
+Proto-Indo-European,Break
+English,Break
+Proto-Germanic,Break
+Old English,Break
+Middle English,Break
+Proto-West Germanic,Break
 English,Breaking
 Middle English,Breath
 Proto-Germanic,Breath
@@ -1013,6 +1028,9 @@ Proto-Indo-European,Drives
 Proto-Germanic,Drives
 Old English,Drives
 Middle English,Drives
+English,Driving
+Proto-Indo-European,Driving
+Proto-Germanic,Driving
 Proto-Indo-European,Drove
 English,Drove
 Proto-Germanic,Drove
@@ -1021,6 +1039,12 @@ Middle English,Drove
 Proto-West Germanic,Drove
 English,Drown
 Middle English,Drown
+English,Drum
+Middle Dutch,Drum
+Proto-Indo-European,Drum
+Dutch,Drum
+Proto-Germanic,Drum
+Proto-West Germanic,Drum
 English,Drunk
 Proto-Germanic,Drunk
 Old English,Drunk
@@ -1059,6 +1083,12 @@ Old French,Easy
 Middle English,Easy
 Proto-Germanic,Easy
 Old English,Easy
+Proto-Indo-European,Ecstasy
+Ancient Greek,Ecstasy
+English,Ecstasy
+Latin,Ecstasy
+Proto-Hellenic,Ecstasy
+Old French,Ecstasy
 English,Eh
 English,Eight
 Proto-Indo-European,Eight
@@ -1086,6 +1116,11 @@ Latin,Emotion
 French,Emotion
 Middle French,Emotion
 Old French,Emotion
+Proto-Indo-European,Empty
+English,Empty
+Proto-Germanic,Empty
+Middle English,Empty
+Old English,Empty
 English,End
 Proto-Indo-European,End
 Proto-Germanic,End
@@ -1095,6 +1130,11 @@ Proto-West Germanic,End
 English,Ending
 Middle English,Ending
 Old English,Ending
+Proto-Indo-European,Endless
+English,Endless
+Proto-Germanic,Endless
+Middle English,Endless
+Old English,Endless
 English,Ends
 Proto-Indo-European,Ends
 Proto-Germanic,Ends
@@ -1272,6 +1312,11 @@ Old English,Flatbed
 Proto-Germanic,Flatbed
 Old Norse,Flatbed
 English,Flowers
+English,Fly
+Proto-Indo-European,Fly
+Proto-Germanic,Fly
+Old English,Fly
+Middle English,Fly
 Proto-Indo-European,Flying
 English,Flying
 Proto-Germanic,Flying
@@ -1828,6 +1873,12 @@ Old English,In
 Proto-Germanic,In
 Middle English,In
 English,Inside
+Proto-Indo-European,Instead
+English,Instead
+Old English,Instead
+Proto-Germanic,Instead
+Middle English,Instead
+Proto-West Germanic,Instead
 Proto-Indo-European,Interstate
 Latin,Interstate
 English,Interstate
@@ -1951,6 +2002,10 @@ Proto-Germanic,Kitchen
 Middle English,Kitchen
 Proto-West Germanic,Kitchen
 Late Latin,Kitchen
+English,Kneeling
+Old English,Kneeling
+Middle English,Kneeling
+Proto-Germanic,Kneeling
 English,Knew
 English,Know
 Proto-Indo-European,Know
@@ -3078,6 +3133,11 @@ Proto-Indo-European,Salvation
 Middle English,Salvation
 Old Norse,Same
 Proto-Germanic,Same
+Proto-Indo-European,Sand
+English,Sand
+Proto-Germanic,Sand
+Old English,Sand
+Middle English,Sand
 English,Sang
 English,Sanity
 Latin,Sanity
@@ -3128,6 +3188,11 @@ Old French,Screen
 Anglo-Norman,Screen
 Proto-West Germanic,Screen
 Middle English,Screen
+English,Sea
+Proto-Indo-European,Sea
+Proto-Germanic,Sea
+Old English,Sea
+Middle English,Sea
 English,Seas
 Proto-Indo-European,Seas
 Proto-Germanic,Seas
@@ -4152,6 +4217,7 @@ English,Winter
 Middle English,Winter
 Old English,Winter
 Proto-Germanic,Winter
+English,Wished
 English,With
 Proto-Indo-European,With
 Old English,With
