@@ -9,6 +9,12 @@ English,Abilene
 Proto-Germanic,About
 Old English,About
 Middle English,About
+English,Above
+Proto-Indo-European,Above
+Latin,Above
+Proto-Germanic,Above
+Old English,Above
+Middle English,Above
 English,Across
 English,Act
 Latin,Act
@@ -338,6 +344,7 @@ Proto-Indo-European,Belong
 Old English,Belong
 Proto-Germanic,Belong
 Middle English,Belong
+English,Below
 English,Best
 Proto-Indo-European,Best
 Latin,Best
@@ -529,6 +536,7 @@ Proto-Indo-European,Broom
 English,Broom
 Proto-Germanic,Broom
 Old English,Broom
+English,Brotherhood
 English,Brought
 English,Brown
 Proto-Indo-European,Brown
@@ -1144,6 +1152,8 @@ Proto-Germanic,Dream
 Old English,Dream
 Middle English,Dream
 Proto-West Germanic,Dream
+English,Dreamer
+Middle English,Dreamer
 Proto-Indo-European,Dreaming
 English,Dreaming
 Proto-Germanic,Dreaming
@@ -1769,6 +1779,7 @@ Middle English,Grave
 Latin,Gravity
 Proto-Indo-European,Gravity
 English,Gravity
+English,Greed
 Proto-Indo-European,Green
 English,Green
 Proto-Germanic,Green
@@ -1964,6 +1975,11 @@ Old English,Heels
 Middle English,Heels
 Proto-West Germanic,Heels
 English,Heh
+Proto-Indo-European,Hell
+English,Hell
+Proto-Germanic,Hell
+Old English,Hell
+Proto-West Germanic,Hell
 English,Help
 Proto-Indo-European,Help
 Proto-Germanic,Help
@@ -2136,6 +2152,11 @@ English,Hundred
 Proto-Germanic,Hundred
 Old English,Hundred
 English,Hung
+English,Hunger
+Proto-Indo-European,Hunger
+Proto-Germanic,Hunger
+Old English,Hunger
+Middle English,Hunger
 English,Hurting
 Middle English,Hurting
 English,Hurts
@@ -2145,6 +2166,12 @@ Latin,I
 Proto-Germanic,If
 Middle English,If
 Old English,If
+Latin,Imagine
+Proto-Indo-European,Imagine
+English,Imagine
+Proto-Italic,Imagine
+Old Latin,Imagine
+Middle English,Imagine
 English,Imma
 Old English,In
 Proto-Germanic,In
@@ -2206,6 +2233,12 @@ Ancient Greek,John
 Old French,John
 Middle English,John
 Anglo-Norman,John
+Latin,Join
+English,Join
+Proto-Indo-European,Join
+Proto-Italic,Join
+Old French,Join
+Middle English,Join
 Latin,Joke
 English,Joke
 Proto-Indo-European,Joke
@@ -2247,6 +2280,12 @@ Old Norse,Kicking
 Old Saxon,Kicking
 Proto-West Germanic,Kicking
 Middle Low German,Kicking
+Latin,Kill
+Proto-Indo-European,Kill
+English,Kill
+Proto-Italic,Kill
+Middle English,Kill
+Old French,Kill
 English,Killing
 Latin,Killing
 Proto-Indo-European,Killing
@@ -2462,6 +2501,11 @@ Proto-Indo-European,Lives
 Proto-Germanic,Lives
 Old English,Lives
 Middle English,Lives
+Proto-Indo-European,Living
+English,Living
+Proto-Germanic,Living
+Old English,Living
+Middle English,Living
 English,Locked
 English,Lonely
 Proto-Indo-European,Lonely
@@ -3161,6 +3205,13 @@ Old French,Paying
 Proto-Italic,Paying
 Medieval Latin,Paying
 Anglo-Norman,Paying
+English,Peace
+Latin,Peace
+Proto-Indo-European,Peace
+Anglo-Norman,Peace
+Old French,Peace
+Middle English,Peace
+Proto-Italic,Peace
 Latin,Pen
 English,Pen
 Proto-Indo-European,Pen
@@ -3442,6 +3493,12 @@ Proto-Indo-European,Relax
 English,Relax
 Proto-Italic,Relax
 Old French,Relax
+Latin,Religion
+English,Religion
+Proto-Indo-European,Religion
+Proto-Italic,Religion
+Old French,Religion
+Middle English,Religion
 Latin,Remember
 English,Remember
 Proto-Indo-European,Remember
@@ -3802,6 +3859,11 @@ Proto-Germanic,Shaky
 Old English,Shaky
 Old French,Shaky
 Proto-Germanic,Shame
+Proto-Indo-European,Sharing
+English,Sharing
+Proto-Germanic,Sharing
+Old English,Sharing
+Middle English,Sharing
 Proto-Indo-European,She
 English,She
 Old English,She
@@ -3916,6 +3978,11 @@ English,Skirt
 Middle English,Skirt
 Old Norse,Skirt
 Proto-Germanic,Skirt
+English,Sky
+Proto-Indo-European,Sky
+Middle English,Sky
+Old Norse,Sky
+Proto-Germanic,Sky
 English,Slam
 English,Slapped
 English,Sleep
