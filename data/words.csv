@@ -1049,6 +1049,7 @@ English,Delta
 Ancient Greek,Delta
 Phoenician,Delta
 Egyptian,Delta
+English,Denying
 English,Diapers
 Middle English,Diapers
 English,Did
@@ -1131,6 +1132,14 @@ Frankish,Dope
 English,Double
 Latin,Double
 Old French,Double
+English,Doubts
+Proto-Indo-European,Doubts
+Latin,Doubts
+Proto-Italic,Doubts
+Old French,Doubts
+Proto-Germanic,Doubts
+Old English,Doubts
+Middle English,Doubts
 English,Dove
 Proto-Indo-European,Dove
 Proto-Germanic,Dove
@@ -1413,6 +1422,11 @@ Proto-Indo-European,Fault
 Old French,Fault
 Anglo-Norman,Fault
 Vulgar Latin,Fault
+Proto-Indo-European,Fear
+English,Fear
+Proto-Germanic,Fear
+Old English,Fear
+Middle English,Fear
 Proto-Indo-European,Feed
 English,Feed
 Proto-Germanic,Feed
@@ -2550,6 +2564,12 @@ English,Looks
 Old English,Looks
 Middle English,Looks
 Proto-West Germanic,Looks
+English,Lord
+Proto-Indo-European,Lord
+Proto-Germanic,Lord
+Old English,Lord
+Middle English,Lord
+Proto-West Germanic,Lord
 Proto-Indo-European,Lose
 English,Lose
 Old English,Lose
@@ -2575,6 +2595,10 @@ English,Love
 Old English,Love
 Proto-Germanic,Love
 Middle English,Love
+English,Loved
+Proto-Indo-European,Loved
+Proto-Germanic,Loved
+Old English,Loved
 English,Lover
 Old English,Loving
 Proto-Germanic,Loving
@@ -2630,6 +2654,10 @@ Old English,Man
 Middle English,Man
 Old Norse,Man
 Proto-West Germanic,Man
+English,Many
+Old English,Many
+Proto-Germanic,Many
+Middle English,Many
 English,Mate
 Proto-Indo-European,Mate
 Proto-Germanic,Mate
@@ -2769,6 +2797,11 @@ Middle English,Money
 English,Monotony
 French,Monotony
 Ancient Greek,Monotony
+English,Months
+Proto-Indo-European,Months
+Old English,Months
+Proto-Germanic,Months
+Middle English,Months
 Old English,Mood
 Proto-Germanic,Mood
 Middle English,Mood
@@ -3413,6 +3446,10 @@ Latin,Promise
 English,Promise
 Old French,Promise
 Late Latin,Promise
+English,Proof
+Latin,Proof
+Proto-Indo-European,Proof
+Late Latin,Proof
 Proto-Indo-European,Provide
 Latin,Provide
 English,Provide
@@ -3477,6 +3514,14 @@ French,Reality
 Middle French,Reality
 Late Latin,Reality
 Medieval Latin,Reality
+Latin,Realize
+Proto-Indo-European,Realize
+English,Realize
+French,Realize
+Middle French,Realize
+Proto-Italic,Realize
+Old French,Realize
+Late Latin,Realize
 English,Really
 Latin,Reason
 Proto-Italic,Reason
@@ -3678,6 +3723,12 @@ English,Saddle
 Proto-Germanic,Saddle
 Old English,Saddle
 Middle English,Saddle
+English,Sadly
+Proto-Indo-European,Sadly
+Middle English,Sadly
+Proto-Germanic,Sadly
+Old English,Sadly
+Old Norse,Sadly
 English,Safe
 Latin,Safe
 Proto-Indo-European,Safe
@@ -4378,6 +4429,11 @@ Proto-Indo-European,Tear
 Proto-Germanic,Tear
 Old English,Tear
 Middle English,Tear
+English,Tearing
+Proto-Indo-European,Tearing
+Proto-Germanic,Tearing
+Old English,Tearing
+Middle English,Tearing
 English,Teeter
 Middle English,Teeter
 Proto-Indo-European,Teeth
@@ -4714,6 +4770,15 @@ Proto-Indo-European,Uk
 Proto-Slavic,Uk
 Old Church Slavonic,Uk
 Old East Slavic,Uk
+Latin,Unavailable
+English,Unavailable
+Proto-Indo-European,Unavailable
+Proto-Italic,Unavailable
+Old French,Unavailable
+Old English,Unavailable
+Middle English,Unavailable
+Proto-Germanic,Unavailable
+Proto-West Germanic,Unavailable
 Proto-Germanic,Under
 Old English,Under
 Proto-Indo-European,Understand
@@ -4739,6 +4804,17 @@ Middle English,Unknown
 Old English,Unknown
 Proto-Germanic,Unknown
 Proto-West Germanic,Unknown
+English,Unobtainable
+Ancient Greek,Unobtainable
+Proto-Indo-European,Unobtainable
+Latin,Unobtainable
+Proto-Italic,Unobtainable
+Old French,Unobtainable
+Old English,Unobtainable
+Middle English,Unobtainable
+Proto-Germanic,Unobtainable
+Anglo-Norman,Unobtainable
+Proto-West Germanic,Unobtainable
 English,Until
 Proto-Germanic,Up
 Old English,Up
@@ -4769,6 +4845,11 @@ Old French,Very
 English,Vomit
 Latin,Vomit
 Proto-Indo-European,Vomit
+English,Vow
+Latin,Vow
+Proto-Indo-European,Vow
+Proto-Italic,Vow
+Old French,Vow
 Proto-Indo-European,Wait
 English,Wait
 Proto-Germanic,Wait
@@ -4983,6 +5064,12 @@ English,Winter
 Middle English,Winter
 Old English,Winter
 Proto-Germanic,Winter
+English,Wish
+Proto-Indo-European,Wish
+Proto-Germanic,Wish
+Middle English,Wish
+Old English,Wish
+Proto-West Germanic,Wish
 English,Wished
 English,With
 Proto-Indo-European,With
@@ -5022,6 +5109,11 @@ Old English,World
 Proto-West Germanic,World
 English,Worried
 English,Worries
+Proto-Indo-European,Worse
+English,Worse
+Proto-Germanic,Worse
+Middle English,Worse
+Old English,Worse
 Proto-Germanic,Would
 Old English,Would
 Middle English,Would
