@@ -138,6 +138,16 @@ Proto-Germanic,Anyway
 Old English,Anyway
 Middle English,Anyway
 Proto-West Germanic,Anyway
+English,Anywhere
+Proto-Indo-European,Anywhere
+Proto-Germanic,Anywhere
+Old English,Anywhere
+Middle English,Anywhere
+Latin,Appeal
+English,Appeal
+Proto-Indo-European,Appeal
+Proto-Italic,Appeal
+Old French,Appeal
 Old English,Are
 Proto-Germanic,Are
 Middle English,Are
@@ -635,6 +645,11 @@ Proto-Germanic,Can
 Middle English,Can
 Sumerian,Can
 Proto-West Germanic,Can
+Latin,Candle
+English,Candle
+Middle English,Candle
+Old English,Candle
+Proto-Indo-European,Candle
 English,Candy
 Arabic,Candy
 Persian,Candy
@@ -1063,6 +1078,11 @@ Middle Dutch,Deck
 Proto-Germanic,Deck
 Old Dutch,Deck
 Proto-West Germanic,Deck
+English,Deep
+Proto-Indo-European,Deep
+Proto-Germanic,Deep
+Old English,Deep
+Middle English,Deep
 English,Delta
 Ancient Greek,Delta
 Phoenician,Delta
@@ -1381,6 +1401,10 @@ Middle English,Executioner
 Old French,Executioner
 Old English,Executioner
 Proto-Germanic,Executioner
+Latin,Expect
+Proto-Indo-European,Expect
+English,Expect
+Proto-Italic,Expect
 English,Explaining
 English,Eye
 Proto-Indo-European,Eye
@@ -2120,6 +2144,7 @@ English,Hitch
 Proto-Germanic,Hitch
 Middle English,Hitch
 Old English,Hitch
+English,Hmm
 Proto-Indo-European,Hoes
 English,Hoes
 Frankish,Hoes
@@ -2228,6 +2253,8 @@ Proto-Indo-European,Hunger
 Proto-Germanic,Hunger
 Old English,Hunger
 Middle English,Hunger
+English,Hurt
+Middle English,Hurt
 English,Hurting
 Middle English,Hurting
 English,Hurts
@@ -2443,6 +2470,10 @@ Old English,Land
 Proto-Germanic,Land
 Middle English,Land
 Proto-West Germanic,Land
+English,Last
+Middle English,Last
+Proto-Germanic,Last
+Old English,Last
 English,Law
 Proto-Indo-European,Law
 Old Norse,Law
@@ -3670,6 +3701,7 @@ English,Rent
 Proto-Indo-European,Rent
 Proto-Italic,Rent
 Old French,Rent
+English,Repeating
 English,Reputation
 Latin,Reside
 Proto-Indo-European,Reside
@@ -3683,6 +3715,9 @@ Proto-Italic,Resist
 Old French,Resist
 Middle English,Resist
 Anglo-Norman,Resist
+English,Resistance
+Latin,Resistance
+Middle English,Resistance
 English,Rest
 Proto-Indo-European,Rest
 Old English,Rest
@@ -4198,6 +4233,11 @@ Proto-Germanic,Slow
 Old English,Slow
 English,Slowly
 Old English,Slowly
+Proto-Indo-European,Small
+English,Small
+Old English,Small
+Proto-Germanic,Small
+Middle English,Small
 English,Smile
 Proto-Indo-European,Smile
 Proto-Germanic,Smile
@@ -4493,6 +4533,12 @@ English,Surrender
 Proto-Italic,Surrender
 Old French,Surrender
 Vulgar Latin,Surrender
+English,Swear
+Proto-Indo-European,Swear
+Proto-Germanic,Swear
+Old English,Swear
+Middle English,Swear
+Proto-West Germanic,Swear
 English,Sweat
 Proto-Indo-European,Sweat
 Proto-Germanic,Sweat
@@ -4578,6 +4624,7 @@ Proto-Indo-European,Tearing
 Proto-Germanic,Tearing
 Old English,Tearing
 Middle English,Tearing
+English,Tears
 English,Teeter
 Middle English,Teeter
 Proto-Indo-European,Teeth
@@ -4992,6 +5039,13 @@ Proto-Indo-European,Very
 Proto-Italic,Very
 Middle English,Very
 Old French,Very
+English,Voice
+Latin,Voice
+Proto-Indo-European,Voice
+Old French,Voice
+Middle English,Voice
+Proto-Italic,Voice
+Anglo-Norman,Voice
 English,Vomit
 Latin,Vomit
 Proto-Indo-European,Vomit
