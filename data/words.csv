@@ -143,6 +143,8 @@ Proto-Indo-European,Anywhere
 Proto-Germanic,Anywhere
 Old English,Anywhere
 Middle English,Anywhere
+English,Apart
+Latin,Apart
 Latin,Appeal
 English,Appeal
 Proto-Indo-European,Appeal
@@ -1835,6 +1837,7 @@ Proto-Germanic,Good
 Middle English,Good
 Old English,Good
 Proto-West Germanic,Good
+English,Goodbye
 English,Goodnight
 Proto-Indo-European,Goodnight
 Old English,Goodnight
@@ -2260,6 +2263,7 @@ Middle English,Hurting
 English,Hurts
 English,Hush
 Middle English,Hush
+English,Hypnotized
 Latin,I
 Proto-Germanic,If
 Middle English,If
@@ -2551,6 +2555,7 @@ Proto-Germanic,Lie
 Old English,Lie
 Middle English,Lie
 Proto-West Germanic,Lie
+English,Lies
 Proto-Germanic,Life
 Old English,Life
 Middle English,Life
@@ -4030,6 +4035,12 @@ Middle English,Seize
 Old French,Seize
 Proto-Germanic,Seize
 Medieval Latin,Seize
+English,Selfish
+Proto-Indo-European,Selfish
+Old English,Selfish
+Middle English,Selfish
+Proto-Germanic,Selfish
+Proto-West Germanic,Selfish
 English,Selling
 English,Sent
 Estonian,Sent
@@ -4371,6 +4382,11 @@ French,Stagnant
 Latin,Stagnant
 Proto-Indo-European,Stagnant
 Proto-Celtic,Stagnant
+English,Stand
+Proto-Indo-European,Stand
+Proto-Germanic,Stand
+Old English,Stand
+Middle English,Stand
 English,Stands
 Proto-Indo-European,Stands
 Latin,Stands
@@ -4407,6 +4423,12 @@ Ancient Greek,Stole
 Proto-Indo-European,Stole
 English,Stole
 Latin,Stole
+Proto-Indo-European,Stone
+English,Stone
+Old English,Stone
+Proto-Germanic,Stone
+Middle English,Stone
+Proto-West Germanic,Stone
 English,Stoner
 English,Stop
 Proto-Indo-European,Stop
@@ -4435,6 +4457,15 @@ Latin,Story
 Middle English,Story
 Old French,Story
 Anglo-Norman,Story
+Latin,Strange
+Proto-Indo-European,Strange
+English,Strange
+Old French,Strange
+Old English,Strange
+Proto-Germanic,Strange
+Middle English,Strange
+Anglo-Norman,Strange
+Old Latin,Strange
 English,Strong
 Proto-Indo-European,Strong
 Middle English,Strong
@@ -4499,6 +4530,7 @@ Proto-Germanic,Sun
 Proto-West Germanic,Sun
 English,Sunday
 English,Sunrise
+English,Sunshine
 Proto-Indo-European,Supernova
 English,Supernova
 Latin,Supernova
@@ -4726,6 +4758,11 @@ Old English,Though
 English,Thought
 Proto-Indo-European,Thought
 Proto-Germanic,Thought
+English,Thousand
+Proto-Indo-European,Thousand
+Proto-Germanic,Thousand
+Old English,Thousand
+Proto-West Germanic,Thousand
 Proto-Indo-European,Three
 English,Three
 Proto-Germanic,Three
