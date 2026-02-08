@@ -298,6 +298,8 @@ Proto-Indo-European,Beating
 Proto-Germanic,Beating
 Old English,Beating
 Proto-West Germanic,Beating
+English,Beautiful
+Middle English,Beautiful
 English,Beauty
 Latin,Beauty
 Proto-Indo-European,Beauty
@@ -426,6 +428,12 @@ Proto-Indo-European,Bit
 English,Bit
 Proto-Germanic,Bit
 Old English,Bit
+Proto-Indo-European,Bleed
+English,Bleed
+Middle English,Bleed
+Proto-Germanic,Bleed
+Old English,Bleed
+Old Norse,Bleed
 English,Bling
 Proto-Indo-European,Blink
 English,Blink
@@ -1277,6 +1285,7 @@ Proto-Germanic,Dreams
 Old English,Dreams
 Middle English,Dreams
 Proto-West Germanic,Dreams
+English,Drew
 English,Drink
 Proto-Germanic,Drink
 Old English,Drink
@@ -1327,6 +1336,11 @@ English,Drunken
 Proto-Germanic,Drunken
 Old English,Drunken
 Proto-Indo-European,Drunken
+English,Dry
+Proto-Indo-European,Dry
+Proto-Germanic,Dry
+Middle English,Dry
+Old English,Dry
 English,Dug
 English,Dum
 Persian,Dum
@@ -4317,6 +4331,11 @@ Proto-Indo-European,Skies
 Middle English,Skies
 Old Norse,Skies
 Proto-Germanic,Skies
+English,Skin
+Proto-Indo-European,Skin
+Middle English,Skin
+Old Norse,Skin
+Proto-Germanic,Skin
 English,Skirt
 Middle English,Skirt
 Old Norse,Skirt
@@ -4689,6 +4708,7 @@ English,Surrender
 Proto-Italic,Surrender
 Old French,Surrender
 Vulgar Latin,Surrender
+English,Swam
 English,Swear
 Proto-Indo-European,Swear
 Proto-Germanic,Swear
@@ -5530,6 +5550,12 @@ Old English,Years
 Proto-Germanic,Years
 Middle English,Years
 Proto-West Germanic,Years
+English,Yellow
+Proto-Indo-European,Yellow
+Proto-Germanic,Yellow
+Middle English,Yellow
+Old English,Yellow
+Proto-West Germanic,Yellow
 English,Yes
 Middle English,Yes
 Old English,Yes
