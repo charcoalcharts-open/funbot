@@ -435,6 +435,10 @@ Middle English,Bleed
 Proto-Germanic,Bleed
 Old English,Bleed
 Old Norse,Bleed
+English,Blind
+Old English,Blind
+Proto-Germanic,Blind
+Proto-West Germanic,Blind
 English,Bling
 Proto-Indo-European,Blink
 English,Blink
@@ -514,6 +518,21 @@ Middle English,Both
 Old English,Both
 Old Norse,Both
 Proto-Germanic,Both
+English,Bottle
+Latin,Bottle
+Proto-Indo-European,Bottle
+Proto-Germanic,Bottle
+Middle English,Bottle
+Old English,Bottle
+Ancient Greek,Bottle
+Proto-West Germanic,Bottle
+Late Latin,Bottle
+Medieval Latin,Bottle
+English,Bottom
+Proto-Indo-European,Bottom
+Old English,Bottom
+Proto-Germanic,Bottom
+Middle English,Bottom
 Proto-Indo-European,Bout
 English,Bout
 Proto-Germanic,Bout
@@ -1087,6 +1106,10 @@ English,Cursing
 Old English,Cursing
 Middle English,Cursing
 Proto-Germanic,Cursing
+English,Cut
+Proto-Germanic,Cut
+Old Norse,Cut
+Middle English,Cut
 Sanskrit,Cypher
 English,Cypher
 Arabic,Cypher
@@ -1103,6 +1126,11 @@ Middle English,Daddy
 Proto-Germanic,Daddy
 Old English,Daddy
 Old French,Daddy
+English,Damn
+Latin,Damn
+Proto-Indo-European,Damn
+Middle English,Damn
+Old French,Damn
 English,Dancing
 Anglo-Norman,Dancing
 Middle English,Dancing
@@ -1183,6 +1211,10 @@ Old English,Die
 Middle English,Die
 Proto-West Germanic,Die
 English,Died
+Proto-Indo-European,Different
+Latin,Different
+English,Different
+Middle English,Different
 English,Dimes
 Ancient Greek,Dimes
 Proto-Indo-European,Dimes
@@ -2513,6 +2545,7 @@ English,Kill
 Proto-Italic,Kill
 Middle English,Kill
 Old French,Kill
+English,Killed
 English,Killing
 Latin,Killing
 Proto-Indo-European,Killing
@@ -3012,6 +3045,8 @@ Proto-Indo-European,Miss
 Old English,Miss
 Proto-Germanic,Miss
 English,Missed
+English,Mistaken
+Old Norse,Mistaken
 English,Mmm
 Latin,Mobile
 Proto-Indo-European,Mobile
@@ -3154,6 +3189,11 @@ Proto-Germanic,Name
 Old English,Name
 Middle English,Name
 Proto-West Germanic,Name
+English,Near
+Proto-Indo-European,Near
+Proto-Germanic,Near
+Middle English,Near
+Old English,Near
 English,Nebraska
 English,Neck
 Proto-Indo-European,Neck
@@ -3676,6 +3716,12 @@ English,Pony
 Proto-Indo-European,Pony
 Middle French,Pony
 French,Pony
+Latin,Poor
+English,Poor
+Proto-Indo-European,Poor
+Old French,Poor
+Middle English,Poor
+Old Latin,Poor
 Proto-Indo-European,Pork
 Latin,Pork
 English,Pork
@@ -3875,6 +3921,7 @@ Old French,Remember
 Middle English,Remember
 Vulgar Latin,Remember
 Late Latin,Remember
+English,Remind
 Latin,Rent
 English,Rent
 Proto-Indo-European,Rent
@@ -4151,6 +4198,9 @@ Middle English,Scared
 Old Norse,Scared
 Proto-Germanic,Scared
 English,Scratching
+English,Scream
+Middle Dutch,Scream
+Old Norse,Scream
 English,Screaming
 Proto-Indo-European,Screen
 English,Screen
@@ -4223,6 +4273,12 @@ Middle English,Selfish
 Proto-Germanic,Selfish
 Proto-West Germanic,Selfish
 English,Selling
+English,Sense
+Latin,Sense
+Proto-Indo-European,Sense
+Frankish,Sense
+Old French,Sense
+Proto-Germanic,Sense
 English,Sent
 Estonian,Sent
 Latin,Series
@@ -4333,6 +4389,12 @@ English,Shying
 Old English,Shying
 Middle English,Shying
 Proto-Germanic,Shying
+English,Sick
+Proto-Indo-European,Sick
+Proto-Germanic,Sick
+Old English,Sick
+Middle English,Sick
+Proto-West Germanic,Sick
 English,Side
 Proto-Indo-European,Side
 Proto-Germanic,Side
@@ -4628,6 +4690,11 @@ Proto-Germanic,Stay
 Old French,Stay
 Middle Dutch,Stay
 Frankish,Stay
+English,Stealing
+Proto-Indo-European,Stealing
+Proto-Germanic,Stealing
+Middle English,Stealing
+Old English,Stealing
 Proto-Germanic,Step
 Old English,Step
 Middle English,Step
@@ -5552,6 +5619,11 @@ English,Wire
 Proto-Indo-European,Wire
 Proto-Germanic,Wire
 Old English,Wire
+Proto-Indo-European,Wise
+English,Wise
+Proto-Germanic,Wise
+Old English,Wise
+Middle English,Wise
 English,Wish
 Proto-Indo-European,Wish
 Proto-Germanic,Wish
@@ -5613,6 +5685,11 @@ English,Worse
 Proto-Germanic,Worse
 Middle English,Worse
 Old English,Worse
+English,Worth
+Proto-Indo-European,Worth
+Old English,Worth
+Proto-Germanic,Worth
+Middle English,Worth
 Proto-Germanic,Would
 Old English,Would
 Middle English,Would
@@ -5657,6 +5734,10 @@ Proto-West Germanic,Yellow
 English,Yes
 Middle English,Yes
 Old English,Yes
+English,Yet
+Proto-Indo-European,Yet
+Proto-Germanic,Yet
+Middle English,Yet
 English,Yo
 Middle English,Yo
 English,Yonder
