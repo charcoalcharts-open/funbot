@@ -403,6 +403,8 @@ Old English,Between
 English,Biddy
 English,Big
 Middle English,Big
+English,Biggest
+Middle English,Biggest
 Latin,Bike
 English,Bike
 Ancient Greek,Bike
@@ -565,6 +567,8 @@ Latin,Bra
 Proto-Indo-European,Bra
 French,Bra
 Old French,Bra
+English,Brag
+Middle English,Brag
 English,Brains
 Proto-Indo-European,Brains
 Middle English,Brains
@@ -784,6 +788,15 @@ English,Chance
 Proto-Italic,Chance
 Old French,Chance
 Vulgar Latin,Chance
+English,Chances
+Latin,Chances
+Proto-Indo-European,Chances
+Proto-Italic,Chances
+Old French,Chances
+Proto-Germanic,Chances
+Old English,Chances
+Middle English,Chances
+Vulgar Latin,Chances
 Latin,Change
 Gaulish,Change
 Proto-Celtic,Change
@@ -1531,6 +1544,7 @@ English,Ex
 Latin,Ex
 Proto-Hellenic,Ex
 Old French,Ex
+English,Exchanged
 English,Executioner
 Latin,Executioner
 Proto-Indo-European,Executioner
@@ -1628,6 +1642,11 @@ English,Feeling
 Old English,Feeling
 Middle English,Feeling
 Proto-Germanic,Feeling
+English,Feels
+Proto-Indo-European,Feels
+Proto-Germanic,Feels
+Middle English,Feels
+Old English,Feels
 English,Feet
 Proto-Indo-European,Feet
 Proto-Germanic,Feet
@@ -1656,6 +1675,7 @@ English,Fighting
 Proto-Indo-European,Fighting
 Proto-Germanic,Fighting
 English,Filled
+English,Finally
 English,Find
 Proto-Indo-European,Find
 Old English,Find
@@ -1764,6 +1784,8 @@ English,Forgive
 Proto-Germanic,Forgive
 Middle English,Forgive
 Old English,Forgive
+English,Forgiveness
+Old English,Forgiveness
 English,Forgot
 English,Forgotten
 Old English,Forgotten
@@ -2377,6 +2399,16 @@ Proto-Indo-European,Hotter
 Proto-Germanic,Hotter
 Old English,Hotter
 Middle English,Hotter
+Proto-Indo-European,Hourglass
+English,Hourglass
+Latin,Hourglass
+Ancient Greek,Hourglass
+Proto-Germanic,Hourglass
+Middle English,Hourglass
+Old English,Hourglass
+Old French,Hourglass
+Anglo-Norman,Hourglass
+Proto-West Germanic,Hourglass
 English,House
 Proto-Indo-European,House
 Proto-Germanic,House
@@ -2431,6 +2463,11 @@ English,Imma
 Old English,In
 Proto-Germanic,In
 Middle English,In
+Latin,Innocent
+Proto-Indo-European,Innocent
+English,Innocent
+Proto-Italic,Innocent
+Old Latin,Innocent
 English,Inside
 Proto-Indo-European,Instead
 English,Instead
@@ -2438,6 +2475,13 @@ Old English,Instead
 Proto-Germanic,Instead
 Middle English,Instead
 Proto-West Germanic,Instead
+Latin,Intention
+Proto-Indo-European,Intention
+English,Intention
+Middle French,Intention
+Proto-Italic,Intention
+Old French,Intention
+Old Latin,Intention
 Proto-Indo-European,Interstate
 Latin,Interstate
 English,Interstate
@@ -2449,6 +2493,11 @@ English,Introduced
 English,Inviting
 Middle French,Inviting
 Latin,Inviting
+Latin,Involving
+Proto-Indo-European,Involving
+English,Involving
+Proto-Italic,Involving
+Old Latin,Involving
 Proto-Germanic,Is
 Middle English,Is
 Old English,Is
@@ -3009,6 +3058,9 @@ Old English,Mighty
 Proto-Germanic,Mighty
 Proto-West Germanic,Mighty
 English,Miles
+Italian,Million
+Latin,Million
+English,Million
 Proto-Indo-European,Mind
 English,Mind
 Proto-Germanic,Mind
@@ -3430,6 +3482,11 @@ Proto-Italic,Order
 Old French,Order
 French,Orleans
 English,Orleans
+English,Other
+Proto-Indo-European,Other
+Old English,Other
+Proto-Germanic,Other
+Middle English,Other
 Latin,Our
 Ancient Greek,Our
 Proto-Indo-European,Our
@@ -3517,6 +3574,7 @@ Proto-Indo-European,Pass
 Old French,Pass
 Middle English,Pass
 Vulgar Latin,Pass
+English,Passed
 English,Passing
 Latin,Passing
 Proto-Indo-European,Passing
@@ -3731,6 +3789,10 @@ English,Pork
 Proto-Italic,Pork
 Old French,Pork
 Middle English,Pork
+English,Possible
+Latin,Possible
+Proto-Indo-European,Possible
+Ancient Greek,Possible
 English,Post
 Latin,Post
 Old English,Post
@@ -3905,6 +3967,8 @@ Proto-Germanic,Red
 Middle English,Red
 Old English,Red
 Proto-West Germanic,Red
+English,Refuse
+Middle French,Refuse
 Latin,Relax
 Proto-Indo-European,Relax
 English,Relax
@@ -4236,6 +4300,12 @@ English,Seat
 Old Norse,Seat
 Proto-Germanic,Seat
 Old English,Seat
+English,Second
+Latin,Second
+Proto-Indo-European,Second
+Proto-Italic,Second
+Old French,Second
+Middle English,Second
 Latin,Secret
 English,Secret
 Proto-Indo-European,Secret
@@ -4694,6 +4764,11 @@ Proto-Germanic,Stay
 Old French,Stay
 Middle Dutch,Stay
 Frankish,Stay
+English,Steal
+Proto-Indo-European,Steal
+Proto-Germanic,Steal
+Middle English,Steal
+Old English,Steal
 English,Stealing
 Proto-Indo-European,Stealing
 Proto-Germanic,Stealing
@@ -4835,6 +4910,7 @@ Middle English,Superstardom
 Latin,Suppose
 Proto-Indo-European,Suppose
 English,Suppose
+English,Supposed
 Latin,Sure
 Proto-Indo-European,Sure
 English,Sure
@@ -5159,6 +5235,11 @@ Proto-Germanic,Too
 Old English,Too
 Middle English,Too
 English,Took
+English,Top
+Proto-Indo-European,Top
+Proto-Germanic,Top
+Middle English,Top
+Old English,Top
 English,Torn
 Proto-Indo-European,Torn
 Proto-Germanic,Torn
@@ -5493,6 +5574,12 @@ Proto-Germanic,Week
 Old English,Week
 Middle English,Week
 Proto-West Germanic,Week
+English,Weeks
+Proto-Indo-European,Weeks
+Proto-Germanic,Weeks
+Old English,Weeks
+Middle English,Weeks
+Proto-West Germanic,Weeks
 English,Weeping
 Proto-Indo-European,Weeping
 Proto-Germanic,Weeping
@@ -5573,6 +5660,11 @@ Proto-Germanic,Whole
 Old English,Whole
 Middle English,Whole
 Proto-West Germanic,Whole
+Proto-Indo-European,Whore
+English,Whore
+Proto-Germanic,Whore
+Middle English,Whore
+Old English,Whore
 English,Why
 Proto-Indo-European,Why
 Proto-Germanic,Why
