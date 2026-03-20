@@ -64,6 +64,8 @@ Old English,All
 Proto-Germanic,All
 Middle English,All
 Proto-West Germanic,All
+English,Almost
+Old English,Almost
 English,Alone
 Proto-Indo-European,Alone
 Old English,Alone
@@ -437,6 +439,8 @@ Proto-Germanic,Bills
 Old English,Bills
 Old French,Bills
 Medieval Latin,Bills
+English,Billy
+Anglo-Norman,Billy
 English,Bird
 Middle English,Bird
 Old English,Bird
@@ -457,6 +461,11 @@ Middle English,Bleed
 Proto-Germanic,Bleed
 Old English,Bleed
 Old Norse,Bleed
+English,Bless
+Proto-Indo-European,Bless
+Proto-Germanic,Bless
+Old English,Bless
+Proto-West Germanic,Bless
 English,Blind
 Old English,Blind
 Proto-Germanic,Blind
@@ -785,6 +794,12 @@ Gaulish,Car
 Proto-Celtic,Car
 Proto-Indo-European,Car
 Anglo-Norman,Car
+English,Card
+Latin,Card
+Ancient Greek,Card
+Proto-Indo-European,Card
+Old French,Card
+Middle English,Card
 English,Cards
 English,Care
 Proto-Indo-European,Care
@@ -1113,6 +1128,11 @@ Proto-Germanic,Crazy
 Old English,Crazy
 Old Norse,Crazy
 Old French,Crazy
+English,Credit
+Middle French,Credit
+Latin,Credit
+Proto-Indo-European,Credit
+Proto-Italic,Credit
 Latin,Crew
 English,Crew
 Proto-Indo-European,Crew
@@ -1266,6 +1286,18 @@ Egyptian,Delta
 English,Denim
 French,Denim
 English,Denying
+Ancient Greek,Devil
+English,Devil
+Proto-Indo-European,Devil
+Latin,Devil
+Old English,Devil
+Middle English,Devil
+Ancient Greek,Diamond
+Proto-Indo-European,Diamond
+English,Diamond
+Latin,Diamond
+Proto-Hellenic,Diamond
+Middle English,Diamond
 English,Diapers
 Middle English,Diapers
 English,Did
@@ -1785,6 +1817,10 @@ Proto-Indo-European,Fizzles
 Proto-Germanic,Fizzles
 Old English,Fizzles
 Middle English,Fizzles
+English,Flat
+Proto-Indo-European,Flat
+Old Norse,Flat
+Proto-Germanic,Flat
 English,Flatbed
 Proto-Indo-European,Flatbed
 Old English,Flatbed
@@ -2629,6 +2665,7 @@ Latin,Jim
 Proto-Indo-European,Jim
 Proto-Hellenic,Jim
 English,Job
+English,Joe
 Hebrew,John
 English,John
 Latin,John
@@ -2890,6 +2927,7 @@ Proto-West Germanic,Light
 Proto-Germanic,Like
 Old English,Like
 Middle English,Like
+English,Lincoln
 English,Line
 Proto-Indo-European,Line
 Old English,Line
@@ -3074,6 +3112,11 @@ Middle English,Many
 Proto-Indo-European,Maple
 English,Maple
 Proto-Germanic,Maple
+Latin,Married
+English,Married
+Proto-Indo-European,Married
+Old French,Married
+Middle English,Married
 English,Mate
 Proto-Indo-European,Mate
 Proto-Germanic,Mate
@@ -3132,6 +3175,9 @@ Proto-Germanic,Met
 Old English,Met
 Middle English,Met
 Proto-West Germanic,Met
+English,Mexico
+Classical Nahuatl,Mexico
+Spanish,Mexico
 English,Mia
 Old English,Midday
 Proto-Indo-European,Middle
@@ -3348,6 +3394,7 @@ Proto-Germanic,Name
 Old English,Name
 Middle English,Name
 Proto-West Germanic,Name
+English,Named
 English,Nan
 Latin,Nan
 Proto-Italic,Nan
@@ -4077,6 +4124,8 @@ Old Norse,Raise
 Middle English,Raise
 Middle Low German,Raise
 English,Raised
+English,Ran
+Old English,Ran
 Proto-Indo-European,Rather
 English,Rather
 Old English,Rather
@@ -4752,6 +4801,11 @@ English,Small
 Old English,Small
 Proto-Germanic,Small
 Middle English,Small
+English,Smart
+Proto-Indo-European,Smart
+Proto-Germanic,Smart
+Old English,Smart
+Middle English,Smart
 English,Smile
 Proto-Indo-European,Smile
 Proto-Germanic,Smile
@@ -5055,6 +5109,15 @@ Middle English,Suds
 Proto-Germanic,Suds
 English,Suede
 French,Suede
+English,Sugar
+Sanskrit,Sugar
+Latin,Sugar
+Proto-Indo-European,Sugar
+Persian,Sugar
+Old French,Sugar
+Middle Persian,Sugar
+Middle English,Sugar
+Medieval Latin,Sugar
 Latin,Suit
 Proto-Italic,Suit
 Anglo-Norman,Suit
@@ -5629,6 +5692,12 @@ Proto-Italic,Use
 Old French,Use
 Medieval Latin,Use
 English,Used
+Latin,Using
+English,Using
+Proto-Indo-European,Using
+Proto-Italic,Using
+Old French,Using
+Medieval Latin,Using
 English,Van
 Proto-Indo-European,Van
 Old Persian,Van
@@ -5993,6 +6062,10 @@ Proto-Germanic,Ya
 Middle English,Ya
 Old English,Ya
 Proto-West Germanic,Ya
+English,Yacht
+Dutch,Yacht
+Proto-West Germanic,Yacht
+Middle English,Yacht
 English,Yard
 Proto-Indo-European,Yard
 Proto-Germanic,Yard
