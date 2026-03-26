@@ -594,6 +594,11 @@ Proto-Indo-European,Bottom
 Old English,Bottom
 Proto-Germanic,Bottom
 Middle English,Bottom
+English,Bought
+Proto-Indo-European,Bought
+Proto-Germanic,Bought
+Old English,Bought
+Middle English,Bought
 Proto-Indo-European,Bout
 English,Bout
 Proto-Germanic,Bout
@@ -983,6 +988,17 @@ Middle French,Close
 Middle English,Close
 Old French,Close
 Old English,Close
+English,Closely
+Latin,Closely
+Proto-Indo-European,Closely
+Proto-Italic,Closely
+French,Closely
+Middle French,Closely
+Middle English,Closely
+Proto-Germanic,Closely
+Old English,Closely
+Old Norse,Closely
+Old French,Closely
 Latin,Closing
 English,Closing
 Proto-Italic,Closing
@@ -1048,6 +1064,14 @@ Old English,Coming
 Middle English,Coming
 Proto-Germanic,Coming
 Proto-West Germanic,Coming
+English,Completely
+Latin,Completely
+Proto-Indo-European,Completely
+Proto-Italic,Completely
+Middle English,Completely
+Proto-Germanic,Completely
+Old English,Completely
+Old Norse,Completely
 Latin,Concern
 English,Concern
 Proto-Indo-European,Concern
@@ -1060,6 +1084,12 @@ Proto-Indo-European,Control
 Middle French,Control
 Middle English,Control
 Medieval Latin,Control
+Latin,Cook
+English,Cook
+Proto-Indo-European,Cook
+Proto-Italic,Cook
+Middle English,Cook
+Old English,Cook
 Proto-Germanic,Cool
 Old English,Cool
 Proto-West Germanic,Cool
@@ -1360,6 +1390,16 @@ Old French,Disappear
 Vulgar Latin,Disappear
 English,Disco
 French,Disco
+English,Discreetly
+Latin,Discreetly
+Proto-Indo-European,Discreetly
+Proto-Italic,Discreetly
+Middle English,Discreetly
+Proto-Germanic,Discreetly
+Old English,Discreetly
+Old French,Discreetly
+Old Norse,Discreetly
+Medieval Latin,Discreetly
 Latin,Dish
 Ancient Greek,Dish
 English,Dish
@@ -1753,6 +1793,7 @@ Proto-Indo-European,Fault
 Old French,Fault
 Anglo-Norman,Fault
 Vulgar Latin,Fault
+English,Favorite
 Proto-Indo-European,Fear
 English,Fear
 Proto-Germanic,Fear
@@ -2013,6 +2054,11 @@ English,Fuck
 Proto-Indo-European,Fuck
 Proto-Germanic,Fuck
 Middle English,Fuck
+English,Fucking
+Proto-Indo-European,Fucking
+Old English,Fucking
+Middle English,Fucking
+Proto-Germanic,Fucking
 English,Fun
 Middle English,Fun
 English,Funky
@@ -2048,6 +2094,7 @@ Old Norse,Gaping
 English,Gates
 English,Gave
 Middle English,Gave
+English,Gently
 English,Geol
 Ancient Greek,Geol
 English,Georgia
@@ -2598,6 +2645,12 @@ English,Humming
 Old English,Humming
 Middle English,Humming
 Proto-Germanic,Humming
+English,Hump
+Dutch,Hump
+Proto-Indo-European,Hump
+Old Saxon,Hump
+Proto-Germanic,Hump
+Middle Low German,Hump
 English,Humped
 Dutch,Humped
 Proto-Indo-European,Humped
@@ -4048,6 +4101,9 @@ English,Pork
 Proto-Italic,Pork
 Old French,Pork
 Middle English,Pork
+Latin,Posish
+English,Posish
+Middle English,Posish
 English,Possible
 Latin,Possible
 Proto-Indo-European,Possible
@@ -4491,6 +4547,11 @@ Old English,Sails
 Middle English,Sails
 Proto-West Germanic,Sails
 English,Salem
+English,Sally
+Old English,Sally
+Proto-Germanic,Sally
+Proto-Indo-European,Sally
+Proto-West Germanic,Sally
 Latin,Salute
 English,Salute
 Proto-Indo-European,Salute
@@ -4565,6 +4626,8 @@ Old French,Screen
 Anglo-Norman,Screen
 Proto-West Germanic,Screen
 Middle English,Screen
+English,Screw
+Middle English,Screw
 English,Sea
 Proto-Indo-European,Sea
 Proto-Germanic,Sea
@@ -4921,6 +4984,7 @@ Arabic,Soda
 Middle English,Soft
 Old English,Soft
 Proto-West Germanic,Soft
+English,Softly
 English,Soge
 Latin,Sold
 English,Sold
@@ -4951,6 +5015,7 @@ Old English,Someone
 Old Norse,Someone
 Proto-West Germanic,Someone
 English,Something
+English,Sometime
 English,Sometimes
 English,Somewhere
 Proto-Indo-European,Somewhere
@@ -5033,6 +5098,9 @@ Middle English,Squeaky
 Proto-Germanic,Squeaky
 Old English,Squeaky
 Old French,Squeaky
+English,Squeeze
+Middle English,Squeeze
+Old English,Squeeze
 Latin,Stage
 Proto-Indo-European,Stage
 English,Stage
@@ -5276,6 +5344,8 @@ Proto-Germanic,Sweet
 Old English,Sweet
 Middle English,Sweet
 Proto-West Germanic,Sweet
+English,Sweetly
+Old English,Sweetly
 English,Swim
 Proto-Indo-European,Swim
 Proto-Germanic,Swim
@@ -5347,6 +5417,14 @@ English,Tea
 Dutch,Tea
 Min Nan,Tea
 Malay,Tea
+Ancient Greek,Teamwork
+English,Teamwork
+Proto-Indo-European,Teamwork
+Latin,Teamwork
+Proto-Germanic,Teamwork
+Old English,Teamwork
+Old French,Teamwork
+Middle English,Teamwork
 English,Tear
 Proto-Indo-European,Tear
 Proto-Germanic,Tear
@@ -6219,3 +6297,6 @@ Old English,Yours
 Proto-West Germanic,Yours
 Late Latin,Yours
 English,Yourself
+English,Zanzibar
+Persian,Zanzibar
+Middle Persian,Zanzibar
