@@ -453,6 +453,10 @@ English,Between
 Proto-Indo-European,Between
 Proto-Germanic,Between
 Old English,Between
+English,Beyond
+Proto-Indo-European,Beyond
+Old English,Beyond
+Proto-Germanic,Beyond
 English,Biddy
 English,Big
 Middle English,Big
@@ -894,6 +898,11 @@ Proto-Germanic,Cats
 English,Cats
 Latin,Cats
 English,Caught
+Latin,Cause
+English,Cause
+Old Latin,Cause
+Middle English,Cause
+Old French,Cause
 English,Caution
 Latin,Chance
 Proto-Indo-European,Chance
@@ -1303,6 +1312,7 @@ Middle English,Daddy
 Proto-Germanic,Daddy
 Old English,Daddy
 Old French,Daddy
+English,Damaged
 English,Damn
 Latin,Damn
 Proto-Indo-European,Damn
@@ -2464,6 +2474,10 @@ Proto-Indo-European,Heads
 Proto-Germanic,Heads
 Old English,Heads
 Middle English,Heads
+Proto-Indo-European,Health
+English,Health
+Proto-Germanic,Health
+Middle English,Health
 Proto-Germanic,Hear
 Middle English,Hear
 Old English,Hear
@@ -2650,6 +2664,18 @@ Proto-Germanic,Hop
 English,Hope
 Old English,Hope
 Proto-West Germanic,Hope
+English,Hopeless
+Proto-Indo-European,Hopeless
+Proto-Germanic,Hopeless
+Old English,Hopeless
+Middle English,Hopeless
+Proto-West Germanic,Hopeless
+English,Hopes
+Proto-Indo-European,Hopes
+Proto-Germanic,Hopes
+Old English,Hopes
+Middle English,Hopes
+Proto-West Germanic,Hopes
 English,Hoping
 Old English,Hoping
 Middle English,Hoping
@@ -3093,6 +3119,14 @@ Old English,Life
 Middle English,Life
 Proto-West Germanic,Life
 Frankish,Life
+English,Lifestyle
+Proto-Indo-European,Lifestyle
+Latin,Lifestyle
+Proto-Germanic,Lifestyle
+Middle English,Lifestyle
+Old English,Lifestyle
+Old French,Lifestyle
+Proto-West Germanic,Lifestyle
 English,Lifetime
 Old Norse,Lift
 Proto-Germanic,Lift
@@ -3427,6 +3461,10 @@ Proto-Indo-European,Miss
 Old English,Miss
 Proto-Germanic,Miss
 English,Missed
+English,Missing
+Proto-Indo-European,Missing
+Old English,Missing
+Proto-Germanic,Missing
 English,Mistaken
 Old Norse,Mistaken
 English,Mmm
@@ -4415,6 +4453,11 @@ English,Rent
 Proto-Indo-European,Rent
 Proto-Italic,Rent
 Old French,Rent
+Latin,Repair
+English,Repair
+Proto-Indo-European,Repair
+Proto-Italic,Repair
+Middle English,Repair
 English,Repeating
 English,Reputation
 Latin,Reside
@@ -4827,6 +4870,7 @@ Middle English,Set
 Old French,Set
 Late Latin,Set
 Medieval Latin,Set
+English,Sets
 Proto-Germanic,Seven
 Old English,Seven
 Middle English,Seven
@@ -4857,6 +4901,7 @@ English,Sharing
 Proto-Germanic,Sharing
 Old English,Sharing
 Middle English,Sharing
+English,Shattered
 Proto-Indo-European,She
 English,She
 Old English,She
@@ -5065,6 +5110,10 @@ Proto-Germanic,Smile
 Old Norse,Smile
 Middle English,Smile
 English,Smiley
+English,Smoking
+Proto-Indo-European,Smoking
+Old English,Smoking
+Proto-Germanic,Smoking
 Old English,Smooth
 Proto-Germanic,Smooth
 English,Snail
@@ -5143,6 +5192,12 @@ Proto-Germanic,Soon
 Middle English,Soon
 Old English,Soon
 Proto-West Germanic,Soon
+English,Sorrows
+Proto-Indo-European,Sorrows
+Proto-Germanic,Sorrows
+Middle English,Sorrows
+Old English,Sorrows
+Proto-West Germanic,Sorrows
 Proto-Indo-European,Sorry
 English,Sorry
 Proto-Germanic,Sorry
@@ -6078,6 +6133,16 @@ English,Was
 Proto-Germanic,Was
 Old English,Was
 Middle English,Was
+English,Wash
+Proto-Indo-European,Wash
+Proto-Germanic,Wash
+Old English,Wash
+English,Waste
+Proto-Indo-European,Waste
+Proto-Germanic,Waste
+Middle English,Waste
+Old Northern French,Waste
+Old French,Waste
 Proto-Indo-European,Watch
 English,Watch
 Proto-Germanic,Watch
@@ -6284,6 +6349,7 @@ Middle English,Wish
 Old English,Wish
 Proto-West Germanic,Wish
 English,Wished
+English,Wishing
 English,With
 Proto-Indo-European,With
 Old English,With
