@@ -55,6 +55,7 @@ Latin,Air
 Proto-Indo-European,Air
 Anglo-Norman,Air
 Middle English,Air
+English,Alabama
 English,Algo
 English,Alive
 Old English,Alive
@@ -484,6 +485,11 @@ Anglo-Norman,Billy
 English,Bird
 Middle English,Bird
 Old English,Bird
+Proto-Indo-European,Birmingham
+English,Birmingham
+Proto-Germanic,Birmingham
+Old English,Birmingham
+Proto-West Germanic,Birmingham
 English,Birthday
 Old English,Birthday
 Proto-Indo-European,Bit
@@ -604,6 +610,8 @@ Middle English,Both
 Old English,Both
 Old Norse,Both
 Proto-Germanic,Both
+English,Bother
+Scots,Bother
 English,Bottle
 Latin,Bottle
 Proto-Indo-European,Bottle
@@ -882,6 +890,8 @@ Proto-Indo-European,Carpet
 English,Carpet
 Italian,Carpet
 Latin,Carpet
+English,Carry
+Anglo-Norman,Carry
 English,Cars
 Latin,Cars
 Gaulish,Cars
@@ -1150,6 +1160,12 @@ English,Concern
 Proto-Indo-European,Concern
 Proto-Italic,Concern
 Medieval Latin,Concern
+Latin,Conscience
+English,Conscience
+Ancient Greek,Conscience
+Proto-Indo-European,Conscience
+Proto-Italic,Conscience
+Old French,Conscience
 English,Consoled
 Latin,Control
 English,Control
@@ -2339,6 +2355,12 @@ Proto-West Germanic,Gossip
 English,Got
 English,Gotta
 English,Gotten
+Ancient Greek,Governor
+Latin,Governor
+English,Governor
+Proto-Indo-European,Governor
+Old French,Governor
+Middle English,Governor
 English,Grandma
 English,Grandpa
 English,Grave
@@ -3009,6 +3031,11 @@ English,Kills
 Proto-Italic,Kills
 Middle English,Kills
 Old French,Kills
+English,Kin
+Proto-Indo-European,Kin
+Proto-Germanic,Kin
+Old English,Kin
+Middle English,Kin
 Old English,Kind
 Proto-Germanic,Kind
 Middle English,Kind
@@ -3069,6 +3096,12 @@ Middle English,Knowing
 Old English,Knowing
 Proto-Germanic,Knowing
 Proto-West Germanic,Knowing
+English,Known
+Proto-Indo-European,Known
+Middle English,Known
+Old English,Known
+Proto-Germanic,Known
+Proto-West Germanic,Known
 English,Knows
 Proto-Indo-European,Knows
 Middle English,Knows
@@ -3311,6 +3344,7 @@ Proto-Germanic,Lord
 Old English,Lord
 Middle English,Lord
 Proto-West Germanic,Lord
+English,Lordy
 Proto-Indo-European,Lose
 English,Lose
 Old English,Lose
@@ -3553,6 +3587,14 @@ Old English,Missing
 Proto-Germanic,Missing
 English,Mistaken
 Old Norse,Mistaken
+English,Mister
+Latin,Mister
+Proto-Indo-European,Mister
+Proto-Italic,Mister
+Old French,Mister
+Middle English,Mister
+Old Latin,Mister
+Old English,Mister
 English,Mmm
 Latin,Mobile
 Proto-Indo-European,Mobile
@@ -3578,6 +3620,12 @@ Middle English,Money
 English,Monotony
 French,Monotony
 Ancient Greek,Monotony
+Latin,Mont
+Proto-Indo-European,Mont
+French,Mont
+English,Mont
+Old French,Mont
+English,Montgomery
 English,Months
 Proto-Indo-European,Months
 Old English,Months
@@ -3747,6 +3795,9 @@ English,Needing
 Proto-Germanic,Needing
 Old English,Needing
 English,Needless
+English,Neil
+Old Irish,Neil
+Irish,Neil
 English,Nelson
 English,Neo
 English,Neol
@@ -3948,6 +3999,10 @@ English,Old
 Old English,Old
 Proto-Germanic,Old
 Proto-West Germanic,Old
+Arabic,Ole
+Proto-Semitic,Ole
+English,Ole
+Spanish,Ole
 Proto-Germanic,On
 Old English,On
 Middle English,On
@@ -5111,6 +5166,12 @@ English,Simple
 French,Simple
 Middle English,Simple
 Old French,Simple
+Proto-Indo-European,Sin
+English,Sin
+Old English,Sin
+Middle English,Sin
+Proto-Germanic,Sin
+Proto-West Germanic,Sin
 Proto-Indo-European,Since
 English,Since
 Old English,Since
@@ -5303,6 +5364,11 @@ Proto-Indo-European,Song
 Proto-Germanic,Song
 Old English,Song
 Middle English,Song
+English,Songs
+Proto-Indo-European,Songs
+Proto-Germanic,Songs
+Old English,Songs
+Middle English,Songs
 English,Soon
 Proto-Indo-European,Soon
 Proto-Germanic,Soon
@@ -5330,6 +5396,12 @@ English,Southern
 Old English,Southern
 Proto-Germanic,Southern
 Middle English,Southern
+English,Southland
+Proto-Indo-European,Southland
+Old English,Southland
+Proto-Germanic,Southland
+Middle English,Southland
+Proto-West Germanic,Southland
 Italian,Spaghetti
 English,Spaghetti
 Latin,Spaghetti
@@ -6305,6 +6377,7 @@ Proto-Germanic,Water
 Old English,Water
 Middle English,Water
 Proto-West Germanic,Water
+English,Watergate
 English,Way
 Proto-Indo-European,Way
 Proto-Germanic,Way
@@ -6386,6 +6459,11 @@ English,What
 Proto-Indo-European,What
 Proto-Germanic,What
 Old English,What
+English,Wheels
+Proto-Indo-European,Wheels
+Proto-Germanic,Wheels
+Middle English,Wheels
+Old English,Wheels
 English,When
 Proto-Indo-European,When
 Proto-Germanic,When
