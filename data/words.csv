@@ -1499,6 +1499,7 @@ Old English,Dish
 Proto-Germanic,Dish
 Middle English,Dish
 Proto-West Germanic,Dish
+English,Dishonor
 Proto-Germanic,Do
 Old English,Do
 Middle English,Do
@@ -2298,6 +2299,15 @@ Proto-Germanic,God
 Old English,God
 Middle English,God
 Proto-West Germanic,God
+English,Goddam
+Latin,Goddam
+Proto-Indo-European,Goddam
+French,Goddam
+Proto-Germanic,Goddam
+Old English,Goddam
+Middle English,Goddam
+Old French,Goddam
+Proto-West Germanic,Goddam
 English,Goddamn
 Latin,Goddamn
 Proto-Indo-European,Goddamn
@@ -2843,6 +2853,7 @@ Latin,I
 Proto-Germanic,If
 Middle English,If
 Old English,If
+English,Ima
 Latin,Imagine
 Proto-Indo-European,Imagine
 English,Imagine
@@ -3596,6 +3607,9 @@ Middle English,Mister
 Old Latin,Mister
 Old English,Mister
 English,Mmm
+Proto-Indo-European,Mo
+English,Mo
+Proto-Germanic,Mo
 Latin,Mobile
 Proto-Indo-European,Mobile
 English,Mobile
@@ -4391,6 +4405,9 @@ Ancient Greek,Possible
 English,Post
 Latin,Post
 Old English,Post
+Latin,Postmortem
+English,Postmortem
+Proto-Indo-European,Postmortem
 English,Pot
 Proto-Indo-European,Pot
 Middle Dutch,Pot
@@ -6650,6 +6667,8 @@ Middle English,Worth
 Proto-Germanic,Would
 Old English,Would
 Middle English,Would
+English,Writing
+Old English,Writing
 English,Written
 Proto-Indo-European,Wrong
 English,Wrong
