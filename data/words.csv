@@ -27,6 +27,10 @@ Latin,Act
 Proto-Indo-European,Act
 Proto-Italic,Act
 Old French,Act
+English,Addiction
+Latin,Addiction
+Proto-Indo-European,Addiction
+Proto-Italic,Addiction
 Latin,Adore
 English,Adore
 Proto-Indo-European,Adore
@@ -169,6 +173,13 @@ Proto-Indo-European,Anyhow
 Middle English,Anyhow
 Old English,Anyhow
 Proto-Germanic,Anyhow
+English,Anyone
+Proto-Indo-European,Anyone
+Proto-Germanic,Anyone
+Middle English,Anyone
+Old English,Anyone
+Old Norse,Anyone
+Proto-West Germanic,Anyone
 English,Anything
 English,Anyway
 Proto-Indo-European,Anyway
@@ -526,6 +537,14 @@ Old English,Bitter
 Middle English,Bitter
 Proto-West Germanic,Bitter
 Proto-Indo-European,Bitter
+Proto-Indo-European,Blame
+English,Blame
+Ancient Greek,Blame
+Latin,Blame
+Middle English,Blame
+Old French,Blame
+Vulgar Latin,Blame
+Late Latin,Blame
 Proto-Indo-European,Bleed
 English,Bleed
 Middle English,Bleed
@@ -829,6 +848,7 @@ Proto-Germanic,Bye
 Old Norse,Bye
 Middle English,Bye
 Proto-West Germanic,Bye
+English,Cab
 English,Caged
 English,Cajun
 English,California
@@ -957,6 +977,14 @@ Old Latin,Cause
 Middle English,Cause
 Old French,Cause
 English,Caution
+English,Ceiling
+Proto-Celtic,Ceiling
+Proto-Indo-European,Ceiling
+Irish,Ceiling
+Old Irish,Ceiling
+Old English,Ceiling
+Middle English,Ceiling
+Proto-Germanic,Ceiling
 Latin,Chance
 Proto-Indo-European,Chance
 English,Chance
@@ -1059,6 +1087,10 @@ Proto-Indo-European,City
 Proto-Italic,City
 Middle English,City
 Old French,City
+English,Clap
+Old English,Clap
+Proto-Germanic,Clap
+Middle English,Clap
 English,Class
 Latin,Class
 Proto-Indo-European,Class
@@ -1402,6 +1434,10 @@ Latin,Damn
 Proto-Indo-European,Damn
 Middle English,Damn
 Old French,Damn
+English,Dance
+Anglo-Norman,Dance
+Middle English,Dance
+Old French,Dance
 English,Dancing
 Anglo-Norman,Dancing
 Middle English,Dancing
@@ -1473,6 +1509,11 @@ Proto-Germanic,Deep
 Old English,Deep
 Middle English,Deep
 English,Defying
+Latin,Degrees
+English,Degrees
+Proto-Indo-European,Degrees
+Old French,Degrees
+Middle English,Degrees
 English,Delta
 Ancient Greek,Delta
 Phoenician,Delta
@@ -1980,6 +2021,10 @@ English,Feeling
 Old English,Feeling
 Middle English,Feeling
 Proto-Germanic,Feeling
+English,Feelings
+Old English,Feelings
+Middle English,Feelings
+Proto-Germanic,Feelings
 English,Feels
 Proto-Indo-European,Feels
 Proto-Germanic,Feels
@@ -2014,6 +2059,10 @@ Latin,Fever
 Proto-Indo-European,Fever
 English,Fever
 Old English,Fever
+Latin,Fiction
+Proto-Indo-European,Fiction
+English,Fiction
+Old French,Fiction
 English,Fifth
 Proto-Germanic,Fifth
 Middle English,Fifth
@@ -2272,6 +2321,12 @@ Middle English,Funny
 Proto-Germanic,Funny
 Old English,Funny
 Old French,Funny
+Ancient Greek,G
+Proto-Indo-European,G
+English,G
+French,G
+Latin,G
+Proto-Hellenic,G
 English,Game
 Proto-Indo-European,Game
 Proto-Germanic,Game
@@ -2515,6 +2570,7 @@ Middle English,Guts
 Old English,Guts
 English,Guy
 English,Guys
+English,H
 English,Ha
 English,Had
 Middle English,Had
@@ -2920,6 +2976,10 @@ Proto-Indo-European,Hunger
 Proto-Germanic,Hunger
 Old English,Hunger
 Middle English,Hunger
+English,Hurry
+Proto-Indo-European,Hurry
+Middle English,Hurry
+Proto-Germanic,Hurry
 English,Hurt
 Middle English,Hurt
 English,Hurting
@@ -3984,6 +4044,8 @@ Proto-Germanic,Nine
 Old English,Nine
 Middle English,Nine
 Proto-West Germanic,Nine
+English,Ninety
+Proto-Germanic,Ninety
 Latin,No
 Old High German,No
 Proto-Italic,No
@@ -5836,6 +5898,12 @@ Latin,Superstardom
 Old English,Superstardom
 Proto-Germanic,Superstardom
 Middle English,Superstardom
+Proto-Indo-European,Supper
+English,Supper
+Proto-Germanic,Supper
+Old French,Supper
+Latin,Supper
+Late Latin,Supper
 Latin,Suppose
 Proto-Indo-European,Suppose
 English,Suppose
@@ -6191,6 +6259,11 @@ English,Today
 Proto-Germanic,Today
 Old English,Today
 Middle English,Today
+English,Toes
+Proto-Indo-European,Toes
+Proto-Germanic,Toes
+Old English,Toes
+Middle English,Toes
 English,Together
 Proto-Indo-European,Together
 Proto-Germanic,Together
@@ -6697,6 +6770,7 @@ English,Where
 Proto-Indo-European,Where
 Proto-Germanic,Where
 Old English,Where
+English,Whew
 English,While
 Proto-Indo-European,While
 Old English,While
@@ -6816,6 +6890,11 @@ English,Without
 Middle English,Without
 English,Wizard
 English,Woah
+Proto-Indo-European,Woke
+English,Woke
+Old English,Woke
+Proto-Germanic,Woke
+Middle English,Woke
 English,Woman
 Middle English,Woman
 Old English,Woman
@@ -6830,6 +6909,7 @@ Proto-Indo-European,Wonder
 Proto-Germanic,Wonder
 Old English,Wonder
 English,Wondering
+English,Wooh
 Proto-Germanic,Word
 Old English,Word
 Middle English,Word
