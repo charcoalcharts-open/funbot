@@ -945,6 +945,14 @@ Gaulish,Cars
 Proto-Celtic,Cars
 Proto-Indo-European,Cars
 Anglo-Norman,Cars
+English,Case
+Latin,Case
+Proto-Indo-European,Case
+Proto-Italic,Case
+Old French,Case
+Middle English,Case
+Anglo-Norman,Case
+Late Latin,Case
 Latin,Cash
 English,Cash
 Middle French,Cash
@@ -985,6 +993,12 @@ Old Irish,Ceiling
 Old English,Ceiling
 Middle English,Ceiling
 Proto-Germanic,Ceiling
+Ancient Greek,Chair
+English,Chair
+Proto-Indo-European,Chair
+Latin,Chair
+Proto-Hellenic,Chair
+Middle English,Chair
 Latin,Chance
 Proto-Indo-European,Chance
 English,Chance
@@ -1160,6 +1174,11 @@ Middle English,Cloud
 Old English,Cloud
 Proto-West Germanic,Cloud
 English,Clown
+English,Clowns
+Proto-Germanic,Clowns
+Old English,Clowns
+Middle English,Clowns
+Proto-Indo-European,Clowns
 English,Coast
 Latin,Coast
 Old French,Coast
@@ -1340,6 +1359,7 @@ Old English,Cradle
 Proto-Germanic,Cradle
 Proto-Indo-European,Cradle
 English,Crashed
+English,Crawling
 English,Crazy
 Latin,Crazy
 Proto-Indo-European,Crazy
@@ -5219,6 +5239,11 @@ Middle English,Seize
 Old French,Seize
 Proto-Germanic,Seize
 Medieval Latin,Seize
+English,Self
+Proto-Indo-European,Self
+Middle English,Self
+Old English,Self
+Proto-Germanic,Self
 English,Selfish
 Proto-Indo-European,Selfish
 Old English,Selfish
@@ -5460,6 +5485,7 @@ Middle English,Sky
 Old Norse,Sky
 Proto-Germanic,Sky
 English,Slam
+English,Slap
 English,Slapped
 English,Sleep
 Proto-Indo-European,Sleep
@@ -5689,6 +5715,11 @@ French,Stagnant
 Latin,Stagnant
 Proto-Indo-European,Stagnant
 Proto-Celtic,Stagnant
+English,Stairs
+Proto-Indo-European,Stairs
+Proto-Germanic,Stairs
+Middle English,Stairs
+Old English,Stairs
 English,Stand
 Proto-Indo-European,Stand
 Proto-Germanic,Stand
@@ -5720,6 +5751,7 @@ English,Start
 Proto-Indo-European,Start
 Middle English,Start
 Proto-West Germanic,Start
+English,Started
 Proto-Germanic,Stay
 Old French,Stay
 Middle Dutch,Stay
