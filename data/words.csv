@@ -21,6 +21,11 @@ Proto-Indo-European,Accepting
 Proto-Italic,Accepting
 Old French,Accepting
 Middle English,Accepting
+English,Ache
+Proto-Indo-European,Ache
+Proto-Germanic,Ache
+Old English,Ache
+Middle English,Ache
 English,Across
 English,Act
 Latin,Act
@@ -1582,6 +1587,15 @@ English,Delta
 Ancient Greek,Delta
 Phoenician,Delta
 Egyptian,Delta
+English,Demons
+Ancient Greek,Demons
+Latin,Demons
+Proto-Indo-European,Demons
+Proto-Germanic,Demons
+Old English,Demons
+Middle English,Demons
+Proto-West Germanic,Demons
+Medieval Latin,Demons
 English,Denim
 French,Denim
 English,Denying
@@ -1594,6 +1608,10 @@ Old French,Deserves
 Middle English,Deserves
 Proto-Italic,Deserves
 Vulgar Latin,Deserves
+Latin,Desire
+English,Desire
+Proto-Indo-European,Desire
+Old French,Desire
 English,Destiny
 English,Destruction
 Latin,Destruction
@@ -3585,6 +3603,12 @@ Proto-Germanic,Living
 Old English,Living
 Middle English,Living
 English,Locked
+English,Locking
+Proto-Indo-European,Locking
+Proto-Germanic,Locking
+Old English,Locking
+Middle English,Locking
+Proto-West Germanic,Locking
 English,Lonely
 Proto-Indo-European,Lonely
 Middle English,Lonely
@@ -4829,6 +4853,14 @@ Latin,Promise
 English,Promise
 Old French,Promise
 Late Latin,Promise
+English,Promises
+Proto-Indo-European,Promises
+Latin,Promises
+Old French,Promises
+Proto-Germanic,Promises
+Old English,Promises
+Middle English,Promises
+Late Latin,Promises
 English,Proof
 Latin,Proof
 Proto-Indo-European,Proof
@@ -5091,6 +5123,7 @@ Middle English,Ring
 English,Rip
 Proto-Germanic,Rip
 Middle English,Rip
+English,Ripping
 English,Rise
 Proto-Indo-European,Rise
 Proto-Germanic,Rise
@@ -5792,6 +5825,12 @@ Middle English,Soon
 Old English,Soon
 Proto-West Germanic,Soon
 English,Sooner
+English,Sorrow
+Proto-Indo-European,Sorrow
+Middle English,Sorrow
+Proto-Germanic,Sorrow
+Old English,Sorrow
+Proto-West Germanic,Sorrow
 English,Sorrows
 Proto-Indo-European,Sorrows
 Proto-Germanic,Sorrows
@@ -6012,6 +6051,7 @@ Proto-Germanic,Strange
 Middle English,Strange
 Anglo-Norman,Strange
 Old Latin,Strange
+English,Stripping
 English,Strong
 Proto-Indo-European,Strong
 Middle English,Strong
@@ -6492,6 +6532,11 @@ Latin,Tomb
 Ancient Greek,Tomb
 Middle English,Tomb
 Anglo-Norman,Tomb
+Proto-Indo-European,Tomorrow
+English,Tomorrow
+Middle English,Tomorrow
+Proto-Germanic,Tomorrow
+Old English,Tomorrow
 English,Tonight
 Middle English,Tonight
 Proto-Indo-European,Too
@@ -7019,6 +7064,12 @@ Proto-Germanic,Whole
 Old English,Whole
 Middle English,Whole
 Proto-West Germanic,Whole
+Proto-Indo-European,Wholl
+English,Wholl
+Proto-Germanic,Wholl
+Middle English,Wholl
+Old English,Wholl
+Proto-West Germanic,Wholl
 Proto-Indo-European,Whore
 English,Whore
 Proto-Germanic,Whore
@@ -7176,6 +7227,8 @@ Middle English,Worth
 Proto-Germanic,Would
 Old English,Would
 Middle English,Would
+English,Wrestle
+Old English,Wrestle
 English,Writing
 Old English,Writing
 English,Written
