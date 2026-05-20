@@ -554,6 +554,12 @@ Proto-Germanic,Black
 Old Norse,Black
 Old English,Black
 Middle English,Black
+Proto-Indo-European,Blade
+English,Blade
+Middle English,Blade
+Proto-Germanic,Blade
+Old English,Blade
+Proto-West Germanic,Blade
 Proto-Indo-European,Blame
 English,Blame
 Ancient Greek,Blame
@@ -733,6 +739,11 @@ French,Bra
 Old French,Bra
 English,Brag
 Middle English,Brag
+English,Braing
+Proto-Indo-European,Braing
+Middle English,Braing
+Proto-Germanic,Braing
+Old English,Braing
 English,Brains
 Proto-Indo-European,Brains
 Middle English,Brains
@@ -808,6 +819,8 @@ Proto-Germanic,Bucket
 Old French,Bucket
 Gaulish,Bucket
 Proto-North Caucasian,Bucket
+English,Bullet
+Middle French,Bullet
 English,Bum
 English,Burdensome
 Proto-Indo-European,Burdensome
@@ -980,6 +993,14 @@ English,Cash
 Middle French,Cash
 Proto-Indo-European,Cash
 Proto-Italic,Cash
+Latin,Catch
+Proto-Indo-European,Catch
+English,Catch
+Proto-Italic,Catch
+Middle English,Catch
+Anglo-Norman,Catch
+Late Latin,Catch
+Vulgar Latin,Catch
 Latin,Catching
 Proto-Indo-European,Catching
 English,Catching
@@ -2231,6 +2252,11 @@ Proto-Indo-European,Fizzles
 Proto-Germanic,Fizzles
 Old English,Fizzles
 Middle English,Fizzles
+English,Flames
+Proto-Indo-European,Flames
+Latin,Flames
+Old French,Flames
+Middle English,Flames
 English,Flat
 Proto-Indo-European,Flat
 Old Norse,Flat
@@ -2387,6 +2413,11 @@ Old English,From
 Proto-Germanic,From
 Old Norse,From
 Middle English,From
+English,Front
+Latin,Front
+Proto-Indo-European,Front
+Old French,Front
+Middle English,Front
 English,Frozen
 Proto-Indo-European,Frozen
 Proto-Germanic,Frozen
@@ -2629,6 +2660,13 @@ Proto-Germanic,Greens
 Old English,Greens
 Middle English,Greens
 Proto-West Germanic,Greens
+Proto-Indo-European,Grenade
+Latin,Grenade
+English,Grenade
+French,Grenade
+Proto-Italic,Grenade
+Old French,Grenade
+Medieval Latin,Grenade
 Proto-Indo-European,Grey
 English,Grey
 Proto-Germanic,Grey
@@ -3250,6 +3288,8 @@ Proto-Indo-European,Judgement
 English,Judgement
 Proto-Italic,Judgement
 Old French,Judgement
+English,Jump
+Middle English,Jump
 English,Jungle
 Sanskrit,Jungle
 Hindi,Jungle
@@ -3506,6 +3546,11 @@ English,Letting
 Proto-Indo-European,Letting
 Old English,Letting
 Proto-Germanic,Letting
+English,Liar
+Proto-Indo-European,Liar
+Proto-Germanic,Liar
+Old English,Liar
+Proto-West Germanic,Liar
 English,License
 Latin,License
 Proto-Indo-European,License
@@ -6042,6 +6087,12 @@ Latin,Story
 Middle English,Story
 Old French,Story
 Anglo-Norman,Story
+Proto-Indo-European,Straight
+English,Straight
+Proto-Germanic,Straight
+Middle English,Straight
+Old English,Straight
+Proto-West Germanic,Straight
 Latin,Strange
 Proto-Indo-European,Strange
 English,Strange
@@ -6555,6 +6606,7 @@ Proto-Indo-European,Torn
 Proto-Germanic,Torn
 Old English,Torn
 Middle English,Torn
+English,Tossed
 Proto-Indo-European,Totter
 English,Totter
 Old English,Totter
@@ -6602,7 +6654,16 @@ Old English,Trailer
 Proto-Germanic,Trailer
 Old French,Trailer
 Vulgar Latin,Trailer
+Latin,Traing
+English,Traing
+Proto-Indo-European,Traing
+Old French,Traing
+Vulgar Latin,Traing
+Middle English,Traing
 English,Transcendental
+English,Trash
+Middle English,Trash
+Old Norse,Trash
 English,Trashy
 Latin,Trashy
 Proto-Indo-European,Trashy
