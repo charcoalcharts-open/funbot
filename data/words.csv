@@ -214,6 +214,12 @@ Old English,Are
 Proto-Germanic,Are
 Middle English,Are
 Proto-West Germanic,Are
+English,Arm
+Proto-Indo-European,Arm
+Proto-Germanic,Arm
+Old English,Arm
+Middle English,Arm
+Proto-West Germanic,Arm
 English,Arms
 English,Around
 Proto-Indo-European,Around
@@ -284,6 +290,12 @@ Proto-Germanic,Back
 Middle English,Back
 Old English,Back
 Proto-West Germanic,Back
+English,Backless
+Proto-Indo-European,Backless
+Proto-Germanic,Backless
+Middle English,Backless
+Old English,Backless
+Proto-West Germanic,Backless
 English,Backyard
 Proto-Indo-European,Backyard
 Proto-Germanic,Backyard
@@ -365,6 +377,13 @@ Old English,Baseball
 Old Norse,Baseball
 Old French,Baseball
 Late Latin,Baseball
+Ancient Greek,Bass
+Proto-Indo-European,Bass
+Latin,Bass
+English,Bass
+Italian,Bass
+Proto-Hellenic,Bass
+Late Latin,Bass
 English,Bats
 Proto-Indo-European,Bats
 Proto-Germanic,Bats
@@ -705,6 +724,11 @@ Proto-Indo-European,Bought
 Proto-Germanic,Bought
 Old English,Bought
 Middle English,Bought
+English,Bound
+Proto-Indo-European,Bound
+Old English,Bound
+Middle English,Bound
+Proto-Germanic,Bound
 Proto-Indo-European,Bout
 English,Bout
 Proto-Germanic,Bout
@@ -1100,6 +1124,9 @@ Old French,Check
 Middle English,Check
 Vulgar Latin,Check
 Medieval Latin,Check
+English,Chemical
+Latin,Chemical
+Arabic,Chemical
 English,Chert
 Latin,Chess
 English,Chess
@@ -1113,6 +1140,13 @@ Proto-Indo-Iranian,Chess
 Middle English,Chess
 Vulgar Latin,Chess
 Medieval Latin,Chess
+English,Chest
+Latin,Chest
+Ancient Greek,Chest
+Proto-Indo-European,Chest
+Middle English,Chest
+Proto-Germanic,Chest
+Old English,Chest
 French,Chevrolet
 English,Chevrolet
 English,Chewed
@@ -1528,6 +1562,12 @@ English,Danger
 Proto-Italic,Danger
 Old French,Danger
 Middle English,Danger
+English,Dare
+Proto-Indo-European,Dare
+Proto-Germanic,Dare
+Old English,Dare
+Middle English,Dare
+Proto-West Germanic,Dare
 English,Dark
 Proto-Indo-European,Dark
 Old English,Dark
@@ -1682,6 +1722,8 @@ Old French,Disappear
 Vulgar Latin,Disappear
 English,Disco
 French,Disco
+English,Discotheque
+French,Discotheque
 English,Discreetly
 Latin,Discreetly
 Proto-Indo-European,Discreetly
@@ -1804,6 +1846,11 @@ Proto-Germanic,Dreams
 Old English,Dreams
 Middle English,Dreams
 Proto-West Germanic,Dreams
+Latin,Dress
+English,Dress
+Proto-Indo-European,Dress
+Old French,Dress
+Medieval Latin,Dress
 English,Drew
 English,Drift
 Proto-Indo-European,Drift
@@ -2073,6 +2120,7 @@ Latin,Fact
 Proto-Indo-European,Fact
 English,Fact
 Proto-Italic,Fact
+English,Faded
 Latin,Fail
 Proto-Indo-European,Fail
 English,Fail
@@ -2451,6 +2499,11 @@ Middle English,Funny
 Proto-Germanic,Funny
 Old English,Funny
 Old French,Funny
+Proto-Indo-European,Future
+Latin,Future
+English,Future
+Proto-Italic,Future
+Middle English,Future
 Ancient Greek,G
 Proto-Indo-European,G
 English,G
@@ -2901,6 +2954,10 @@ Proto-Indo-European,Help
 Proto-Germanic,Help
 Old English,Help
 Proto-West Germanic,Help
+Proto-Indo-European,Helpless
+English,Helpless
+Proto-Germanic,Helpless
+Old English,Helpless
 Proto-Indo-European,Her
 English,Her
 Middle English,Her
@@ -2991,6 +3048,12 @@ Proto-Germanic,Hold
 Old English,Hold
 Middle English,Hold
 Proto-West Germanic,Hold
+English,Holding
+Proto-Indo-European,Holding
+Proto-Germanic,Holding
+Old English,Holding
+Middle English,Holding
+Proto-West Germanic,Holding
 English,Hole
 Proto-Indo-European,Hole
 Proto-Germanic,Hole
@@ -3288,6 +3351,11 @@ Proto-Indo-European,Judgement
 English,Judgement
 Proto-Italic,Judgement
 Old French,Judgement
+Proto-Indo-European,Juliet
+Italian,Juliet
+English,Juliet
+Latin,Juliet
+Ancient Greek,Juliet
 English,Jump
 Middle English,Jump
 English,Jungle
@@ -3427,6 +3495,8 @@ Middle English,Knows
 Old English,Knows
 Proto-Germanic,Knows
 Proto-West Germanic,Knows
+English,Kryptonite
+English,L
 Latin,La
 Latin,Lab
 English,Lab
@@ -3682,6 +3752,7 @@ English,Look
 Old English,Look
 Middle English,Look
 Proto-West Germanic,Look
+English,Looked
 English,Looker
 Latin,Looker
 Proto-Indo-European,Looker
@@ -4643,6 +4714,11 @@ Frankish,Petite
 Ancient Greek,Phone
 Proto-Indo-European,Phone
 English,Phone
+Latin,Physical
+English,Physical
+Proto-Indo-European,Physical
+Ancient Greek,Physical
+Late Latin,Physical
 Proto-Indo-European,Piano
 Latin,Piano
 English,Piano
@@ -5609,6 +5685,10 @@ Middle English,Show
 Proto-Indo-European,Show
 English,Shows
 English,Shrug
+English,Shut
+Proto-Indo-European,Shut
+Proto-Germanic,Shut
+Old English,Shut
 English,Shying
 Old English,Shying
 Middle English,Shying
@@ -5789,6 +5869,7 @@ Middle English,Snail
 English,Snap
 Dutch,Snap
 Low German,Snap
+English,Sneaks
 English,Sniffed
 Proto-Germanic,So
 Old English,So
@@ -6362,6 +6443,14 @@ Proto-Germanic,Tearing
 Old English,Tearing
 Middle English,Tearing
 English,Tears
+English,Teenage
+Proto-Indo-European,Teenage
+Latin,Teenage
+Old French,Teenage
+Proto-Germanic,Teenage
+Old English,Teenage
+Middle English,Teenage
+Proto-West Germanic,Teenage
 English,Teeter
 Middle English,Teeter
 Proto-Indo-European,Teeth
@@ -6889,6 +6978,7 @@ Proto-Indo-European,Very
 Proto-Italic,Very
 Middle English,Very
 Old French,Very
+English,Victims
 English,Voice
 Latin,Voice
 Proto-Indo-European,Voice
