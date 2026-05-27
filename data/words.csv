@@ -41,6 +41,12 @@ English,Adore
 Proto-Indo-European,Adore
 Proto-Italic,Adore
 Old French,Adore
+English,Advice
+Latin,Advice
+Proto-Indo-European,Advice
+Proto-Italic,Advice
+Old French,Advice
+Middle English,Advice
 English,Afloat
 Ancient Greek,Afloat
 Proto-Indo-European,Afloat
@@ -1285,6 +1291,13 @@ Arabic,Coffee
 Dutch,Coffee
 Ottoman Turkish,Coffee
 Persian,Coffee
+Latin,Coincidence
+English,Coincidence
+French,Coincidence
+Proto-Indo-European,Coincidence
+Ancient Greek,Coincidence
+Proto-Italic,Coincidence
+Old Latin,Coincidence
 English,Coke
 Latin,Coke
 Quechua,Coke
@@ -1960,6 +1973,11 @@ Old French,Easy
 Middle English,Easy
 Proto-Germanic,Easy
 Old English,Easy
+Ancient Greek,Echo
+English,Echo
+Latin,Echo
+Proto-Indo-European,Echo
+Middle English,Echo
 Proto-Indo-European,Ecstasy
 Ancient Greek,Ecstasy
 English,Ecstasy
@@ -2969,6 +2987,7 @@ English,Here
 Middle English,Here
 Proto-Germanic,Here
 Old English,Here
+English,Heroes
 Proto-Germanic,Hey
 Old English,Hey
 Middle English,Hey
@@ -3669,6 +3688,11 @@ Proto-West Germanic,Lights
 Proto-Germanic,Like
 Old English,Like
 Middle English,Like
+Proto-Indo-European,Limb
+English,Limb
+Proto-Germanic,Limb
+Old English,Limb
+Middle English,Limb
 English,Lincoln
 English,Line
 Proto-Indo-European,Line
@@ -4826,6 +4850,10 @@ Proto-Indo-European,Plays
 Proto-Germanic,Plays
 Middle English,Plays
 Old English,Plays
+Latin,Pleasant
+English,Pleasant
+Proto-Indo-European,Pleasant
+Old French,Pleasant
 Latin,Please
 English,Please
 Proto-Indo-European,Please
@@ -4893,6 +4921,14 @@ English,Possible
 Latin,Possible
 Proto-Indo-European,Possible
 Ancient Greek,Possible
+English,Possibly
+Latin,Possibly
+Proto-Indo-European,Possibly
+Ancient Greek,Possibly
+Middle English,Possibly
+Proto-Germanic,Possibly
+Old English,Possibly
+Old Norse,Possibly
 English,Post
 Latin,Post
 Old English,Post
@@ -5984,6 +6020,10 @@ Old English,Southland
 Proto-Germanic,Southland
 Middle English,Southland
 Proto-West Germanic,Southland
+English,Space
+Latin,Space
+Proto-Indo-European,Space
+Old French,Space
 Italian,Spaghetti
 English,Spaghetti
 Latin,Spaghetti
@@ -6850,6 +6890,8 @@ Old French,Turnip
 Middle English,Turnip
 Old English,Turnip
 English,Tv
+English,Twice
+Old English,Twice
 English,Twiddle
 English,Twin
 Proto-Indo-European,Twin
