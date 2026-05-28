@@ -47,6 +47,10 @@ Proto-Indo-European,Advice
 Proto-Italic,Advice
 Old French,Advice
 Middle English,Advice
+English,Afford
+Proto-Indo-European,Afford
+Old English,Afford
+Proto-Germanic,Afford
 English,Afloat
 Ancient Greek,Afloat
 Proto-Indo-European,Afloat
@@ -114,6 +118,11 @@ Middle English,Alright
 Old English,Alright
 Proto-Germanic,Alright
 Proto-West Germanic,Alright
+English,Although
+Proto-Indo-European,Although
+Old English,Although
+Proto-Germanic,Although
+Proto-West Germanic,Although
 English,Always
 Proto-Indo-European,Always
 Proto-Germanic,Always
@@ -269,6 +278,8 @@ Proto-Indo-European,At
 Proto-Germanic,At
 Old English,At
 Middle English,At
+Japanese,Atari
+English,Atari
 Latin,Avenue
 Proto-Indo-European,Avenue
 English,Avenue
@@ -462,6 +473,11 @@ Proto-Indo-European,Before
 Old English,Before
 Proto-Germanic,Before
 Middle English,Before
+Proto-Indo-European,Beg
+English,Beg
+Proto-Germanic,Beg
+Old English,Beg
+Middle English,Beg
 Proto-Indo-European,Begging
 English,Begging
 Proto-Germanic,Begging
@@ -702,6 +718,10 @@ Proto-Germanic,Born
 Old English,Born
 Middle English,Born
 Proto-West Germanic,Born
+English,Borrow
+Proto-Indo-European,Borrow
+Proto-Germanic,Borrow
+Old English,Borrow
 English,Both
 Proto-Indo-European,Both
 Middle English,Both
@@ -750,6 +770,18 @@ Old French,Boy
 Middle English,Boy
 Frankish,Boy
 Old English,Boy
+Proto-Indo-European,Boyfriend
+English,Boyfriend
+Ancient Greek,Boyfriend
+Middle Dutch,Boyfriend
+Latin,Boyfriend
+Proto-Hellenic,Boyfriend
+Proto-Germanic,Boyfriend
+Old English,Boyfriend
+Old French,Boyfriend
+Middle English,Boyfriend
+Proto-West Germanic,Boyfriend
+Frankish,Boyfriend
 Proto-Indo-European,Boys
 English,Boys
 Ancient Greek,Boys
@@ -1117,6 +1149,7 @@ Proto-Indo-European,Cheap
 Proto-Germanic,Cheap
 Middle English,Cheap
 Old English,Cheap
+English,Cheat
 English,Cheated
 English,Check
 Latin,Check
@@ -1548,6 +1581,7 @@ English,Da
 Proto-Indo-European,Da
 Russian,Da
 Proto-Slavic,Da
+English,Dad
 English,Daddy
 Latin,Daddy
 Proto-Indo-European,Daddy
@@ -1946,6 +1980,7 @@ Proto-Germanic,Dry
 Middle English,Dry
 Old English,Dry
 English,Dug
+English,Duh
 English,Dum
 Persian,Dum
 Hindi,Dum
@@ -2148,6 +2183,12 @@ Latin,Failure
 English,Failure
 Proto-Indo-European,Failure
 Old French,Failure
+English,Fair
+Proto-Indo-European,Fair
+Proto-Germanic,Fair
+Middle English,Fair
+Old English,Fair
+Proto-West Germanic,Fair
 English,Fall
 Proto-Germanic,Fall
 Old English,Fall
@@ -2156,6 +2197,10 @@ English,Falling
 Proto-Germanic,Falling
 Old English,Falling
 Proto-Indo-European,Falling
+English,Falls
+Proto-Germanic,Falls
+Old English,Falls
+Proto-Indo-European,Falls
 Latin,Familiar
 Proto-Indo-European,Familiar
 English,Familiar
@@ -2236,6 +2281,8 @@ Latin,Fence
 Proto-Indo-European,Fence
 English,Fence
 Middle English,Fence
+Italian,Ferrari
+English,Ferrari
 Latin,Fever
 Proto-Indo-European,Fever
 English,Fever
@@ -3527,6 +3574,11 @@ Proto-Indo-European,Lace
 Old French,Lace
 Proto-Italic,Lace
 English,Ladies
+English,Lady
+Proto-Germanic,Lady
+Old English,Lady
+Middle English,Lady
+Proto-West Germanic,Lady
 English,Lah
 Latin,Lah
 English,Land
@@ -4227,6 +4279,7 @@ Late Latin,Na
 English,Nada
 Spanish,Nada
 Latin,Nada
+English,Nah
 English,Nal
 Latin,Nal
 Proto-Indo-European,Nal
@@ -4811,6 +4864,10 @@ Latin,Pitch
 Proto-Indo-European,Pitch
 Telugu,Pitta
 English,Pitta
+English,Pity
+Latin,Pity
+Middle English,Pity
+Anglo-Norman,Pity
 English,Pj
 English,Place
 Proto-Indo-European,Place
@@ -4874,6 +4931,8 @@ Proto-Germanic,Plot
 Proto-Indo-European,Plus
 Latin,Plus
 English,Plus
+English,Pocket
+Middle English,Pocket
 Latin,Point
 English,Point
 Proto-Indo-European,Point
@@ -5244,6 +5303,14 @@ Old English,Rich
 Proto-Germanic,Rich
 Middle English,Rich
 Proto-West Germanic,Rich
+English,Richer
+Latin,Richer
+Proto-Indo-European,Richer
+Proto-Celtic,Richer
+Middle English,Richer
+Old English,Richer
+Proto-Germanic,Richer
+Proto-West Germanic,Richer
 English,Ride
 Proto-Indo-European,Ride
 Proto-Germanic,Ride
@@ -7439,6 +7506,7 @@ Proto-Germanic,Wrong
 Old Norse,Wrong
 Old English,Wrong
 English,Wrote
+English,Xbox
 English,Ya
 Proto-Indo-European,Ya
 Proto-Germanic,Ya
