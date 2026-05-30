@@ -1468,6 +1468,12 @@ Old French,County
 Anglo-Norman,County
 Middle English,County
 Old English,County
+Latin,Couple
+Proto-Indo-European,Couple
+English,Couple
+Proto-Italic,Couple
+Old French,Couple
+Middle English,Couple
 English,Course
 Proto-Indo-European,Course
 Latin,Course
@@ -2217,6 +2223,7 @@ Proto-Germanic,Far
 Proto-Indo-European,Farther
 English,Farther
 Old English,Farther
+English,Fashioned
 English,Father
 Proto-Indo-European,Father
 Proto-Germanic,Father
@@ -2854,6 +2861,11 @@ Proto-Germanic,Half
 Old English,Half
 Middle English,Half
 Proto-West Germanic,Half
+Proto-Indo-European,Halls
+English,Halls
+Proto-Germanic,Halls
+Old English,Halls
+Middle English,Halls
 English,Hallway
 Proto-Indo-European,Hallway
 Proto-Germanic,Hallway
@@ -3127,6 +3139,15 @@ Proto-Germanic,Hole
 Old English,Hole
 Middle English,Hole
 Proto-West Germanic,Hole
+English,Holiday
+Middle English,Holiday
+Old English,Holiday
+Proto-Indo-European,Holly
+English,Holly
+Proto-Germanic,Holly
+Middle English,Holly
+Old English,Holly
+Proto-West Germanic,Holly
 English,Hollywood
 Proto-Indo-European,Hollywood
 Proto-Germanic,Hollywood
@@ -3402,6 +3423,12 @@ Latin,Joking
 English,Joking
 Proto-Indo-European,Joking
 Proto-Italic,Joking
+English,Jolly
+Proto-Indo-European,Jolly
+Old Norse,Jolly
+Proto-Germanic,Jolly
+Old French,Jolly
+Middle English,Jolly
 Latin,Joy
 English,Joy
 Proto-Indo-European,Joy
@@ -3603,6 +3630,12 @@ Middle English,Lately
 Proto-Germanic,Lately
 Old English,Lately
 Old Norse,Lately
+English,Later
+Proto-Indo-European,Later
+Middle English,Later
+Old English,Later
+Proto-Germanic,Later
+Old Norse,Later
 Proto-Indo-European,Laughing
 English,Laughing
 Old English,Laughing
@@ -4035,6 +4068,8 @@ Proto-Indo-European,Mercy
 Old French,Mercy
 Middle English,Mercy
 Anglo-Norman,Mercy
+English,Merrily
+Middle English,Merrily
 Latin,Message
 English,Message
 Proto-Indo-European,Message
@@ -4130,6 +4165,12 @@ Old French,Mister
 Middle English,Mister
 Old Latin,Mister
 Old English,Mister
+Proto-Indo-European,Mistletoe
+English,Mistletoe
+Old English,Mistletoe
+Proto-Germanic,Mistletoe
+Proto-West Germanic,Mistletoe
+Middle English,Mistletoe
 English,Mmm
 Proto-Indo-European,Mo
 English,Mo
@@ -5375,6 +5416,10 @@ Proto-West Germanic,Roads
 English,Rock
 Middle English,Rock
 Old English,Rock
+English,Rocking
+Old English,Rocking
+Middle English,Rocking
+Proto-Germanic,Rocking
 English,Rocks
 Proto-Indo-European,Rocks
 Proto-Germanic,Rocks
@@ -5677,6 +5722,9 @@ Old French,Sense
 Proto-Germanic,Sense
 English,Sent
 Estonian,Sent
+English,Sentimental
+Latin,Sentimental
+Medieval Latin,Sentimental
 Latin,Series
 Proto-Indo-European,Series
 English,Series
@@ -6111,6 +6159,11 @@ Old English,Spend
 Proto-Italic,Spend
 Proto-West Germanic,Spend
 English,Spent
+English,Spirit
+Proto-Indo-European,Spirit
+Latin,Spirit
+Proto-Italic,Spirit
+Old French,Spirit
 English,Spit
 Proto-Indo-European,Spit
 Old English,Spit
@@ -6890,6 +6943,14 @@ Old French,Trial
 Anglo-Norman,Trial
 English,Tricks
 English,Tried
+English,Tries
+Proto-Indo-European,Tries
+Latin,Tries
+Old French,Tries
+Proto-Germanic,Tries
+Old English,Tries
+Middle English,Tries
+Anglo-Norman,Tries
 English,Tripping
 Middle English,Tripping
 Old French,Tripping
@@ -7102,6 +7163,15 @@ Old French,Voice
 Middle English,Voice
 Proto-Italic,Voice
 Anglo-Norman,Voice
+English,Voices
+Proto-Indo-European,Voices
+Latin,Voices
+Proto-Germanic,Voices
+Old French,Voices
+Old English,Voices
+Middle English,Voices
+Proto-Italic,Voices
+Anglo-Norman,Voices
 English,Vomit
 Latin,Vomit
 Proto-Indo-European,Vomit
