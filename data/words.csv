@@ -446,6 +446,11 @@ Proto-Indo-European,Become
 English,Become
 Proto-Germanic,Become
 Old English,Become
+English,Becomes
+Proto-Indo-European,Becomes
+Proto-Germanic,Becomes
+Old English,Becomes
+Middle English,Becomes
 English,Bed
 Proto-Indo-European,Bed
 Old English,Bed
@@ -552,6 +557,14 @@ French,Bike
 Proto-Indo-European,Bike
 Proto-Italic,Bike
 Late Latin,Bike
+English,Billie
+Latin,Billie
+Proto-Indo-European,Billie
+Middle English,Billie
+Proto-Germanic,Billie
+Old English,Billie
+Old French,Billie
+Anglo-Norman,Billie
 English,Bills
 Latin,Bills
 Proto-Indo-European,Bills
@@ -1030,6 +1043,11 @@ Proto-Germanic,Care
 Middle English,Care
 Proto-West Germanic,Care
 English,Cared
+Proto-Indo-European,Careful
+English,Careful
+Proto-Germanic,Careful
+Old English,Careful
+Proto-West Germanic,Careful
 Proto-Indo-European,Carpet
 English,Carpet
 Italian,Carpet
@@ -1089,6 +1107,7 @@ English,Cause
 Old Latin,Cause
 Middle English,Cause
 Old French,Cause
+English,Caused
 English,Caution
 English,Ceiling
 Proto-Celtic,Ceiling
@@ -1605,6 +1624,10 @@ English,Dance
 Anglo-Norman,Dance
 Middle English,Dance
 Old French,Dance
+English,Danced
+Anglo-Norman,Danced
+Middle English,Danced
+Old French,Danced
 English,Dancing
 Anglo-Norman,Dancing
 Middle English,Dancing
@@ -1702,6 +1725,11 @@ English,Delta
 Ancient Greek,Delta
 Phoenician,Delta
 Egyptian,Delta
+Latin,Demand
+Proto-Indo-European,Demand
+English,Demand
+Proto-Italic,Demand
+Old French,Demand
 English,Demons
 Ancient Greek,Demons
 Latin,Demons
@@ -1886,6 +1914,7 @@ Proto-Germanic,Dream
 Old English,Dream
 Middle English,Dream
 Proto-West Germanic,Dream
+English,Dreamed
 English,Dreamer
 Middle English,Dreamer
 Proto-Indo-European,Dreaming
@@ -2478,6 +2507,8 @@ Proto-Indo-European,Formulate
 Proto-Indo-European,Fortunate
 Latin,Fortunate
 English,Fortunate
+English,Forty
+Proto-Germanic,Forty
 Proto-Indo-European,Forward
 English,Forward
 Proto-Germanic,Forward
@@ -3379,6 +3410,9 @@ Middle English,James
 Biblical Hebrew,James
 Proto-Hellenic,James
 Late Latin,James
+English,Jean
+Old French,Jean
+Middle English,Jean
 English,Jeans
 Old French,Jeans
 Middle English,Jeans
@@ -3491,6 +3525,11 @@ Old Norse,Kicking
 Old Saxon,Kicking
 Proto-West Germanic,Kicking
 Middle Low German,Kicking
+English,Kid
+Proto-Indo-European,Kid
+Middle English,Kid
+Old Norse,Kid
+Proto-Germanic,Kid
 Latin,Kill
 Proto-Indo-European,Kill
 English,Kill
@@ -4821,6 +4860,8 @@ Old French,People
 Old Latin,People
 Proto-Italic,People
 Middle English,People
+English,Perfume
+Middle French,Perfume
 Proto-Indo-European,Petite
 English,Petite
 French,Petite
@@ -4833,6 +4874,10 @@ Frankish,Petite
 Ancient Greek,Phone
 Proto-Indo-European,Phone
 English,Phone
+English,Photo
+Ancient Greek,Photo
+Proto-Indo-European,Photo
+Proto-Hellenic,Photo
 Latin,Physical
 English,Physical
 Proto-Indo-European,Physical
@@ -4920,6 +4965,12 @@ Latin,Plane
 English,Plane
 Proto-Indo-European,Plane
 English,Planned
+Latin,Plans
+Proto-Indo-European,Plans
+English,Plans
+French,Plans
+Proto-Italic,Plans
+Old French,Plans
 English,Plate
 Ancient Greek,Plate
 Latin,Plate
@@ -5163,6 +5214,12 @@ Proto-Indo-European,Put
 Proto-Germanic,Put
 Old English,Put
 Middle English,Put
+Proto-Indo-European,Queen
+English,Queen
+Old English,Queen
+Proto-Germanic,Queen
+Middle English,Queen
+Proto-West Germanic,Queen
 English,Quickly
 English,Quite
 Old French,Quite
@@ -5625,6 +5682,15 @@ Proto-Indo-European,Scared
 Middle English,Scared
 Old Norse,Scared
 Proto-Germanic,Scared
+Ancient Greek,Scene
+Latin,Scene
+English,Scene
+Middle French,Scene
+English,Schemes
+Ancient Greek,Schemes
+Proto-Indo-European,Schemes
+Latin,Schemes
+Old English,Schemes
 English,Scratching
 English,Scream
 Middle Dutch,Scream
@@ -6003,6 +6069,11 @@ Proto-Indo-European,Smart
 Proto-Germanic,Smart
 Old English,Smart
 Middle English,Smart
+English,Smell
+Proto-Indo-European,Smell
+Middle English,Smell
+Proto-West Germanic,Smell
+Old English,Smell
 English,Smile
 Proto-Indo-European,Smile
 Proto-Germanic,Smile
@@ -6301,6 +6372,10 @@ Proto-Germanic,Stone
 Middle English,Stone
 Proto-West Germanic,Stone
 English,Stoner
+Proto-Indo-European,Stood
+English,Stood
+Proto-Germanic,Stood
+Old English,Stood
 English,Stop
 Proto-Indo-European,Stop
 Middle English,Stop
