@@ -933,6 +933,7 @@ Old Norse,Buy
 Middle English,Buy
 Old English,Buy
 Proto-West Germanic,Buy
+English,Buzz
 English,Buzzed
 English,Buzzer
 Latin,Buzzer
@@ -1908,6 +1909,9 @@ English,Drama
 Ancient Greek,Drama
 Proto-Indo-European,Drama
 Late Latin,Drama
+Proto-Indo-European,Drawing
+English,Drawing
+Proto-Germanic,Drawing
 Proto-Indo-European,Dream
 English,Dream
 Proto-Germanic,Dream
@@ -2658,6 +2662,7 @@ Old Norse,Getaway
 Proto-Germanic,Getaway
 Middle English,Getaway
 Old English,Getaway
+English,Gets
 English,Getting
 Proto-Indo-European,Getting
 Old Norse,Getting
@@ -2676,6 +2681,10 @@ Middle English,Girls
 Old Norse,Give
 Proto-Germanic,Give
 English,Gives
+English,Giving
+Proto-Indo-European,Giving
+Old Norse,Giving
+Proto-Germanic,Giving
 Proto-Indo-European,Glad
 English,Glad
 Old English,Glad
@@ -2787,6 +2796,12 @@ English,Governor
 Proto-Indo-European,Governor
 Old French,Governor
 Middle English,Governor
+English,Grand
+Latin,Grand
+Proto-Indo-European,Grand
+Old French,Grand
+Anglo-Norman,Grand
+Middle English,Grand
 Latin,Grandeur
 English,Grandeur
 Proto-Indo-European,Grandeur
@@ -5145,6 +5160,12 @@ Old French,Prince
 Proto-Germanic,Prince
 Vulgar Latin,Prince
 English,Probably
+Ancient Greek,Problem
+Proto-Indo-European,Problem
+English,Problem
+Latin,Problem
+Middle French,Problem
+Middle English,Problem
 English,Problems
 Latin,Problems
 Ancient Greek,Problems
@@ -6118,6 +6139,9 @@ Latin,Solo
 English,Solo
 Italian,Solo
 Proto-Indo-European,Solo
+Latin,Solution
+English,Solution
+Old French,Solution
 Proto-Indo-European,Some
 English,Some
 Old English,Some
@@ -7280,6 +7304,15 @@ Proto-Indo-European,Walking
 Proto-Germanic,Walking
 Old English,Walking
 Middle English,Walking
+Latin,Wall
+Proto-Indo-European,Wall
+English,Wall
+Proto-Celtic,Wall
+Middle English,Wall
+Proto-Germanic,Wall
+Old English,Wall
+Old Norse,Wall
+Proto-West Germanic,Wall
 English,Wand
 Proto-Indo-European,Wand
 Proto-Germanic,Wand
