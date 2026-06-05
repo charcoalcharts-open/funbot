@@ -307,6 +307,12 @@ Proto-Germanic,Back
 Middle English,Back
 Old English,Back
 Proto-West Germanic,Back
+English,Backed
+Proto-Indo-European,Backed
+Proto-Germanic,Backed
+Middle English,Backed
+Old English,Backed
+Proto-West Germanic,Backed
 English,Backless
 Proto-Indo-European,Backless
 Proto-Germanic,Backless
@@ -868,6 +874,12 @@ Old English,Broken
 Proto-Germanic,Broken
 Middle English,Broken
 Proto-West Germanic,Broken
+Proto-Indo-European,Brokenhearted
+English,Brokenhearted
+Proto-Germanic,Brokenhearted
+Old English,Brokenhearted
+Middle English,Brokenhearted
+Proto-West Germanic,Brokenhearted
 Proto-Indo-European,Broom
 English,Broom
 Proto-Germanic,Broom
@@ -1755,6 +1767,7 @@ Medieval Latin,Demons
 English,Denim
 French,Denim
 English,Denying
+English,Departed
 English,Deserves
 Latin,Deserves
 Proto-Indo-European,Deserves
@@ -2243,6 +2256,11 @@ Proto-Germanic,Fair
 Middle English,Fair
 Old English,Fair
 Proto-West Germanic,Fair
+Proto-Indo-European,Faith
+English,Faith
+Latin,Faith
+Proto-Italic,Faith
+Old French,Faith
 English,Fall
 Proto-Germanic,Fall
 Old English,Fall
@@ -2689,6 +2707,10 @@ Proto-Germanic,Ghost
 Middle English,Ghost
 Old English,Ghost
 Proto-West Germanic,Ghost
+Latin,Gina
+English,Gina
+Proto-Italic,Gina
+Proto-Indo-European,Gina
 English,Girl
 Middle English,Girl
 English,Girls
@@ -3996,6 +4018,7 @@ English,Low
 Old Norse,Low
 Proto-Germanic,Low
 Middle English,Low
+English,Luck
 English,Lucky
 English,Lying
 Proto-Indo-European,Lying
@@ -4225,6 +4248,8 @@ English,Missing
 Proto-Indo-European,Missing
 Old English,Missing
 Proto-Germanic,Missing
+English,Mistake
+Old Norse,Mistake
 English,Mistaken
 Old Norse,Mistaken
 English,Mister
@@ -5952,6 +5977,8 @@ English,Should
 Proto-Germanic,Should
 Middle English,Should
 Old English,Should
+English,Shout
+Middle English,Shout
 English,Shouted
 English,Show
 Proto-Germanic,Show
@@ -5994,6 +6021,9 @@ Middle English,Sign
 Old English,Sign
 Old French,Sign
 Proto-Germanic,Sign
+English,Silent
+Latin,Silent
+Proto-Indo-European,Silent
 English,Silently
 Proto-Indo-European,Silently
 Latin,Silently
@@ -6985,6 +7015,7 @@ Latin,Tomb
 Ancient Greek,Tomb
 Middle English,Tomb
 Anglo-Norman,Tomb
+English,Tommy
 Proto-Indo-European,Tomorrow
 English,Tomorrow
 Middle English,Tomorrow
