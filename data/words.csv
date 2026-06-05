@@ -5582,6 +5582,11 @@ Proto-Indo-European,Run
 Proto-Germanic,Run
 Middle English,Run
 Old English,Run
+English,Running
+Proto-Indo-European,Running
+Proto-Germanic,Running
+Middle English,Running
+Old English,Running
 English,Rust
 Proto-Indo-European,Rust
 Frankish,Rust
@@ -7207,6 +7212,12 @@ Proto-Germanic,Unobtainable
 Anglo-Norman,Unobtainable
 Proto-West Germanic,Unobtainable
 English,Until
+Proto-Indo-European,Untrue
+English,Untrue
+Middle English,Untrue
+Proto-Germanic,Untrue
+Old English,Untrue
+Proto-West Germanic,Untrue
 Proto-Germanic,Up
 Old English,Up
 English,Upstairs
@@ -7458,6 +7469,10 @@ English,What
 Proto-Indo-European,What
 Proto-Germanic,What
 Old English,What
+English,Whatever
+Proto-Indo-European,Whatever
+Proto-Germanic,Whatever
+Old English,Whatever
 English,Wheels
 Proto-Indo-European,Wheels
 Proto-Germanic,Wheels
@@ -7473,6 +7488,10 @@ English,Where
 Proto-Indo-European,Where
 Proto-Germanic,Where
 Old English,Where
+English,Whether
+Proto-Indo-European,Whether
+Proto-Germanic,Whether
+Old English,Whether
 English,Whew
 English,While
 Proto-Indo-European,While
