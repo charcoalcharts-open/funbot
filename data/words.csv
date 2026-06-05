@@ -1598,6 +1598,17 @@ English,Cut
 Proto-Germanic,Cut
 Old Norse,Cut
 Middle English,Cut
+English,Cuts
+Proto-Indo-European,Cuts
+Latin,Cuts
+Proto-Italic,Cuts
+Proto-Germanic,Cuts
+Old English,Cuts
+Middle English,Cuts
+Old French,Cuts
+Old Norse,Cuts
+Late Latin,Cuts
+Medieval Latin,Cuts
 Sanskrit,Cypher
 English,Cypher
 Arabic,Cypher
@@ -1666,6 +1677,7 @@ Proto-Germanic,Daughter
 Middle English,Daughter
 Old English,Daughter
 Proto-West Germanic,Daughter
+English,Dawn
 English,Day
 Proto-Indo-European,Day
 Old English,Day
@@ -1825,6 +1837,9 @@ Proto-Germanic,Dish
 Middle English,Dish
 Proto-West Germanic,Dish
 English,Dishonor
+French,Dj
+English,Dj
+Moroccan Arabic,Dj
 Proto-Germanic,Do
 Old English,Do
 Middle English,Do
@@ -3026,6 +3041,7 @@ Proto-Indo-European,Heads
 Proto-Germanic,Heads
 Old English,Heads
 Middle English,Heads
+English,Heals
 Proto-Indo-European,Health
 English,Health
 Proto-Germanic,Health
@@ -5550,6 +5566,13 @@ Proto-Indo-European,Ropes
 Proto-Germanic,Ropes
 Middle English,Ropes
 Old English,Ropes
+Latin,Rose
+Ancient Greek,Rose
+English,Rose
+Middle English,Rose
+Old Persian,Rose
+Proto-Indo-European,Rose
+Proto-Hellenic,Rose
 Hebrew,Roseanna
 Ancient Greek,Roseanna
 English,Roseanna
@@ -5673,6 +5696,7 @@ English,Save
 Proto-Indo-European,Save
 Old French,Save
 Late Latin,Save
+English,Saved
 English,Saving
 Latin,Saving
 Proto-Indo-European,Saving
@@ -5703,6 +5727,9 @@ Middle English,Saying
 Proto-Germanic,Saying
 Proto-West Germanic,Saying
 English,Says
+English,Scar
+Old French,Scar
+Middle English,Scar
 English,Scared
 Proto-Indo-European,Scared
 Middle English,Scared
@@ -5817,6 +5844,10 @@ Estonian,Sent
 English,Sentimental
 Latin,Sentimental
 Medieval Latin,Sentimental
+Latin,Separate
+Proto-Indo-European,Separate
+English,Separate
+Proto-Italic,Separate
 Latin,Series
 Proto-Indo-European,Series
 English,Series
@@ -5963,6 +5994,13 @@ Middle English,Sign
 Old English,Sign
 Old French,Sign
 Proto-Germanic,Sign
+English,Silently
+Proto-Indo-European,Silently
+Latin,Silently
+Middle English,Silently
+Proto-Germanic,Silently
+Old English,Silently
+Old Norse,Silently
 English,Silver
 Proto-Germanic,Silver
 Old English,Silver
@@ -6000,6 +6038,11 @@ Proto-Indo-European,Singing
 Old English,Singing
 Middle English,Singing
 Proto-Germanic,Singing
+English,Sings
+Proto-Indo-European,Sings
+Proto-Germanic,Sings
+Middle English,Sings
+Old English,Sings
 Proto-Indo-European,Sins
 English,Sins
 Old English,Sins
@@ -6812,6 +6855,11 @@ English,Thinking
 Proto-Germanic,This
 Old English,This
 Middle English,This
+English,Thorn
+Proto-Indo-European,Thorn
+Proto-Germanic,Thorn
+Old English,Thorn
+Middle English,Thorn
 Proto-Indo-European,Those
 English,Those
 Proto-Germanic,Those
@@ -7691,6 +7739,10 @@ Middle English,Worth
 Proto-Germanic,Would
 Old English,Would
 Middle English,Would
+English,Wound
+Proto-Germanic,Wound
+Old English,Wound
+Proto-Indo-European,Wound
 English,Wrestle
 Old English,Wrestle
 English,Writing
