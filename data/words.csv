@@ -1899,6 +1899,13 @@ Old English,Discreetly
 Old French,Discreetly
 Old Norse,Discreetly
 Medieval Latin,Discreetly
+Latin,Disguise
+English,Disguise
+Proto-Indo-European,Disguise
+Proto-Germanic,Disguise
+Old French,Disguise
+Frankish,Disguise
+Vulgar Latin,Disguise
 Latin,Dish
 Ancient Greek,Dish
 English,Dish
@@ -2341,6 +2348,13 @@ Proto-Indo-European,Family
 English,Family
 Latin,Family
 Proto-Italic,Family
+Proto-Indo-European,Fantasy
+English,Fantasy
+Ancient Greek,Fantasy
+Latin,Fantasy
+Old French,Fantasy
+Late Latin,Fantasy
+Medieval Latin,Fantasy
 English,Far
 Proto-Indo-European,Far
 Old English,Far
@@ -4141,6 +4155,10 @@ English,Magic
 Latin,Magic
 Ancient Greek,Magic
 Middle English,Magic
+English,Magical
+Latin,Magical
+Ancient Greek,Magical
+Middle English,Magical
 Proto-Germanic,Make
 Old English,Make
 Middle English,Make
@@ -4851,6 +4869,11 @@ Proto-Indo-European,Over
 Proto-Germanic,Over
 Old English,Over
 Middle English,Over
+English,Owe
+Proto-Indo-European,Owe
+Old English,Owe
+Middle English,Owe
+Proto-Germanic,Owe
 English,Own
 Proto-Indo-European,Own
 Middle English,Own
@@ -4936,6 +4959,11 @@ Old English,Passing
 Middle English,Passing
 Proto-Germanic,Passing
 Vulgar Latin,Passing
+Latin,Passion
+English,Passion
+Proto-Indo-European,Passion
+Middle English,Passion
+Old French,Passion
 Latin,Past
 English,Past
 Proto-Indo-European,Past
@@ -5890,6 +5918,7 @@ Proto-Indo-European,Sea
 Proto-Germanic,Sea
 Old English,Sea
 Middle English,Sea
+English,Searched
 Proto-Indo-European,Searching
 English,Searching
 Latin,Searching
@@ -5918,6 +5947,14 @@ Latin,Secret
 English,Secret
 Proto-Indo-European,Secret
 Proto-Italic,Secret
+English,Secretly
+Latin,Secretly
+Proto-Indo-European,Secretly
+Proto-Italic,Secretly
+Middle English,Secretly
+Proto-Germanic,Secretly
+Old English,Secretly
+Old Norse,Secretly
 English,Security
 Latin,Security
 French,Security
@@ -5940,6 +5977,12 @@ Proto-Indo-European,Seeing
 Old English,Seeing
 Middle English,Seeing
 Proto-Germanic,Seeing
+Proto-Indo-European,Seem
+English,Seem
+Latin,Seem
+Old Norse,Seem
+Proto-Germanic,Seem
+Middle English,Seem
 English,Seen
 English,Seize
 Frankish,Seize
@@ -7494,6 +7537,11 @@ Old English,Upstairs
 Proto-Germanic,Upstairs
 Proto-West Germanic,Upstairs
 Late Latin,Upstairs
+English,Urgency
+Latin,Urgency
+Ancient Greek,Urgency
+Proto-Indo-European,Urgency
+Middle French,Urgency
 Proto-Germanic,Us
 Middle English,Us
 Old English,Us
