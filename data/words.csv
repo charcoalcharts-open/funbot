@@ -67,6 +67,10 @@ Proto-Germanic,Afraid
 Old French,Afraid
 Middle English,Afraid
 Anglo-Norman,Afraid
+Proto-Indo-European,Africa
+Latin,Africa
+English,Africa
+German,Africa
 English,After
 Proto-Indo-European,After
 Old English,After
@@ -160,6 +164,12 @@ Latin,Ana
 English,Ana
 Proto-Indo-European,Ana
 Old Latin,Ana
+Latin,Ancient
+English,Ancient
+Proto-Indo-European,Ancient
+Old French,Ancient
+Old Latin,Ancient
+Vulgar Latin,Ancient
 Proto-Germanic,And
 Old English,And
 Middle English,And
@@ -1428,6 +1438,14 @@ Old English,Coming
 Middle English,Coming
 Proto-Germanic,Coming
 Proto-West Germanic,Coming
+Latin,Company
+English,Company
+Ancient Greek,Company
+Proto-Indo-European,Company
+Proto-Italic,Company
+Old French,Company
+Middle English,Company
+Late Latin,Company
 Latin,Comparison
 English,Comparison
 Proto-Indo-European,Comparison
@@ -1463,6 +1481,9 @@ Proto-Indo-European,Control
 Middle French,Control
 Middle English,Control
 Medieval Latin,Control
+English,Conversation
+French,Conversation
+Latin,Conversation
 Latin,Cook
 English,Cook
 Proto-Indo-European,Cook
@@ -1653,6 +1674,11 @@ Middle English,Cup
 Ancient Greek,Cup
 Late Latin,Cup
 Byzantine Greek,Cup
+English,Cure
+Latin,Cure
+Proto-Indo-European,Cure
+Old French,Cure
+Middle English,Cure
 English,Cursing
 Old English,Cursing
 Middle English,Cursing
@@ -1997,6 +2023,7 @@ Old English,Downstairs
 Proto-Germanic,Downstairs
 Proto-West Germanic,Downstairs
 Late Latin,Downstairs
+English,Drag
 English,Drama
 Ancient Greek,Drama
 Proto-Indo-European,Drama
@@ -2096,6 +2123,14 @@ Proto-Indo-European,Drum
 Dutch,Drum
 Proto-Germanic,Drum
 Proto-West Germanic,Drum
+English,Drums
+Middle Dutch,Drums
+Proto-Indo-European,Drums
+Dutch,Drums
+Proto-Germanic,Drums
+Middle English,Drums
+Old Norse,Drums
+Proto-West Germanic,Drums
 English,Drunk
 Proto-Germanic,Drunk
 Old English,Drunk
@@ -2145,6 +2180,7 @@ English,Echo
 Latin,Echo
 Proto-Indo-European,Echo
 Middle English,Echo
+English,Echoing
 Proto-Indo-European,Ecstasy
 Ancient Greek,Ecstasy
 English,Ecstasy
@@ -2527,6 +2563,11 @@ Proto-Indo-European,Flatbed
 Old English,Flatbed
 Proto-Germanic,Flatbed
 Old Norse,Flatbed
+Proto-Indo-European,Flight
+English,Flight
+Proto-Germanic,Flight
+Old English,Flight
+Middle English,Flight
 English,Flip
 Middle English,Flip
 Proto-Indo-European,Float
@@ -2669,6 +2710,7 @@ Proto-Germanic,Friend
 Middle English,Friend
 Proto-West Germanic,Friend
 English,Friends
+English,Frightened
 English,Frightening
 Proto-Indo-European,Frightening
 Middle English,Frightening
@@ -2998,6 +3040,11 @@ English,Grows
 English,Guess
 Middle English,Guess
 English,Guessing
+Proto-Indo-European,Guide
+English,Guide
+Proto-Germanic,Guide
+Old French,Guide
+Frankish,Guide
 Latin,Guitar
 Ancient Greek,Guitar
 English,Guitar
@@ -3156,6 +3203,8 @@ Proto-Germanic,Hear
 Middle English,Hear
 Old English,Hear
 English,Heard
+English,Hears
+Middle English,Hears
 Old English,Heart
 Proto-Germanic,Heart
 Middle English,Heart
@@ -3678,6 +3727,9 @@ Proto-Indo-European,Kid
 Middle English,Kid
 Old Norse,Kid
 Proto-Germanic,Kid
+English,Kilimanjaro
+Proto-Bantu,Kilimanjaro
+Swahili,Kilimanjaro
 Latin,Kill
 Proto-Indo-European,Kill
 English,Kill
@@ -4047,6 +4099,9 @@ Proto-Germanic,Longer
 Old Norse,Longer
 Middle English,Longer
 Old English,Longer
+English,Longing
+Proto-Indo-European,Longing
+Proto-Germanic,Longing
 English,Look
 Old English,Look
 Middle English,Look
@@ -4415,6 +4470,11 @@ Middle English,Moon
 Old English,Moon
 English,Moonlight
 Old English,Moonlight
+English,Moonlit
+Proto-Indo-European,Moonlit
+Proto-Germanic,Moonlit
+Old English,Moonlit
+Middle English,Moonlit
 English,Moore
 Proto-Indo-European,More
 English,More
@@ -4784,6 +4844,9 @@ Arabic,Ole
 Proto-Semitic,Ole
 English,Ole
 Spanish,Ole
+Ancient Greek,Olympus
+Latin,Olympus
+English,Olympus
 Proto-Germanic,On
 Old English,On
 Middle English,On
@@ -5412,6 +5475,9 @@ Proto-Germanic,Queen
 Middle English,Queen
 Proto-West Germanic,Queen
 English,Quickly
+Latin,Quiet
+English,Quiet
+Proto-Indo-European,Quiet
 English,Quite
 Old French,Quite
 Anglo-Norman,Quite
@@ -5440,6 +5506,15 @@ Proto-Germanic,Rain
 Old English,Rain
 Middle English,Rain
 Anglo-Norman,Rain
+Latin,Rains
+English,Rains
+Proto-Indo-European,Rains
+Proto-Italic,Rains
+Old French,Rains
+Proto-Germanic,Rains
+Old English,Rains
+Middle English,Rains
+Anglo-Norman,Rains
 English,Raise
 Proto-Indo-European,Raise
 Middle Dutch,Raise
@@ -5493,6 +5568,11 @@ Proto-Germanic,Red
 Middle English,Red
 Old English,Red
 Proto-West Germanic,Red
+Latin,Reflect
+English,Reflect
+Proto-Indo-European,Reflect
+Proto-Italic,Reflect
+Old French,Reflect
 English,Refreshing
 English,Refuse
 Middle French,Refuse
@@ -5561,6 +5641,8 @@ Proto-Indo-European,Rest
 Old English,Rest
 Proto-Germanic,Rest
 Middle English,Rest
+English,Restless
+Old English,Restless
 English,Reunion
 English,Revenge
 Latin,Reverend
@@ -5642,6 +5724,11 @@ English,Rise
 Proto-Indo-European,Rise
 Proto-Germanic,Rise
 Old English,Rise
+English,Rises
+Proto-Indo-European,Rises
+Proto-Germanic,Rises
+Old English,Rises
+Middle English,Rises
 Latin,River
 English,River
 Proto-Indo-European,River
@@ -5977,6 +6064,9 @@ Proto-Indo-European,Seeing
 Old English,Seeing
 Middle English,Seeing
 Proto-Germanic,Seeing
+English,Seek
+Old English,Seek
+Middle English,Seek
 Proto-Indo-European,Seem
 English,Seem
 Latin,Seem
@@ -6372,6 +6462,9 @@ English,Soge
 Latin,Sold
 English,Sold
 Proto-Indo-European,Sold
+Latin,Solitary
+English,Solitary
+Proto-Indo-European,Solitary
 Latin,Solo
 English,Solo
 Italian,Solo
@@ -7086,6 +7179,9 @@ Proto-Germanic,Thinks
 Middle English,Thinks
 Old English,Thinks
 Proto-West Germanic,Thinks
+English,Thirty
+Old English,Thirty
+Proto-Germanic,Thirty
 Proto-Germanic,This
 Old English,This
 Middle English,This
@@ -7263,6 +7359,8 @@ Frankish,Touch
 English,Touched
 English,Toward
 Middle English,Toward
+English,Towards
+Middle English,Towards
 English,Town
 Gaulish,Town
 Proto-Celtic,Town
@@ -7427,6 +7525,11 @@ Old French,Turnip
 Middle English,Turnip
 Old English,Turnip
 English,Tv
+Proto-Indo-European,Twelve
+English,Twelve
+Proto-Germanic,Twelve
+Middle English,Twelve
+Old English,Twelve
 Proto-Indo-European,Twenty
 English,Twenty
 Proto-Germanic,Twenty
@@ -7832,6 +7935,10 @@ Scottish Gaelic,Whiskey
 Middle Irish,Whiskey
 Old English,Whisper
 Proto-Germanic,Whisper
+English,Whispers
+Proto-Indo-European,Whispers
+Proto-Germanic,Whispers
+Old English,Whispers
 English,White
 Proto-Indo-European,White
 Proto-Germanic,White
