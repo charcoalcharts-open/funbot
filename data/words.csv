@@ -446,6 +446,12 @@ Proto-Germanic,Be
 Middle English,Be
 Old English,Be
 Proto-West Germanic,Be
+Proto-Indo-European,Bear
+English,Bear
+Proto-Germanic,Bear
+Old English,Bear
+Middle English,Bear
+Proto-West Germanic,Bear
 English,Beat
 Proto-Indo-European,Beat
 Proto-Germanic,Beat
@@ -1020,6 +1026,17 @@ Old English,Calling
 Middle English,Calling
 Proto-Germanic,Calling
 Old Norse,Calling
+English,Calls
+Latin,Calls
+Proto-Indo-European,Calls
+Arabic,Calls
+Japanese,Calls
+Sanskrit,Calls
+Middle English,Calls
+Proto-Germanic,Calls
+Old English,Calls
+Old Norse,Calls
+Old French,Calls
 English,Calm
 English,Came
 Latin,Can
@@ -2839,6 +2856,7 @@ English,Girls
 Middle English,Girls
 Old Norse,Give
 Proto-Germanic,Give
+English,Given
 English,Gives
 English,Giving
 Proto-Indo-European,Giving
@@ -3893,6 +3911,12 @@ Proto-Germanic,Lay
 Old English,Lay
 Middle English,Lay
 Proto-West Germanic,Lay
+English,Laying
+Proto-Indo-European,Laying
+Proto-Germanic,Laying
+Old English,Laying
+Middle English,Laying
+Proto-West Germanic,Laying
 Proto-Indo-European,Lazy
 English,Lazy
 Proto-Germanic,Lazy
@@ -5356,6 +5380,13 @@ Proto-Germanic,Prayers
 Old English,Prayers
 Anglo-Norman,Prayers
 Late Latin,Prayers
+Latin,Praying
+Proto-Indo-European,Praying
+English,Praying
+Anglo-Norman,Praying
+Old French,Praying
+Middle English,Praying
+Vulgar Latin,Praying
 Proto-Indo-European,Preach
 Latin,Preach
 English,Preach
@@ -6162,6 +6193,11 @@ Proto-Germanic,Shaky
 Old English,Shaky
 Old French,Shaky
 Proto-Germanic,Shame
+Proto-Indo-European,Share
+English,Share
+Proto-Germanic,Share
+Old English,Share
+Middle English,Share
 Proto-Indo-European,Sharing
 English,Sharing
 Proto-Germanic,Sharing
@@ -6391,6 +6427,8 @@ Proto-Germanic,Sleepy
 Old English,Sleepy
 Old French,Sleepy
 Proto-West Germanic,Sleepy
+English,Sleeve
+Old English,Sleeve
 English,Slip
 Proto-Germanic,Slip
 Old English,Slip
