@@ -376,6 +376,9 @@ Middle English,Banger
 Old English,Banger
 Proto-Germanic,Banger
 Old Norse,Banger
+Welsh,Bangor
+English,Bangor
+Old Welsh,Bangor
 French,Bar
 English,Bar
 Ancient Greek,Bar
@@ -818,6 +821,16 @@ Proto-Indo-European,Bout
 English,Bout
 Proto-Germanic,Bout
 Old English,Bout
+English,Boxcar
+Latin,Boxcar
+Ancient Greek,Boxcar
+Gaulish,Boxcar
+Proto-Celtic,Boxcar
+Proto-Indo-European,Boxcar
+Old English,Boxcar
+Proto-Germanic,Boxcar
+Anglo-Norman,Boxcar
+Middle English,Boxcar
 Proto-Indo-European,Boy
 English,Boy
 Ancient Greek,Boy
@@ -985,6 +998,7 @@ Old Norse,Buy
 Middle English,Buy
 Old English,Buy
 Proto-West Germanic,Buy
+English,Buys
 English,Buzz
 English,Buzzed
 English,Buzzer
@@ -1181,6 +1195,11 @@ Old Irish,Ceiling
 Old English,Ceiling
 Middle English,Ceiling
 Proto-Germanic,Ceiling
+Latin,Cents
+English,Cents
+Proto-Indo-European,Cents
+Proto-Italic,Cents
+Old French,Cents
 Ancient Greek,Chair
 English,Chair
 Proto-Indo-European,Chair
@@ -1292,6 +1311,11 @@ English,Child
 Old English,Child
 Middle English,Child
 Proto-Germanic,Child
+Proto-Indo-European,Children
+English,Children
+Old English,Children
+Middle English,Children
+Proto-Germanic,Children
 English,Chills
 Proto-Indo-European,Chills
 Proto-Germanic,Chills
@@ -1319,6 +1343,10 @@ English,Churn
 Proto-Germanic,Churn
 Middle English,Churn
 Old English,Churn
+Latin,Cigarettes
+English,Cigarettes
+French,Cigarettes
+Spanish,Cigarettes
 English,City
 Latin,City
 Proto-Indo-European,City
@@ -1881,6 +1909,9 @@ Latin,Desire
 English,Desire
 Proto-Indo-European,Desire
 Old French,Desire
+Latin,Destination
+English,Destination
+Proto-Indo-European,Destination
 English,Destiny
 English,Destruction
 Latin,Destruction
@@ -2162,6 +2193,15 @@ Proto-Indo-European,Dry
 Proto-Germanic,Dry
 Middle English,Dry
 Old English,Dry
+Latin,Dues
+English,Dues
+Proto-Indo-European,Dues
+Proto-Italic,Dues
+Middle English,Dues
+Old French,Dues
+Proto-Germanic,Dues
+Old English,Dues
+Old Latin,Dues
 English,Dug
 English,Duh
 English,Dum
@@ -2265,6 +2305,13 @@ Proto-Germanic,Ends
 Old English,Ends
 Middle English,Ends
 Proto-West Germanic,Ends
+Latin,Engineer
+Proto-Indo-European,Engineer
+Proto-Italic,Engineer
+English,Engineer
+Old French,Engineer
+Old Latin,Engineer
+Vulgar Latin,Engineer
 Proto-Germanic,Enough
 Old English,Enough
 Middle English,Enough
@@ -2501,6 +2548,8 @@ English,Fifth
 Proto-Germanic,Fifth
 Middle English,Fifth
 Old English,Fifth
+English,Fifty
+Proto-Germanic,Fifty
 English,Fight
 Proto-Indo-European,Fight
 Old English,Fight
@@ -3119,6 +3168,12 @@ English,Handle
 Old English,Handle
 Proto-Germanic,Handle
 Proto-West Germanic,Handle
+English,Handout
+Proto-Indo-European,Handout
+Proto-Germanic,Handout
+Old English,Handout
+Middle English,Handout
+Proto-West Germanic,Handout
 English,Hands
 Old English,Hands
 Proto-Germanic,Hands
@@ -3493,6 +3548,16 @@ Old English,Hourglass
 Old French,Hourglass
 Anglo-Norman,Hourglass
 Proto-West Germanic,Hourglass
+Latin,Hours
+Ancient Greek,Hours
+English,Hours
+Proto-Indo-European,Hours
+Proto-Germanic,Hours
+Middle English,Hours
+Old English,Hours
+Old French,Hours
+Anglo-Norman,Hours
+Proto-West Germanic,Hours
 English,House
 Proto-Indo-European,House
 Proto-Germanic,House
@@ -4092,6 +4157,12 @@ Proto-Germanic,Living
 Old English,Living
 Middle English,Living
 English,Loc
+English,Lock
+Proto-Indo-European,Lock
+Proto-Germanic,Lock
+Old English,Lock
+Middle English,Lock
+Proto-West Germanic,Lock
 English,Locked
 English,Locking
 Proto-Indo-European,Locking
@@ -4238,6 +4309,11 @@ English,Magical
 Latin,Magical
 Ancient Greek,Magical
 Middle English,Magical
+English,Maine
+Proto-Indo-European,Maine
+Proto-Germanic,Maine
+Old English,Maine
+Middle English,Maine
 Proto-Germanic,Make
 Old English,Make
 Middle English,Make
@@ -4302,6 +4378,11 @@ Proto-Indo-European,Mean
 Proto-Germanic,Mean
 Middle English,Mean
 Old English,Mean
+English,Means
+Proto-Indo-European,Means
+Proto-Germanic,Means
+Middle English,Means
+Old English,Means
 English,Meant
 Proto-Indo-European,Meditation
 Latin,Meditation
@@ -4610,6 +4691,7 @@ Old English,Name
 Middle English,Name
 Proto-West Germanic,Name
 English,Named
+English,Names
 English,Nan
 Latin,Nan
 Proto-Italic,Nan
@@ -5132,6 +5214,16 @@ Old French,Petite
 Proto-Germanic,Petite
 Vulgar Latin,Petite
 Frankish,Petite
+Proto-Indo-European,Pets
+English,Pets
+Middle French,Pets
+Latin,Pets
+Proto-Celtic,Pets
+Old French,Pets
+Proto-Germanic,Pets
+Middle English,Pets
+Vulgar Latin,Pets
+Frankish,Pets
 Ancient Greek,Phone
 Proto-Indo-European,Phone
 English,Phone
@@ -5315,6 +5407,11 @@ English,Pony
 Proto-Indo-European,Pony
 Middle French,Pony
 French,Pony
+English,Pool
+Latin,Pool
+Proto-Indo-European,Pool
+Proto-Germanic,Pool
+Old English,Pool
 Latin,Poor
 English,Poor
 Proto-Indo-European,Poor
@@ -5494,6 +5591,10 @@ Proto-Indo-European,Push
 Latin,Push
 English,Push
 Proto-Italic,Push
+Proto-Indo-European,Pushing
+Latin,Pushing
+English,Pushing
+Proto-Italic,Pushing
 English,Put
 Proto-Indo-European,Put
 Proto-Germanic,Put
@@ -5833,6 +5934,16 @@ Old English,Roommates
 Middle English,Roommates
 Proto-West Germanic,Roommates
 Middle Low German,Roommates
+English,Rooms
+Proto-Indo-European,Rooms
+Latin,Rooms
+Proto-Italic,Rooms
+Proto-Germanic,Rooms
+Old English,Rooms
+Middle English,Rooms
+Old French,Rooms
+Late Latin,Rooms
+Medieval Latin,Rooms
 English,Ropes
 Proto-Indo-European,Ropes
 Proto-Germanic,Ropes
@@ -5931,6 +6042,10 @@ Old French,Sails
 Old English,Sails
 Middle English,Sails
 Proto-West Germanic,Sails
+Proto-Indo-European,Sale
+English,Sale
+Proto-Germanic,Sale
+Old English,Sale
 English,Salem
 English,Sally
 Old English,Sally
@@ -6245,6 +6360,12 @@ English,Shop
 Proto-Germanic,Shop
 Old English,Shop
 Proto-Indo-European,Shop
+Proto-Indo-European,Short
+English,Short
+Middle English,Short
+Old English,Short
+Proto-Germanic,Short
+Proto-West Germanic,Short
 English,Shot
 Proto-Germanic,Shot
 Old English,Shot
@@ -7217,6 +7338,11 @@ Proto-Germanic,Thinks
 Middle English,Thinks
 Old English,Thinks
 Proto-West Germanic,Thinks
+Proto-Indo-European,Third
+English,Third
+Proto-Germanic,Third
+Middle English,Third
+Old English,Third
 English,Thirty
 Old English,Thirty
 Proto-Germanic,Thirty
