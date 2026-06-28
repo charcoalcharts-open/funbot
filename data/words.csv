@@ -295,6 +295,11 @@ Old English,Ass
 Middle English,Ass
 Old French,Ass
 Proto-West Germanic,Ass
+Latin,Assistant
+Proto-Indo-European,Assistant
+English,Assistant
+Middle French,Assistant
+Proto-Italic,Assistant
 English,At
 Proto-Indo-European,At
 Proto-Germanic,At
@@ -1406,6 +1411,7 @@ Proto-Germanic,Closely
 Old English,Closely
 Old Norse,Closely
 Old French,Closely
+English,Closest
 Latin,Closing
 English,Closing
 Proto-Italic,Closing
@@ -1851,6 +1857,13 @@ Proto-Germanic,Death
 Middle English,Death
 Proto-West Germanic,Death
 English,Decided
+English,Decides
+Latin,Decides
+Proto-Indo-European,Decides
+Proto-Italic,Decides
+Proto-Germanic,Decides
+Old English,Decides
+Middle English,Decides
 English,Deck
 Proto-Indo-European,Deck
 Middle Dutch,Deck
@@ -1912,6 +1925,7 @@ Old French,Desire
 Latin,Destination
 English,Destination
 Proto-Indo-European,Destination
+English,Destined
 English,Destiny
 English,Destruction
 Latin,Destruction
@@ -3376,6 +3390,12 @@ Proto-Germanic,Higher
 Old English,Higher
 Middle English,Higher
 Proto-West Germanic,Higher
+English,Highest
+Proto-Indo-European,Highest
+Proto-Germanic,Highest
+Old English,Highest
+Middle English,Highest
+Proto-West Germanic,Highest
 English,Highway
 Old English,Highway
 English,Hike
@@ -3390,6 +3410,7 @@ English,Him
 Proto-Germanic,Him
 Middle English,Him
 Old English,Him
+English,Himself
 English,Hip
 Proto-Indo-European,Hip
 Proto-Germanic,Hip
@@ -4267,6 +4288,7 @@ Proto-Germanic,Low
 Middle English,Low
 English,Luck
 English,Lucky
+English,Lump
 English,Lying
 Proto-Indo-European,Lying
 Old English,Lying
@@ -4309,6 +4331,8 @@ English,Magical
 Latin,Magical
 Ancient Greek,Magical
 Middle English,Magical
+English,Magician
+Middle English,Magician
 English,Maine
 Proto-Indo-European,Maine
 Proto-Germanic,Maine
@@ -4439,6 +4463,7 @@ English,Mexico
 Classical Nahuatl,Mexico
 Spanish,Mexico
 English,Mia
+English,Michelle
 Old English,Midday
 Proto-Indo-European,Middle
 English,Middle
@@ -5610,6 +5635,10 @@ English,Quickly
 Latin,Quiet
 English,Quiet
 Proto-Indo-European,Quiet
+English,Quit
+Old French,Quit
+Anglo-Norman,Quit
+Medieval Latin,Quit
 English,Quite
 Old French,Quite
 Anglo-Norman,Quite
@@ -5852,6 +5881,11 @@ English,Rip
 Proto-Germanic,Rip
 Middle English,Rip
 English,Ripping
+English,Riptide
+Proto-Indo-European,Riptide
+Proto-Germanic,Riptide
+Middle English,Riptide
+Old English,Riptide
 English,Rise
 Proto-Indo-European,Rise
 Proto-Germanic,Rise
@@ -6331,6 +6365,9 @@ Middle English,Shed
 Proto-West Germanic,Shed
 Old English,Shed
 English,Sheets
+English,Shelf
+Middle English,Shelf
+Old English,Shelf
 English,Shine
 Proto-Germanic,Shine
 Middle English,Shine
@@ -6840,6 +6877,7 @@ Proto-Indo-European,Start
 Middle English,Start
 Proto-West Germanic,Start
 English,Started
+English,Starting
 Proto-Germanic,Stay
 Old French,Stay
 Middle Dutch,Stay
@@ -7154,6 +7192,13 @@ Proto-Germanic,Take
 Middle English,Take
 Old Norse,Take
 Proto-West Germanic,Take
+Proto-Indo-European,Taken
+English,Taken
+Old English,Taken
+Proto-Germanic,Taken
+Middle English,Taken
+Old Norse,Taken
+Proto-West Germanic,Taken
 Proto-Indo-European,Takes
 English,Takes
 Old English,Takes
@@ -7384,6 +7429,11 @@ Proto-Indo-European,Thrills
 Old English,Thrills
 Middle English,Thrills
 Proto-Germanic,Thrills
+English,Throat
+Proto-Indo-European,Throat
+Old English,Throat
+Proto-Germanic,Throat
+Middle English,Throat
 English,Through
 Proto-Indo-European,Through
 Proto-Germanic,Through
@@ -7786,6 +7836,7 @@ Middle English,Unobtainable
 Proto-Germanic,Unobtainable
 Anglo-Norman,Unobtainable
 Proto-West Germanic,Unobtainable
+English,Unstuck
 English,Until
 Proto-Indo-European,Untrue
 English,Untrue
