@@ -460,6 +460,13 @@ Proto-Germanic,Bear
 Old English,Bear
 Middle English,Bear
 Proto-West Germanic,Bear
+English,Beast
+Proto-Indo-European,Beast
+Latin,Beast
+Proto-Germanic,Beast
+Middle English,Beast
+Old English,Beast
+Old French,Beast
 English,Beat
 Proto-Indo-European,Beat
 Proto-Germanic,Beat
@@ -470,6 +477,11 @@ Proto-Indo-European,Beating
 Proto-Germanic,Beating
 Old English,Beating
 Proto-West Germanic,Beating
+English,Beats
+Proto-Indo-European,Beats
+Proto-Germanic,Beats
+Old English,Beats
+Proto-West Germanic,Beats
 English,Beautiful
 Middle English,Beautiful
 English,Beauty
@@ -595,6 +607,16 @@ Proto-Indo-European,Beyond
 Old English,Beyond
 Proto-Germanic,Beyond
 English,Biddy
+English,Bieber
+Ancient Greek,Bieber
+Proto-Indo-European,Bieber
+French,Bieber
+Latin,Bieber
+Proto-Germanic,Bieber
+German,Bieber
+Proto-Hellenic,Bieber
+Proto-West Germanic,Bieber
+Middle High German,Bieber
 English,Big
 Middle English,Big
 English,Biggest
@@ -614,6 +636,11 @@ Proto-Germanic,Billie
 Old English,Billie
 Old French,Billie
 Anglo-Norman,Billie
+Latin,Billion
+English,Billion
+French,Billion
+Proto-Indo-European,Billion
+Proto-Italic,Billion
 English,Bills
 Latin,Bills
 Proto-Indo-European,Bills
@@ -826,6 +853,11 @@ Proto-Indo-European,Bout
 English,Bout
 Proto-Germanic,Bout
 Old English,Bout
+Proto-Indo-European,Bow
+English,Bow
+Proto-Germanic,Bow
+Middle English,Bow
+Old English,Bow
 English,Boxcar
 Latin,Boxcar
 Ancient Greek,Boxcar
@@ -967,6 +999,7 @@ Proto-North Caucasian,Bucket
 English,Bullet
 Middle French,Bullet
 English,Bum
+English,Buns
 English,Burdensome
 Proto-Indo-European,Burdensome
 Middle English,Burdensome
@@ -1502,6 +1535,11 @@ English,Comparison
 Proto-Indo-European,Comparison
 Proto-Italic,Comparison
 Old French,Comparison
+Latin,Complete
+English,Complete
+Proto-Indo-European,Complete
+Proto-Italic,Complete
+Middle English,Complete
 English,Completely
 Latin,Completely
 Proto-Indo-European,Completely
@@ -1856,6 +1894,10 @@ Old English,Death
 Proto-Germanic,Death
 Middle English,Death
 Proto-West Germanic,Death
+English,Deceased
+Latin,Deceased
+Proto-Indo-European,Deceased
+Old French,Deceased
 English,Decided
 English,Decides
 Latin,Decides
@@ -2240,6 +2282,11 @@ Proto-Germanic,Each
 Middle English,Each
 Old English,Each
 English,Earned
+English,East
+Proto-Indo-European,East
+Proto-Germanic,East
+Old English,East
+Middle English,East
 Proto-Indo-European,Easy
 English,Easy
 Old French,Easy
@@ -2339,6 +2386,9 @@ Italian,Escalade
 French,Escalade
 English,Escalade
 English,Escaping
+English,Ether
+Middle English,Ether
+Old French,Ether
 English,Evaluation
 English,Even
 Proto-Germanic,Even
@@ -2596,6 +2646,12 @@ Latin,Fine
 Proto-Germanic,Fine
 Old French,Fine
 Old English,Fine
+Proto-Indo-European,Finer
+English,Finer
+Latin,Finer
+Proto-Germanic,Finer
+Old French,Finer
+Old English,Finer
 English,Finn
 English,Fire
 Proto-Indo-European,Fire
@@ -3649,6 +3705,19 @@ English,Imma
 Old English,In
 Proto-Germanic,In
 Middle English,In
+Latin,Incline
+Proto-Indo-European,Incline
+English,Incline
+Proto-Italic,Incline
+Old Latin,Incline
+Old French,Incline
+Ancient Greek,Ink
+English,Ink
+Latin,Ink
+Proto-Indo-European,Ink
+Old French,Ink
+Middle English,Ink
+Late Latin,Ink
 Latin,Innocent
 Proto-Indo-European,Innocent
 English,Innocent
@@ -4066,6 +4135,11 @@ Old French,Lesson
 Middle English,Lesson
 Old English,Let
 Proto-Germanic,Let
+Latin,Letters
+English,Letters
+Ancient Greek,Letters
+Old French,Letters
+Middle English,Letters
 English,Letting
 Proto-Indo-European,Letting
 Old English,Letting
@@ -4801,6 +4875,7 @@ Proto-Italic,Nice
 Middle English,Nice
 Old French,Nice
 Old Latin,Nice
+English,Nicki
 English,Nickles
 Latin,Nigga
 French,Nigga
@@ -5532,6 +5607,14 @@ French,Price
 German,Price
 Old French,Price
 Middle English,Price
+Latin,Priest
+Proto-Indo-European,Priest
+Ancient Greek,Priest
+English,Priest
+Old French,Priest
+Old English,Priest
+Middle English,Priest
+Late Latin,Priest
 English,Prima
 Latin,Prince
 Proto-Indo-European,Prince
@@ -6260,6 +6343,10 @@ Middle English,Seize
 Old French,Seize
 Proto-Germanic,Seize
 Medieval Latin,Seize
+English,Selena
+Latin,Selena
+Ancient Greek,Selena
+Proto-Indo-European,Selena
 English,Self
 Proto-Indo-European,Self
 Middle English,Self
@@ -7571,6 +7658,11 @@ Proto-Germanic,Touch
 Vulgar Latin,Touch
 Frankish,Touch
 English,Touched
+Latin,Tour
+Proto-Indo-European,Tour
+Ancient Greek,Tour
+English,Tour
+Old French,Tour
 English,Toward
 Middle English,Toward
 English,Towards
@@ -8194,6 +8286,11 @@ Proto-Indo-European,Wide
 English,Wide
 Proto-Germanic,Wide
 Old English,Wide
+Proto-Indo-European,Wiener
+English,Wiener
+German,Wiener
+Proto-Germanic,Wiener
+Proto-West Germanic,Wiener
 Proto-Indo-European,Wild
 English,Wild
 Proto-Germanic,Wild
