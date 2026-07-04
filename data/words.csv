@@ -516,6 +516,11 @@ English,Bed
 Proto-Indo-European,Bed
 Old English,Bed
 Proto-Germanic,Bed
+English,Bedpost
+Proto-Indo-European,Bedpost
+Latin,Bedpost
+Old English,Bedpost
+Proto-Germanic,Bedpost
 English,Been
 Proto-Indo-European,Been
 Old English,Been
@@ -1445,6 +1450,13 @@ Old English,Closely
 Old Norse,Closely
 Old French,Closely
 English,Closest
+Latin,Closet
+English,Closet
+Proto-Indo-European,Closet
+Proto-Italic,Closet
+Old French,Closet
+Late Latin,Closet
+Old English,Closet
 Latin,Closing
 English,Closing
 Proto-Italic,Closing
@@ -1481,6 +1493,14 @@ Proto-Indo-European,Coat
 Old French,Coat
 Proto-Germanic,Coat
 Middle English,Coat
+English,Cock
+Latin,Cock
+Ancient Greek,Cock
+Proto-Indo-European,Cock
+Middle English,Cock
+Old English,Cock
+Proto-Germanic,Cock
+Proto-West Germanic,Cock
 English,Coffee
 Italian,Coffee
 Arabic,Coffee
@@ -1548,6 +1568,11 @@ Middle English,Completely
 Proto-Germanic,Completely
 Old English,Completely
 Old Norse,Completely
+Latin,Complex
+English,Complex
+French,Complex
+Proto-Indo-European,Complex
+Proto-Italic,Complex
 Latin,Concern
 English,Concern
 Proto-Indo-European,Concern
@@ -2281,6 +2306,11 @@ Proto-Indo-European,Each
 Proto-Germanic,Each
 Middle English,Each
 Old English,Each
+English,Earlier
+Proto-Indo-European,Earlier
+Old English,Earlier
+Proto-Germanic,Earlier
+Middle English,Earlier
 English,Earned
 English,East
 Proto-Indo-European,East
@@ -2836,6 +2866,8 @@ Proto-Germanic,Freedom
 Middle English,Freedom
 Old English,Freedom
 Proto-West Germanic,Freedom
+English,Friction
+Latin,Friction
 English,Friday
 Middle English,Friday
 English,Fried
@@ -3111,6 +3143,12 @@ Old French,Grandeur
 Proto-Italic,Grandeur
 English,Grandma
 English,Grandpa
+English,Grass
+Proto-Indo-European,Grass
+Old English,Grass
+Proto-Germanic,Grass
+Middle English,Grass
+Proto-West Germanic,Grass
 English,Grave
 Proto-Indo-European,Grave
 Proto-Germanic,Grave
@@ -4251,6 +4289,7 @@ English,Living
 Proto-Germanic,Living
 Old English,Living
 Middle English,Living
+English,Loaded
 English,Loc
 English,Lock
 Proto-Indo-European,Lock
@@ -4461,6 +4500,9 @@ English,Matter
 Proto-Indo-European,Matter
 Proto-Italic,Matter
 Middle English,Matter
+English,Mausoleum
+Ancient Greek,Mausoleum
+Latin,Mausoleum
 English,May
 Proto-Indo-European,May
 Proto-Germanic,May
@@ -4527,6 +4569,7 @@ English,Message
 Proto-Indo-European,Message
 Old French,Message
 Late Latin,Message
+English,Messed
 Proto-Indo-European,Met
 English,Met
 Proto-Germanic,Met
@@ -4972,6 +5015,12 @@ Old English,Not
 Proto-Germanic,Not
 Middle English,Not
 Proto-West Germanic,Not
+English,Notch
+Proto-Indo-European,Notch
+Proto-Germanic,Notch
+Old English,Notch
+Middle English,Notch
+Proto-West Germanic,Notch
 English,Note
 Latin,Note
 Proto-Indo-European,Note
@@ -7236,6 +7285,10 @@ English,Swim
 Proto-Indo-European,Swim
 Proto-Germanic,Swim
 Old English,Swim
+English,Swinging
+Old English,Swinging
+Middle English,Swinging
+Proto-Germanic,Swinging
 English,Swings
 Proto-Indo-European,Swings
 Latin,Swings
