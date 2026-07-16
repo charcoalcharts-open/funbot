@@ -328,6 +328,11 @@ Proto-Indo-European,Babe
 Proto-Germanic,Babe
 Middle English,Babe
 Old English,Babe
+English,Babies
+Proto-Indo-European,Babies
+Proto-Germanic,Babies
+Middle English,Babies
+Old English,Babies
 English,Baby
 Proto-Indo-European,Baby
 Proto-Germanic,Baby
@@ -616,6 +621,13 @@ English,Beyond
 Proto-Indo-European,Beyond
 Old English,Beyond
 Proto-Germanic,Beyond
+English,Bible
+Proto-Indo-European,Bible
+Latin,Bible
+Proto-Italic,Bible
+Proto-Germanic,Bible
+Old English,Bible
+Middle English,Bible
 English,Biddy
 English,Bieber
 Ancient Greek,Bieber
@@ -1049,6 +1061,15 @@ Middle English,Business
 English,Busting
 Middle English,But
 Old English,But
+English,Butcher
+Proto-Indo-European,Butcher
+Proto-Celtic,Butcher
+Old French,Butcher
+Proto-Germanic,Butcher
+Gaulish,Butcher
+Old English,Butcher
+Medieval Latin,Butcher
+Proto-North Caucasian,Butcher
 English,Buy
 Proto-Indo-European,Buy
 Proto-Germanic,Buy
@@ -1209,6 +1230,16 @@ English,Cash
 Middle French,Cash
 Proto-Indo-European,Cash
 Proto-Italic,Cash
+English,Catalog
+Ancient Greek,Catalog
+Latin,Catalog
+Proto-Indo-European,Catalog
+French,Catalog
+Old French,Catalog
+Middle English,Catalog
+Medieval Latin,Catalog
+Vulgar Latin,Catalog
+Middle French,Catalog
 Latin,Catch
 Proto-Indo-European,Catch
 English,Catch
@@ -1509,6 +1540,14 @@ Proto-Germanic,Clowns
 Old English,Clowns
 Middle English,Clowns
 Proto-Indo-European,Clowns
+Latin,Coal
+Proto-Indo-European,Coal
+English,Coal
+Ancient Greek,Coal
+Proto-Germanic,Coal
+Middle English,Coal
+Old English,Coal
+Proto-West Germanic,Coal
 English,Coast
 Latin,Coast
 Old French,Coast
@@ -1656,6 +1695,11 @@ Old English,Cop
 Ancient Greek,Cop
 Late Latin,Cop
 Byzantine Greek,Cop
+English,Corn
+Proto-Indo-European,Corn
+Proto-Germanic,Corn
+Middle English,Corn
+Old English,Corn
 Latin,Corner
 English,Corner
 Proto-Indo-European,Corner
@@ -2513,6 +2557,12 @@ Middle English,Exactly
 Proto-Germanic,Exactly
 Old English,Exactly
 Old Norse,Exactly
+English,Except
+Latin,Except
+Proto-Indo-European,Except
+Proto-Italic,Except
+Old French,Except
+Middle English,Except
 English,Exchanged
 Latin,Excuse
 English,Excuse
@@ -2691,6 +2741,13 @@ Latin,Fiction
 Proto-Indo-European,Fiction
 English,Fiction
 Old French,Fiction
+English,Field
+Proto-Indo-European,Field
+Middle English,Field
+Old English,Field
+Proto-Germanic,Field
+Old Norse,Field
+Proto-West Germanic,Field
 English,Fields
 Proto-Indo-European,Fields
 Proto-Germanic,Fields
@@ -2741,6 +2798,12 @@ Latin,Finer
 Proto-Germanic,Finer
 Old French,Finer
 Old English,Finer
+English,Fingers
+Proto-Indo-European,Fingers
+Proto-Germanic,Fingers
+Old English,Fingers
+Middle English,Fingers
+Proto-West Germanic,Fingers
 English,Finn
 English,Fire
 Proto-Indo-European,Fire
@@ -3603,6 +3666,12 @@ Proto-Germanic,Hoes
 Old English,Hoes
 Middle English,Hoes
 Anglo-Norman,Hoes
+English,Hog
+Proto-Indo-European,Hog
+Old Norse,Hog
+Proto-Germanic,Hog
+Middle English,Hog
+Old English,Hog
 English,Hold
 Proto-Indo-European,Hold
 Proto-Germanic,Hold
@@ -3624,6 +3693,7 @@ Proto-West Germanic,Hole
 English,Holiday
 Middle English,Holiday
 Old English,Holiday
+English,Holler
 Proto-Indo-European,Holly
 English,Holly
 Proto-Germanic,Holly
@@ -4032,6 +4102,11 @@ Proto-Indo-European,Kid
 Middle English,Kid
 Old Norse,Kid
 Proto-Germanic,Kid
+English,Kids
+Proto-Indo-European,Kids
+Middle English,Kids
+Old Norse,Kids
+Proto-Germanic,Kids
 English,Kilimanjaro
 Proto-Bantu,Kilimanjaro
 Swahili,Kilimanjaro
@@ -4217,6 +4292,12 @@ Proto-Indo-European,Leap
 Old English,Leap
 Proto-Germanic,Leap
 Middle English,Leap
+English,Lear
+Proto-Indo-European,Lear
+Middle English,Lear
+Proto-Germanic,Lear
+Old English,Lear
+Old Norse,Lear
 English,Learn
 Proto-Indo-European,Learn
 Old English,Learn
@@ -4553,6 +4634,18 @@ Ancient Greek,Magical
 Middle English,Magical
 English,Magician
 Middle English,Magician
+Proto-Indo-European,Mail
+English,Mail
+Latin,Mail
+Old English,Mail
+Old French,Mail
+Middle English,Mail
+Proto-Germanic,Mail
+Ancient Greek,Mail
+Anglo-Norman,Mail
+Vulgar Latin,Mail
+Frankish,Mail
+Medieval Latin,Mail
 English,Maine
 Proto-Indo-European,Maine
 Proto-Germanic,Maine
@@ -4574,6 +4667,7 @@ Old English,Man
 Middle English,Man
 Old Norse,Man
 Proto-West Germanic,Man
+English,Managed
 Proto-Indo-European,Mankind
 English,Mankind
 Proto-Germanic,Mankind
@@ -4741,6 +4835,7 @@ Proto-Germanic,Mine
 Middle English,Mine
 Old English,Mine
 Proto-West Germanic,Mine
+English,Miner
 Latin,Mini
 English,Mini
 Italian,Mini
@@ -4803,6 +4898,13 @@ Latin,Moment
 Proto-Indo-European,Moment
 English,Moment
 English,Momma
+English,Mommy
+Latin,Mommy
+Proto-Indo-European,Mommy
+Middle English,Mommy
+Proto-Germanic,Mommy
+Old English,Mommy
+Old French,Mommy
 Arabic,Mona
 Spanish,Mona
 Proto-Indo-European,Money
@@ -5211,6 +5313,7 @@ Old English,Oh
 Proto-Germanic,Oh
 Middle English,Oh
 Proto-West Germanic,Oh
+English,Oil
 English,Okay
 English,Ol
 Proto-Indo-European,Old
@@ -5961,6 +6064,11 @@ Proto-Indo-European,Reach
 Proto-Germanic,Reach
 Old English,Reach
 Proto-West Germanic,Reach
+English,Read
+Proto-Indo-European,Read
+Proto-Germanic,Read
+Old English,Read
+Middle English,Read
 English,Ready
 Proto-Indo-European,Ready
 Middle English,Ready
@@ -6190,6 +6298,7 @@ Proto-West Germanic,Roads
 English,Rock
 Middle English,Rock
 Old English,Rock
+English,Rocked
 English,Rocking
 Old English,Rocking
 Middle English,Rocking
@@ -6458,6 +6567,7 @@ Proto-West Germanic,Screen
 Middle English,Screen
 English,Screw
 Middle English,Screw
+English,Scrubbed
 English,Sculptor
 Latin,Sculptor
 English,Sea
@@ -6700,6 +6810,7 @@ Old English,Should
 English,Shout
 Middle English,Shout
 English,Shouted
+English,Shoveled
 English,Show
 Proto-Germanic,Show
 Old English,Show
@@ -7360,6 +7471,7 @@ English,Summer
 Proto-Germanic,Summer
 Old English,Summer
 Middle English,Summer
+English,Summertime
 Old English,Sun
 Middle English,Sun
 Proto-Germanic,Sun
@@ -8100,6 +8212,7 @@ Proto-Indo-European,Understand
 English,Understand
 Proto-Germanic,Understand
 Old English,Understand
+English,Understanding
 English,Undone
 Proto-Indo-European,Undone
 Old English,Undone
@@ -8313,6 +8426,14 @@ English,Wash
 Proto-Indo-European,Wash
 Proto-Germanic,Wash
 Old English,Wash
+Latin,Washboard
+English,Washboard
+Proto-Indo-European,Washboard
+Ancient Greek,Washboard
+Old English,Washboard
+Proto-Germanic,Washboard
+Middle English,Washboard
+Proto-West Germanic,Washboard
 English,Waste
 Proto-Indo-European,Waste
 Proto-Germanic,Waste
@@ -8559,6 +8680,13 @@ English,Winter
 Middle English,Winter
 Old English,Winter
 Proto-Germanic,Winter
+English,Wintertime
+Ancient Greek,Wintertime
+Proto-Indo-European,Wintertime
+Latin,Wintertime
+Middle English,Wintertime
+Old English,Wintertime
+Proto-Germanic,Wintertime
 English,Wipe
 Proto-Indo-European,Wipe
 Middle English,Wipe
