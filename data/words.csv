@@ -1671,6 +1671,12 @@ Medieval Latin,Control
 English,Conversation
 French,Conversation
 Latin,Conversation
+English,Convinced
+Proto-Indo-European,Convinced
+Middle English,Convinced
+Proto-Germanic,Convinced
+Old English,Convinced
+Old Norse,Convinced
 Latin,Cook
 English,Cook
 Proto-Indo-European,Cook
@@ -1777,6 +1783,10 @@ Proto-Germanic,Cousins
 Old English,Cousins
 Middle English,Cousins
 Proto-West Germanic,Cousins
+Latin,Covers
+English,Covers
+Proto-Indo-European,Covers
+Proto-Italic,Covers
 Proto-Indo-European,Cowboy
 English,Cowboy
 Ancient Greek,Cowboy
@@ -2769,6 +2779,9 @@ Proto-West Germanic,Fight
 English,Fighting
 Proto-Indo-European,Fighting
 Proto-Germanic,Fighting
+English,Figure
+Proto-Indo-European,Figure
+Latin,Figure
 English,Fill
 Proto-Indo-European,Fill
 Old English,Fill
@@ -3878,6 +3891,12 @@ Latin,I
 Proto-Germanic,If
 Middle English,If
 Old English,If
+Latin,Ignore
+Proto-Indo-European,Ignore
+English,Ignore
+French,Ignore
+Proto-Italic,Ignore
+Old Latin,Ignore
 English,Ima
 Latin,Imagine
 Proto-Indo-European,Imagine
@@ -4259,6 +4278,12 @@ Middle English,Later
 Old English,Later
 Proto-Germanic,Later
 Old Norse,Later
+English,Laugh
+Proto-Indo-European,Laugh
+Old English,Laugh
+Middle English,Laugh
+Proto-Germanic,Laugh
+Proto-West Germanic,Laugh
 Proto-Indo-European,Laughing
 English,Laughing
 Old English,Laughing
@@ -5033,6 +5058,11 @@ Old English,My
 Proto-West Germanic,My
 English,Myself
 Old English,Myself
+English,Mystery
+Latin,Mystery
+Ancient Greek,Mystery
+Proto-Indo-European,Mystery
+Middle English,Mystery
 Latin,Na
 Proto-Indo-European,Na
 English,Na
@@ -5262,6 +5292,7 @@ Latin,Notice
 English,Notice
 Proto-Indo-European,Notice
 Proto-Italic,Notice
+English,Noticed
 Proto-Indo-European,Nova
 English,Nova
 Latin,Nova
@@ -6398,6 +6429,13 @@ English,Rules
 Proto-Indo-European,Rules
 Middle English,Rules
 Old French,Rules
+English,Rumor
+Ancient Greek,Rumor
+Latin,Rumor
+Proto-Indo-European,Rumor
+Middle English,Rumor
+Old English,Rumor
+Proto-Germanic,Rumor
 English,Rumored
 English,Run
 Proto-Indo-European,Run
@@ -8737,6 +8775,11 @@ Proto-Indo-European,Wonder
 Proto-Germanic,Wonder
 Old English,Wonder
 English,Wondering
+English,Wont
+Proto-Indo-European,Wont
+Middle English,Wont
+Old English,Wont
+Proto-Germanic,Wont
 English,Wooh
 Proto-Germanic,Word
 Old English,Word
