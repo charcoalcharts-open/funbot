@@ -179,6 +179,17 @@ Proto-Germanic,And
 Old English,And
 Middle English,And
 Proto-West Germanic,And
+English,Angel
+Latin,Angel
+Ancient Greek,Angel
+Proto-Indo-European,Angel
+Old English,Angel
+Proto-Germanic,Angel
+Middle English,Angel
+Old French,Angel
+Anglo-Norman,Angel
+Proto-West Germanic,Angel
+Late Latin,Angel
 English,Anger
 Proto-Indo-European,Anger
 Proto-Germanic,Anger
@@ -198,6 +209,7 @@ Old English,Answer
 Proto-Germanic,Answer
 Middle English,Answer
 Proto-West Germanic,Answer
+English,Answered
 English,Any
 Proto-Indo-European,Any
 Old English,Any
@@ -459,6 +471,13 @@ Proto-Indo-European,Bats
 Proto-Germanic,Bats
 Middle English,Bats
 Old English,Bats
+English,Battle
+Proto-Indo-European,Battle
+Latin,Battle
+Old English,Battle
+Proto-Germanic,Battle
+Old French,Battle
+Middle English,Battle
 English,Bayou
 Proto-Germanic,Be
 Middle English,Be
@@ -1467,6 +1486,11 @@ Proto-Indo-European,Clear
 Old French,Clear
 Middle English,Clear
 Anglo-Norman,Clear
+English,Cleared
+Old English,Cleared
+Middle English,Cleared
+Proto-Germanic,Cleared
+Proto-West Germanic,Cleared
 English,Clever
 Middle English,Clever
 Old English,Clever
@@ -2832,6 +2856,12 @@ Proto-Germanic,Fire
 Old English,Fire
 Middle English,Fire
 Proto-West Germanic,Fire
+English,Fired
+Proto-Indo-European,Fired
+Proto-Germanic,Fired
+Old English,Fired
+Middle English,Fired
+Proto-West Germanic,Fired
 Proto-Indo-European,First
 English,First
 Proto-Germanic,First
@@ -3376,6 +3406,13 @@ English,Guitar
 Spanish,Guitar
 English,Gun
 Middle English,Gun
+Latin,Guns
+English,Guns
+Proto-Indo-European,Guns
+Middle English,Guns
+Old English,Guns
+Proto-Germanic,Guns
+Old Norse,Guns
 Proto-Indo-European,Guts
 English,Guts
 Middle English,Guts
@@ -6110,6 +6147,7 @@ Proto-Indo-European,Reach
 Proto-Germanic,Reach
 Old English,Reach
 Proto-West Germanic,Reach
+English,Reached
 English,Read
 Proto-Indo-European,Read
 Proto-Germanic,Read
@@ -6276,12 +6314,29 @@ Proto-Germanic,Ride
 Old English,Ride
 Middle English,Ride
 Proto-West Germanic,Ride
+English,Riders
+Proto-Indo-European,Riders
+Proto-Germanic,Riders
+Old English,Riders
+Middle English,Riders
+Proto-West Germanic,Riders
 English,Riding
 Proto-Indo-European,Riding
 Old English,Riding
 Middle English,Riding
 Proto-Germanic,Riding
 Proto-West Germanic,Riding
+Ancient Greek,Rifles
+English,Rifles
+Proto-Indo-European,Rifles
+Italian,Rifles
+Latin,Rifles
+Proto-Hellenic,Rifles
+Proto-Germanic,Rifles
+Old French,Rifles
+Proto-West Germanic,Rifles
+Frankish,Rifles
+Late Latin,Rifles
 English,Right
 Proto-Indo-European,Right
 Middle English,Right
@@ -7894,6 +7949,15 @@ Proto-Indo-European,Throat
 Old English,Throat
 Proto-Germanic,Throat
 Middle English,Throat
+English,Throne
+Proto-Indo-European,Throne
+Latin,Throne
+Ancient Greek,Throne
+Proto-Germanic,Throne
+Middle English,Throne
+Old French,Throne
+Old English,Throne
+Proto-West Germanic,Throne
 English,Through
 Proto-Indo-European,Through
 Proto-Germanic,Through
@@ -7914,6 +7978,12 @@ Proto-Indo-European,Thumb
 Middle English,Thumb
 Old English,Thumb
 Proto-Germanic,Thumb
+English,Thunder
+Proto-Indo-European,Thunder
+Proto-Germanic,Thunder
+Old English,Thunder
+Middle English,Thunder
+Proto-West Germanic,Thunder
 English,Ticket
 Proto-Indo-European,Ticket
 Proto-Germanic,Ticket
@@ -8643,6 +8713,7 @@ Scottish Gaelic,Whiskey
 Middle Irish,Whiskey
 Old English,Whisper
 Proto-Germanic,Whisper
+English,Whispered
 English,Whispers
 Proto-Indo-European,Whispers
 Proto-Germanic,Whispers
