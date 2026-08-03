@@ -406,6 +406,10 @@ Old Norse,Banger
 Welsh,Bangor
 English,Bangor
 Old Welsh,Bangor
+English,Bank
+Proto-Germanic,Bank
+Old English,Bank
+Middle English,Bank
 French,Bar
 English,Bar
 Ancient Greek,Bar
@@ -796,6 +800,7 @@ English,Blues
 English,Bluff
 Dutch,Bluff
 Middle Dutch,Bluff
+English,Bluffing
 English,Boarded
 English,Boats
 English,Bodies
@@ -1250,6 +1255,10 @@ English,Cash
 Middle French,Cash
 Proto-Indo-European,Cash
 Proto-Italic,Cash
+Italian,Casino
+English,Casino
+Latin,Casino
+Proto-Indo-European,Casino
 English,Catalog
 Ancient Greek,Catalog
 Latin,Catalog
@@ -1412,6 +1421,11 @@ Old English,Chest
 French,Chevrolet
 English,Chevrolet
 English,Chewed
+English,Chick
+Middle English,Chick
+Old English,Chick
+Hindi,Chick
+Classical Persian,Chick
 English,Chicken
 Middle English,Chicken
 Old English,Chicken
@@ -2933,6 +2947,10 @@ Middle English,Fly
 Proto-Indo-European,Flying
 English,Flying
 Proto-Germanic,Flying
+English,Fold
+Old English,Fold
+Proto-Germanic,Fold
+Middle English,Fold
 English,Folks
 Proto-Indo-European,Folks
 Old English,Folks
@@ -3113,6 +3131,22 @@ English,G
 French,G
 Latin,G
 Proto-Hellenic,G
+English,Gambling
+Proto-Indo-European,Gambling
+Ancient Greek,Gambling
+Middle Dutch,Gambling
+Russian,Gambling
+Proto-Germanic,Gambling
+Old English,Gambling
+Old Norse,Gambling
+Norwegian Nynorsk,Gambling
+Chichewa,Gambling
+Middle English,Gambling
+German,Gambling
+Old Church Slavonic,Gambling
+Proto-West Germanic,Gambling
+Old High German,Gambling
+Middle High German,Gambling
 English,Game
 Proto-Indo-European,Game
 Proto-Germanic,Game
@@ -3221,6 +3255,12 @@ Middle English,Gloomy
 Proto-Germanic,Gloomy
 Old English,Gloomy
 Old French,Gloomy
+English,Glue
+Proto-Italic,Glue
+Proto-Indo-European,Glue
+Old French,Glue
+Middle English,Glue
+Latin,Glue
 English,Go
 Proto-Indo-European,Go
 Old English,Go
@@ -3406,6 +3446,12 @@ English,Guitar
 Spanish,Guitar
 English,Gun
 Middle English,Gun
+English,Gunning
+Dutch,Gunning
+Middle Dutch,Gunning
+Proto-Indo-European,Gunning
+Proto-Germanic,Gunning
+Old Dutch,Gunning
 Latin,Guns
 English,Guns
 Proto-Indo-European,Guns
@@ -3798,6 +3844,20 @@ English,Hood
 Proto-Germanic,Hood
 Old English,Hood
 Middle English,Hood
+English,Hooked
+Proto-Indo-European,Hooked
+Dutch,Hooked
+Swedish,Hooked
+Old Swedish,Hooked
+Proto-Germanic,Hooked
+Old Norse,Hooked
+Middle English,Hooked
+Old English,Hooked
+Middle Dutch,Hooked
+Old Dutch,Hooked
+Middle Low German,Hooked
+Proto-West Germanic,Hooked
+Old High German,Hooked
 English,Hooter
 Latin,Hooter
 Proto-Indo-European,Hooter
@@ -3893,6 +3953,10 @@ English,Huck
 Proto-Germanic,Huck
 Middle English,Huck
 Old English,Huck
+English,Hug
+Proto-Germanic,Hug
+Old French,Hug
+Proto-Indo-European,Hug
 English,Huh
 English,Humming
 Old English,Humming
@@ -3994,6 +4058,13 @@ Old French,Interstate
 English,Into
 Middle English,Into
 English,Introduced
+Proto-Indo-European,Intuition
+English,Intuition
+Latin,Intuition
+Middle French,Intuition
+Ancient Greek,Intuition
+Proto-Italic,Intuition
+Medieval Latin,Intuition
 English,Inviting
 Middle French,Inviting
 Latin,Inviting
@@ -4763,6 +4834,14 @@ English,Married
 Proto-Indo-European,Married
 Old French,Married
 Middle English,Married
+Latin,Marvelous
+English,Marvelous
+Proto-Indo-European,Marvelous
+Proto-Italic,Marvelous
+Old French,Marvelous
+Proto-Slavic,Marvelous
+Middle English,Marvelous
+Vulgar Latin,Marvelous
 English,Masterpiece
 Latin,Masterpiece
 Proto-Indo-European,Masterpiece
@@ -5516,6 +5595,7 @@ Proto-Italic,Oz
 Old Latin,Oz
 Middle English,Oz
 Italian,Oz
+English,P
 English,Packed
 English,Pain
 Latin,Pain
@@ -5851,6 +5931,23 @@ Latin,Poisoning
 English,Poisoning
 Old French,Poisoning
 Middle English,Poisoning
+English,Poker
+Proto-Indo-European,Poker
+Hawaiian,Poker
+Proto-Italic,Poker
+French,Poker
+Middle English,Poker
+Old French,Poker
+Old English,Poker
+German,Poker
+Proto-Germanic,Poker
+Chichewa,Poker
+Anglo-Norman,Poker
+Latin,Poker
+Middle High German,Poker
+Frankish,Poker
+Powhatan,Poker
+Mandarin,Poker
 English,Politicians
 Ancient Greek,Politicians
 Latin,Politicians
@@ -6476,6 +6573,43 @@ Proto-Hellenic,Rose
 Hebrew,Roseanna
 Ancient Greek,Roseanna
 English,Roseanna
+Proto-Indo-European,Rough
+English,Rough
+Dutch,Rough
+Latin,Rough
+Ancient Greek,Rough
+Italian,Rough
+Old High German,Rough
+French,Rough
+Proto-Germanic,Rough
+Middle English,Rough
+Old Norse,Rough
+German,Rough
+Old English,Rough
+Old Latin,Rough
+Middle Dutch,Rough
+Old Dutch,Rough
+Proto-West Germanic,Rough
+Middle High German,Rough
+Old French,Rough
+Middle Low German,Rough
+Proto-Italic,Rough
+Latin,Roulette
+French,Roulette
+English,Roulette
+Ancient Greek,Roulette
+Proto-Indo-European,Roulette
+Middle French,Roulette
+Hungarian,Roulette
+Old Occitan,Roulette
+Classical Syriac,Roulette
+Old French,Roulette
+Proto-Uralic,Roulette
+Proto-Italic,Roulette
+Arabic,Roulette
+Medieval Latin,Roulette
+Indo-European,Roulette
+Old Latin,Roulette
 Latin,Round
 Italian,Round
 Middle English,Round
@@ -6517,6 +6651,17 @@ Proto-Indo-European,Running
 Proto-Germanic,Running
 Middle English,Running
 Old English,Running
+Proto-Indo-European,Russian
+Old East Slavic,Russian
+English,Russian
+Old Swedish,Russian
+Old Norse,Russian
+Proto-Germanic,Russian
+Finnish,Russian
+Medieval Latin,Russian
+Latin,Russian
+Proto-Finnic,Russian
+Persian,Russian
 English,Rust
 Proto-Indo-European,Rust
 Frankish,Rust
@@ -7271,6 +7416,7 @@ English,Space
 Latin,Space
 Proto-Indo-European,Space
 Old French,Space
+English,Spades
 Italian,Spaghetti
 English,Spaghetti
 Latin,Spaghetti
@@ -7518,6 +7664,17 @@ Proto-Germanic,Stud
 Old English,Stud
 English,Stumbling
 Proto-Germanic,Stumbling
+Proto-Indo-European,Stunning
+English,Stunning
+Middle English,Stunning
+Old English,Stunning
+Proto-Germanic,Stunning
+Old French,Stunning
+Old Norse,Stunning
+Proto-Norse,Stunning
+Latin,Stunning
+Proto-West Germanic,Stunning
+Late Latin,Stunning
 Latin,Stupor
 English,Stupor
 Proto-Indo-European,Stupor
