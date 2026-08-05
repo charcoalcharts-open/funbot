@@ -1573,6 +1573,13 @@ Proto-Germanic,Clouds
 Old English,Clouds
 Middle English,Clouds
 Proto-West Germanic,Clouds
+Proto-Indo-European,Cloudy
+English,Cloudy
+Proto-Germanic,Cloudy
+Old English,Cloudy
+Middle English,Cloudy
+Proto-West Germanic,Cloudy
+Indo-European,Cloudy
 English,Clown
 English,Clowns
 Proto-Germanic,Clowns
@@ -4842,6 +4849,16 @@ Old French,Marvelous
 Proto-Slavic,Marvelous
 Middle English,Marvelous
 Vulgar Latin,Marvelous
+English,Mary
+Ancient Greek,Mary
+Aramaic,Mary
+Hebrew,Mary
+French,Mary
+Swedish,Mary
+Old French,Mary
+Middle English,Mary
+Latin,Mary
+Biblical Hebrew,Mary
 English,Masterpiece
 Latin,Masterpiece
 Proto-Indo-European,Masterpiece
@@ -7022,6 +7039,12 @@ Proto-Germanic,Shine
 Middle English,Shine
 Proto-Indo-European,Shine
 Proto-West Germanic,Shine
+English,Shines
+Proto-Indo-European,Shines
+Old English,Shines
+Proto-Germanic,Shines
+Middle English,Shines
+Proto-West Germanic,Shines
 English,Shirt
 Proto-Germanic,Shirt
 Middle English,Shirt
@@ -7401,6 +7424,13 @@ Proto-Indo-European,Soul
 Proto-Germanic,Soul
 Old English,Soul
 Proto-West Germanic,Soul
+English,Sound
+Proto-Indo-European,Sound
+Proto-Germanic,Sound
+Middle English,Sound
+Old Norse,Sound
+Old English,Sound
+Proto-West Germanic,Sound
 Proto-Indo-European,Southern
 English,Southern
 Old English,Southern
@@ -7429,6 +7459,11 @@ Proto-Indo-European,Speak
 Old English,Speak
 Proto-Germanic,Speak
 Middle English,Speak
+English,Speaking
+Norwegian Bokmål,Speaking
+Old Norse,Speaking
+Proto-Germanic,Speaking
+Middle English,Speaking
 Latin,Spend
 English,Spend
 Proto-Indo-European,Spend
@@ -8977,6 +9012,11 @@ English,Wire
 Proto-Indo-European,Wire
 Proto-Germanic,Wire
 Old English,Wire
+Proto-Indo-European,Wisdom
+English,Wisdom
+Proto-Germanic,Wisdom
+Middle English,Wisdom
+Old English,Wisdom
 Proto-Indo-European,Wise
 English,Wise
 Proto-Germanic,Wise
@@ -9162,4 +9202,4 @@ Late Latin,Yours
 English,Yourself
 English,Zanzibar
 Persian,Zanzibar
-Middle Persian,Zanzibar
+Middle Persian,Zanziba
