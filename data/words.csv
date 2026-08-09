@@ -335,6 +335,8 @@ Middle English,Awake
 English,Away
 Middle English,Away
 Old English,Away
+English,Awhile
+Old English,Awhile
 English,Babe
 Proto-Indo-European,Babe
 Proto-Germanic,Babe
@@ -4724,6 +4726,12 @@ English,Loved
 Proto-Indo-European,Loved
 Proto-Germanic,Loved
 Old English,Loved
+Proto-Indo-European,Lovely
+English,Lovely
+Middle English,Lovely
+Old English,Lovely
+Proto-Germanic,Lovely
+Proto-West Germanic,Lovely
 English,Lover
 Old English,Loving
 Proto-Germanic,Loving
@@ -5493,6 +5501,24 @@ Proto-Germanic,Oh
 Middle English,Oh
 Proto-West Germanic,Oh
 English,Oil
+Latin,Ok
+Proto-Indo-European,Ok
+English,Ok
+Ancient Greek,Ok
+Italian,Ok
+French,Ok
+Proto-Italic,Ok
+Arabic,Ok
+Laurentian,Ok
+Old French,Ok
+Old Latin,Ok
+New Latin,Ok
+Late Latin,Ok
+Vulgar Latin,Ok
+Classical Syriac,Ok
+Germanic,Ok
+Ottoman Turkish,Ok
+Proto-Hellenic,Ok
 English,Okay
 English,Ol
 Proto-Indo-European,Old
@@ -5646,6 +5672,10 @@ English,Paradise
 Ancient Greek,Paradise
 Latin,Paradise
 Proto-Iranian,Paradise
+English,Pardon
+Old French,Pardon
+Middle English,Pardon
+Late Latin,Pardon
 English,Park
 Latin,Park
 Frankish,Park
@@ -7668,6 +7698,15 @@ Proto-Germanic,Strange
 Middle English,Strange
 Anglo-Norman,Strange
 Old Latin,Strange
+English,Street
+Proto-Indo-European,Street
+Latin,Street
+Proto-Italic,Street
+Ancient Greek,Street
+Old English,Street
+Middle English,Street
+Proto-Celtic,Street
+Proto-West Germanic,Street
 English,Streetlight
 Latin,Streetlight
 Proto-Indo-European,Streetlight
@@ -8363,6 +8402,12 @@ Ancient Greek,Treasure
 English,Treasure
 Latin,Treasure
 Old French,Treasure
+Latin,Treat
+English,Treat
+Proto-Indo-European,Treat
+Proto-Italic,Treat
+Middle English,Treat
+Old French,Treat
 English,Treated
 Latin,Treating
 English,Treating
@@ -9200,6 +9245,6 @@ Old English,Yours
 Proto-West Germanic,Yours
 Late Latin,Yours
 English,Yourself
-English,Zanzibar
-Persian,Zanzibar
 Middle Persian,Zanziba
+English,Zanzibar
+Persian,Zanziba
