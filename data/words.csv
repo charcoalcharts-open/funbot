@@ -2450,6 +2450,13 @@ Proto-Indo-European,Each
 Proto-Germanic,Each
 Middle English,Each
 Old English,Each
+English,Ear
+Proto-Germanic,Ear
+Old English,Ear
+Proto-Indo-European,Ear
+Middle English,Ear
+Proto-West Germanic,Ear
+Old High German,Ear
 English,Earlier
 Proto-Indo-European,Earlier
 Old English,Earlier
@@ -2872,6 +2879,11 @@ Proto-Germanic,Fingers
 Old English,Fingers
 Middle English,Fingers
 Proto-West Germanic,Fingers
+English,Finish
+Proto-Indo-European,Finish
+Old French,Finish
+Middle English,Finish
+Latin,Finish
 English,Finn
 English,Fire
 Proto-Indo-European,Fire
@@ -4437,6 +4449,9 @@ Proto-Indo-European,Lazy
 English,Lazy
 Proto-Germanic,Lazy
 Middle Low German,Lazy
+English,Lead
+Old English,Lead
+Middle English,Lead
 English,Leap
 Proto-Indo-European,Leap
 Old English,Leap
@@ -6324,6 +6339,33 @@ Latin,Reason
 Proto-Italic,Reason
 Anglo-Norman,Reason
 Middle English,Reason
+Latin,Recognize
+Proto-Indo-European,Recognize
+English,Recognize
+Proto-Italic,Recognize
+Ancient Greek,Recognize
+Middle Dutch,Recognize
+Russian,Recognize
+Phoenician,Recognize
+French,Recognize
+Middle French,Recognize
+Proto-Germanic,Recognize
+Old French,Recognize
+Middle English,Recognize
+Proto-Slavic,Recognize
+Etruscan,Recognize
+Old Latin,Recognize
+German,Recognize
+Old Church Slavonic,Recognize
+Proto-West Germanic,Recognize
+Ukrainian,Recognize
+Late Latin,Recognize
+Old High German,Recognize
+Middle High German,Recognize
+Sicilian,Recognize
+Indo-European,Recognize
+Vulgar Latin,Recognize
+Egyptian,Recognize
 English,Red
 Proto-Indo-European,Red
 Proto-Germanic,Red
@@ -7113,6 +7155,10 @@ English,Should
 Proto-Germanic,Should
 Middle English,Should
 Old English,Should
+English,Shoulder
+Middle English,Shoulder
+Old English,Shoulder
+Proto-West Germanic,Shoulder
 English,Shout
 Middle English,Shout
 English,Shouted
@@ -8951,6 +8997,11 @@ Middle Irish,Whiskey
 Old English,Whisper
 Proto-Germanic,Whisper
 English,Whispered
+English,Whispering
+Proto-Indo-European,Whispering
+Middle English,Whispering
+Old English,Whispering
+Proto-Germanic,Whispering
 English,Whispers
 Proto-Indo-European,Whispers
 Proto-Germanic,Whispers
@@ -9246,5 +9297,5 @@ Proto-West Germanic,Yours
 Late Latin,Yours
 English,Yourself
 Middle Persian,Zanziba
-English,Zanzibar
 Persian,Zanziba
+English,Zanziba
