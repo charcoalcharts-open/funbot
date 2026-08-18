@@ -47,6 +47,18 @@ Proto-Indo-European,Advice
 Proto-Italic,Advice
 Old French,Advice
 Middle English,Advice
+Latin,Affection
+English,Affection
+Ancient Greek,Affection
+Proto-Indo-European,Affection
+Proto-Italic,Affection
+Polish,Affection
+French,Affection
+Spanish,Affection
+Italian,Affection
+Old French,Affection
+Middle English,Affection
+Indo-European,Affection
 English,Afford
 Proto-Indo-European,Afford
 Old English,Afford
@@ -1733,6 +1745,29 @@ Medieval Latin,Control
 English,Conversation
 French,Conversation
 Latin,Conversation
+Proto-Indo-European,Convey
+Latin,Convey
+English,Convey
+Proto-Italic,Convey
+Ancient Greek,Convey
+Middle Dutch,Convey
+Russian,Convey
+Phoenician,Convey
+Proto-Germanic,Convey
+Old French,Convey
+Etruscan,Convey
+Old Latin,Convey
+Anglo-Norman,Convey
+Middle English,Convey
+German,Convey
+Old Church Slavonic,Convey
+Proto-West Germanic,Convey
+Vulgar Latin,Convey
+Old High German,Convey
+Middle High German,Convey
+Sicilian,Convey
+Indo-European,Convey
+Egyptian,Convey
 English,Convinced
 Proto-Indo-European,Convinced
 Middle English,Convinced
@@ -2183,6 +2218,20 @@ Middle English,Different
 English,Dimes
 Ancient Greek,Dimes
 Proto-Indo-European,Dimes
+Arabic,Direction
+English,Direction
+Latin,Direction
+Ancient Greek,Direction
+Proto-Indo-European,Direction
+French,Direction
+Proto-Italic,Direction
+German,Direction
+Old French,Direction
+Aramaic,Direction
+Andalusian Arabic,Direction
+New Latin,Direction
+Akkadian,Direction
+Middle English,Direction
 English,Dirt
 Proto-Indo-European,Dirt
 Proto-Germanic,Dirt
@@ -2525,6 +2574,7 @@ Proto-Germanic,Eighteen
 Middle English,Eighteen
 English,Eileen
 English,Electrified
+English,Electrifying
 Proto-Germanic,Else
 Old English,Else
 Proto-West Germanic,Else
@@ -4077,6 +4127,8 @@ English,Incline
 Proto-Italic,Incline
 Old Latin,Incline
 Old French,Incline
+English,Indeed
+Middle English,Indeed
 Ancient Greek,Ink
 English,Ink
 Latin,Ink
@@ -4242,6 +4294,7 @@ Sanskrit,Jungle
 Hindi,Jungle
 Latin,Just
 Proto-Italic,Just
+English,Justified
 English,Keep
 Proto-Germanic,Keep
 Middle English,Keep
@@ -4963,6 +5016,10 @@ Proto-Germanic,Means
 Middle English,Means
 Old English,Means
 English,Meant
+Proto-Indo-European,Meditate
+Latin,Meditate
+English,Meditate
+Proto-Italic,Meditate
 Proto-Indo-European,Meditation
 Latin,Meditation
 English,Meditation
@@ -5232,6 +5289,19 @@ Old English,Much
 Proto-Germanic,Much
 Old Norse,Much
 Middle English,Much
+English,Multiplying
+Latin,Multiplying
+Proto-Indo-European,Multiplying
+French,Multiplying
+Middle French,Multiplying
+Proto-Italic,Multiplying
+Middle English,Multiplying
+Old English,Multiplying
+Proto-Germanic,Multiplying
+Old French,Multiplying
+Chichewa,Multiplying
+Proto-West Germanic,Multiplying
+Anglo-Norman,Multiplying
 English,Mundane
 Latin,Mundane
 Proto-Indo-European,Mundane
@@ -6873,6 +6943,17 @@ Ancient Greek,Satan
 Latin,Satan
 Hebrew,Satan
 Middle English,Satan
+English,Satisfied
+Latin,Satisfied
+Proto-Indo-European,Satisfied
+French,Satisfied
+Polish,Satisfied
+Proto-Italic,Satisfied
+Middle French,Satisfied
+Old French,Satisfied
+Middle English,Satisfied
+Old English,Satisfied
+Indo-European,Satisfied
 Latin,Save
 English,Save
 Proto-Indo-European,Save
@@ -7110,6 +7191,11 @@ Proto-Germanic,Shaky
 Old English,Shaky
 Old French,Shaky
 Proto-Germanic,Shame
+English,Shape
+Middle English,Shape
+Old English,Shape
+Proto-Germanic,Shape
+Proto-West Germanic,Shape
 Proto-Indo-European,Share
 English,Share
 Proto-Germanic,Share
@@ -7211,6 +7297,12 @@ English,Shut
 Proto-Indo-European,Shut
 Proto-Germanic,Shut
 Old English,Shut
+English,Shy
+Middle English,Shy
+Old English,Shy
+Proto-Germanic,Shy
+Proto-West Germanic,Shy
+Proto-Indo-European,Shy
 English,Shying
 Old English,Shying
 Middle English,Shying
@@ -9346,4 +9438,4 @@ Late Latin,Yours
 English,Yourself
 Middle Persian,Zanzi
 Persian,Zanzi
-English,Zanzi
+English,Zanz
