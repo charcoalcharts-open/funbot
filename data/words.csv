@@ -170,6 +170,18 @@ Proto-Italic,Amen
 Biblical Hebrew,Amen
 Old French,Amen
 Middle English,Amen
+English,American
+Proto-Indo-European,American
+Latin,American
+Proto-Celtic,American
+Japanese,American
+Proto-Germanic,American
+Old Norse,American
+Proto-Norse,American
+Old English,American
+New Latin,American
+Middle English,American
+Italian,American
 English,Amplified
 English,An
 Proto-Indo-European,An
@@ -2173,6 +2185,10 @@ Proto-Germanic,Deep
 Old English,Deep
 Middle English,Deep
 English,Defeated
+English,Defend
+Latin,Defend
+Middle English,Defend
+Old French,Defend
 English,Defying
 Latin,Degrees
 English,Degrees
@@ -2230,6 +2246,12 @@ Latin,Destruction
 Proto-Indo-European,Destruction
 Proto-Italic,Destruction
 Old French,Destruction
+Latin,Detroit
+Ancient Greek,Detroit
+Proto-Indo-European,Detroit
+French,Detroit
+English,Detroit
+Proto-Italic,Detroit
 Ancient Greek,Devil
 English,Devil
 Proto-Indo-European,Devil
@@ -2379,6 +2401,11 @@ Frankish,Dope
 English,Double
 Latin,Double
 Old French,Double
+English,Doubt
+Old French,Doubt
+Latin,Doubt
+Middle English,Doubt
+Indo-European,Doubt
 English,Doubts
 Proto-Indo-European,Doubts
 Latin,Doubts
@@ -3075,6 +3102,12 @@ Proto-Indo-European,Fizzles
 Proto-Germanic,Fizzles
 Old English,Fizzles
 Middle English,Fizzles
+English,Flag
+Proto-Indo-European,Flag
+Proto-Germanic,Flag
+German,Flag
+Middle English,Flag
+Middle High German,Flag
 English,Flames
 Proto-Indo-European,Flames
 Latin,Flames
@@ -3417,6 +3450,9 @@ Proto-Indo-European,Glad
 English,Glad
 Old English,Glad
 Proto-Germanic,Glad
+English,Gladly
+Middle English,Gladly
+Old English,Gladly
 Proto-Indo-European,Glass
 English,Glass
 Old English,Glass
@@ -3938,6 +3974,20 @@ English,Hill
 Proto-Indo-European,Hill
 Old English,Hill
 Proto-Germanic,Hill
+Proto-Indo-European,Hills
+English,Hills
+Latin,Hills
+Albanian,Hills
+Proto-Germanic,Hills
+Old English,Hills
+Middle English,Hills
+Proto-Italic,Hills
+Ancient Greek,Hills
+Medieval Latin,Hills
+Late Latin,Hills
+Proto-West Germanic,Hills
+Classical Latin,Hills
+Germanic,Hills
 English,Him
 Proto-Germanic,Him
 Middle English,Him
@@ -4171,6 +4221,7 @@ Proto-Germanic,House
 Old English,House
 Middle English,House
 Proto-West Germanic,House
+English,Houston
 English,How
 Proto-Indo-European,How
 Middle English,How
@@ -4609,6 +4660,41 @@ Middle English,Lady
 Proto-West Germanic,Lady
 English,Lah
 Latin,Lah
+English,Lakes
+Ancient Greek,Lakes
+Proto-Indo-European,Lakes
+Sanskrit,Lakes
+Latin,Lakes
+Norwegian,Lakes
+Hungarian,Lakes
+Urdu,Lakes
+Swedish,Lakes
+Middle Welsh,Lakes
+French,Lakes
+Proto-Malayo-Polynesian,Lakes
+Finnish,Lakes
+Proto-Germanic,Lakes
+Old English,Lakes
+Old Norse,Lakes
+Middle English,Lakes
+German,Lakes
+Proto-Uralic,Lakes
+Hindi,Lakes
+Persian,Lakes
+Proto-Italic,Lakes
+Maharastri Prakrit,Lakes
+Proto-Indo-Aryan,Lakes
+Proto-Indo-Iranian,Lakes
+Proto-West Germanic,Lakes
+Albanian,Lakes
+Omani Arabic,Lakes
+Late Latin,Lakes
+Medieval Latin,Lakes
+Classical Latin,Lakes
+Germanic,Lakes
+Middle French,Lakes
+Proto-Hellenic,Lakes
+Classical Malay,Lakes
 English,Land
 Proto-Indo-European,Land
 Old English,Land
@@ -5300,6 +5386,8 @@ English,Miner
 Latin,Mini
 English,Mini
 Italian,Mini
+English,Minnesota
+Lakota,Minnesota
 English,Minute
 Latin,Minute
 Proto-Indo-European,Minute
@@ -6231,6 +6319,8 @@ Ancient Greek,Place
 Latin,Place
 Old French,Place
 Old English,Place
+English,Plains
+Middle English,Plains
 Latin,Plane
 English,Plane
 Proto-Indo-European,Plane
@@ -6446,6 +6536,14 @@ French,Price
 German,Price
 Old French,Price
 Middle English,Price
+Proto-Indo-European,Pride
+English,Pride
+Latin,Pride
+Old English,Pride
+Middle English,Pride
+Old French,Pride
+Late Latin,Pride
+Proto-Italic,Pride
 Latin,Priest
 Proto-Indo-European,Priest
 Ancient Greek,Priest
@@ -7078,6 +7176,14 @@ Old French,Rust
 Proto-Germanic,Rust
 Middle English,Rust
 Old English,Rust
+English,S
+Proto-Indo-European,S
+Proto-Germanic,S
+Old English,S
+Middle English,S
+Proto-West Germanic,S
+Indo-European,S
+Germanic,S
 Latin,Sacrifice
 Proto-Indo-European,Sacrifice
 English,Sacrifice
@@ -7476,6 +7582,12 @@ Old English,Shines
 Proto-Germanic,Shines
 Middle English,Shines
 Proto-West Germanic,Shines
+English,Shining
+Old English,Shining
+Proto-Germanic,Shining
+Middle English,Shining
+Proto-Indo-European,Shining
+Proto-West Germanic,Shining
 English,Shirt
 Proto-Germanic,Shirt
 Middle English,Shirt
@@ -9021,6 +9133,10 @@ English,Typical
 Latin,Typical
 Irish,Tyrone
 English,Tyrone
+English,U
+Old English,U
+Middle English,U
+Proto-West Germanic,U
 English,Uh
 English,Uk
 Russian,Uk
@@ -9508,6 +9624,12 @@ English,Wiener
 German,Wiener
 Proto-Germanic,Wiener
 Proto-West Germanic,Wiener
+English,Wife
+Proto-Germanic,Wife
+Old English,Wife
+Middle English,Wife
+Proto-Indo-European,Wife
+Proto-West Germanic,Wife
 Proto-Indo-European,Wild
 English,Wild
 Proto-Germanic,Wild
@@ -9753,6 +9875,6 @@ Old English,Yours
 Proto-West Germanic,Yours
 Late Latin,Yours
 English,Yourself
-English,Za
-Persian,Za
 Middle Persian,Z
+English,Za
+Persian,Z
