@@ -1769,6 +1769,28 @@ English,Concern
 Proto-Indo-European,Concern
 Proto-Italic,Concern
 Medieval Latin,Concern
+Proto-Indo-European,Confused
+English,Confused
+Latin,Confused
+Anglo-Norman,Confused
+Proto-Italic,Confused
+Ancient Greek,Confused
+Middle Dutch,Confused
+Russian,Confused
+Phoenician,Confused
+Proto-Germanic,Confused
+Etruscan,Confused
+Middle English,Confused
+Old Latin,Confused
+German,Confused
+Old Church Slavonic,Confused
+Proto-West Germanic,Confused
+Old High German,Confused
+Middle High German,Confused
+Sicilian,Confused
+Indo-European,Confused
+Vulgar Latin,Confused
+Egyptian,Confused
 Latin,Conscience
 English,Conscience
 Ancient Greek,Conscience
@@ -1888,6 +1910,7 @@ Proto-Indo-European,Count
 Proto-Italic,Count
 Old French,Count
 Anglo-Norman,Count
+English,Counting
 English,Countries
 Latin,Countries
 Proto-Indo-European,Countries
@@ -3798,6 +3821,13 @@ Old English,Harder
 Proto-West Germanic,Harder
 English,Harlem
 Dutch,Harlem
+English,Harmony
+Latin,Harmony
+Proto-Indo-European,Harmony
+Ancient Greek,Harmony
+Old French,Harmony
+Middle English,Harmony
+Proto-Hellenic,Harmony
 English,Has
 English,Hat
 Proto-Indo-European,Hat
@@ -5281,6 +5311,13 @@ Old English,Meet
 Middle English,Meet
 Proto-West Germanic,Meet
 English,Mekhi
+Ancient Greek,Melody
+English,Melody
+Proto-Indo-European,Melody
+Old French,Melody
+Middle English,Melody
+Latin,Melody
+Proto-Hellenic,Melody
 Old English,Melt
 Proto-Germanic,Melt
 Middle English,Melt
@@ -6883,6 +6920,12 @@ Ancient Greek,Rhapsody
 English,Rhapsody
 Proto-Indo-European,Rhapsody
 Proto-Hellenic,Rhapsody
+Proto-Indo-European,Rhyme
+English,Rhyme
+Proto-Germanic,Rhyme
+Middle English,Rhyme
+Old English,Rhyme
+Proto-West Germanic,Rhyme
 Proto-Indo-European,Rhyming
 English,Rhyming
 Ancient Greek,Rhyming
@@ -7976,6 +8019,11 @@ Middle English,Soon
 Old English,Soon
 Proto-West Germanic,Soon
 English,Sooner
+English,Soothe
+Proto-Germanic,Soothe
+Proto-Indo-European,Soothe
+Middle English,Soothe
+Old English,Soothe
 English,Sorrow
 Proto-Indo-European,Sorrow
 Middle English,Sorrow
@@ -8627,6 +8675,11 @@ English,Thank
 Proto-Indo-European,Thank
 Proto-Germanic,Thank
 Old English,Thank
+English,Thanks
+Proto-Indo-European,Thanks
+Proto-Germanic,Thanks
+Middle English,Thanks
+Old English,Thanks
 Proto-Germanic,That
 Old English,That
 Middle English,That
@@ -9178,6 +9231,8 @@ Proto-Italic,Union
 Old French,Union
 Old Latin,Union
 Late Latin,Union
+English,Unkind
+Middle English,Unkind
 English,Unknown
 Proto-Indo-European,Unknown
 Middle English,Unknown
@@ -9387,6 +9442,9 @@ Proto-Germanic,Waste
 Middle English,Waste
 Old Northern French,Waste
 Old French,Waste
+English,Wasting
+Middle English,Wasting
+Old Northern French,Wasting
 Proto-Indo-European,Watch
 English,Watch
 Proto-Germanic,Watch
@@ -9876,5 +9934,5 @@ Proto-West Germanic,Yours
 Late Latin,Yours
 English,Yourself
 Middle Persian,Z
-English,Za
 Persian,Z
+English,Z
