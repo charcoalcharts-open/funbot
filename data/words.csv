@@ -1,4 +1,5 @@
 lang,word
+Old Portugues,
 English,00
 English,1
 English,10
@@ -15717,6 +15718,7 @@ Proto-West Germanic,Blanks
 Old High German,Blanks
 Middle High German,Blanks
 Late Latin,Blanks
+English,Blaow
 English,Blase
 Proto-Indo-European,Blase
 French,Blase
@@ -17089,6 +17091,7 @@ Spanish,Booble
 Old French,Booble
 Chichewa,Booble
 Proto-West Germanic,Booble
+English,Booed
 English,Boogie
 Proto-Indo-European,Book
 English,Book
@@ -131692,6 +131695,8 @@ German,Schiller
 Proto-Germanic,Schiller
 Middle High German,Schiller
 Old High German,Schiller
+English,Schmoe
+German,Schmoe
 English,Schoen
 English,Scholar
 Latin,Scholar
@@ -171270,8 +171275,4 @@ Ancient Greek,Zy
 Latin,Zy
 Proto-Italic,Zy
 French,Zy
-Italian,Zy
-Old French,Zy
-Portuguese,Zy
-Spanish,Zy
-Old Portugues
+Italian,Z
