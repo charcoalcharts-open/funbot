@@ -23,6 +23,7 @@ Chichewa,
 Burmes,
 Engli,
 E,
+Italian,
 English,00
 English,1
 English,10
@@ -19893,6 +19894,15 @@ English,Budding
 Middle English,Budding
 Proto-Germanic,Budding
 Old English,Budding
+English,Buddy
+Proto-Indo-European,Buddy
+Middle English,Buddy
+Proto-Germanic,Buddy
+Old English,Buddy
+Old French,Buddy
+Chichewa,Buddy
+Latin,Buddy
+Proto-West Germanic,Buddy
 Proto-Indo-European,Budge
 Latin,Budge
 English,Budge
@@ -100322,6 +100332,15 @@ Spanish,Mosque
 Middle French,Mosque
 Medieval Latin,Mosque
 Aramaic,Mosque
+English,Mosquito
+Latin,Mosquito
+Ancient Greek,Mosquito
+Proto-Indo-European,Mosquito
+Old Spanish,Mosquito
+Proto-Italic,Mosquito
+Spanish,Mosquito
+Late Latin,Mosquito
+Indo-European,Mosquito
 English,Mosquitoes
 English,Moss
 Proto-Indo-European,Moss
@@ -128597,6 +128616,13 @@ Proto-West Germanic,Roosevelt
 Proto-Iranian,Roosevelt
 Middle French,Roosevelt
 English,Roosted
+English,Rooster
+Frankish,Rooster
+Old French,Rooster
+Proto-Germanic,Rooster
+Middle English,Rooster
+Old English,Rooster
+Proto-Indo-European,Rooster
 English,Root
 Proto-Indo-European,Root
 Latin,Root
@@ -171236,7 +171262,4 @@ Proto-Germanic,Yr
 Old Norse,Yr
 Proto-Indo-European,Yr
 English,Yukon
-Gwich'in,Yukon
-Middle Persian,Z
-Old Portuguese,Z
-Italian
+Gwich'in
